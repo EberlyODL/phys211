@@ -2,6 +2,6 @@
 
 -Herbert Butterfield – The Origins of Modern Science. 
 
-In phys 211, we will tackle the subject of motion starting with kinematics and Newtonian Dynamics. Our understanding of motion had led to remarkable breakthrough in our understanding of our Universe. 
+In Phys 211, we will tackle the subject of motion starting with kinematics and Newtonian Dynamics. Our understanding of motion had led to remarkable breakthroughs in our understanding of our Universe. 
 
 For example, 
