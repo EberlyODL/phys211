@@ -2,6 +2,8 @@
 
 * [Lessons](README.md)
   * [Week 1](week-1.md)
+    * Motion
     * [Instructor](week-1/instructor.md)
-* [First Chapter](chapter1.md)
+    * The big picture
+* End of book
 
