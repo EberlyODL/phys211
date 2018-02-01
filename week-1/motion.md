@@ -1,4 +1,4 @@
-The primary source of information for this course is the textbook. Here we will have a short guide on what to pay particular attention to when you read the textbook. 
+
 
 # Chap 1. Concepts of Motion
 
