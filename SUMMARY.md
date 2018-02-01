@@ -7,6 +7,7 @@
     * [Reading the textbook](week-1/reading-the-textbook.md)
     * [Representing the motion of the rocket car](week-1/representing-the-motion-of-the-rocket-car.md)
     * [Check your understanding!](week-1/check-your-understanding.md)
+    * Week 1B- Learning to Learn and 1D kinematics
 * [Motion](week-1/motion.md)
 * End of book
 
