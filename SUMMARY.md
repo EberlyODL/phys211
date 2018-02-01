@@ -6,6 +6,7 @@
     * [The big picture](week-1/the-big-picture.md)
     * [Reading the textbook](week-1/reading-the-textbook.md)
     * [Representing the motion of the rocket car](week-1/representing-the-motion-of-the-rocket-car.md)
+    * [Check your understanding!](week-1/check-your-understanding.md)
 * [Motion](week-1/motion.md)
 * End of book
 
