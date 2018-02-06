@@ -16,6 +16,7 @@ Everything you need each week can always be found on the homepage on Canvas. The
 The summer version of course take a 15 weeks semester and make it into a 8 weeks semester. Every week will have two weeks worth of material 
 
 To keep track we have the following notation 
+
 * Week 1A: from Tuesday to Thursday (T-R)
 * Week 1B: from Friday to Sunday (F-Sun)
 * Monday off!
