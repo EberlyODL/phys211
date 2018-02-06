@@ -5,7 +5,7 @@ There are no good reasons for me to rewrite some part or say it aloud in a video
 
 While reading the textbook, pay close attention to 
 
-* **Model**. They are listed on the front cover page, for example the first model is uniform motion on page 35
+* **Model**: They are listed on the front cover page, for example the first model is uniform motion on page 35
 * **Problem-solving strategy**: again listed on the front cover page
 * **Tactics Box**: Short summary of important skills to master.  
 * **Stop to think**: Short questions to test you understanding, do them! The answers are at the end of the book. 
