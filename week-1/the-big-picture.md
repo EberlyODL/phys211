@@ -8,7 +8,7 @@ In Phys 211, we will tackle the subject of motion starting with kinematics and N
 
 Below is the gravitational wave chirp we heard a few years ago when two black holes collided. Ripples in space and time from that collision were detected here on Earth. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4198|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
+[ciscode|rev=1|tool=elmsmedia|item=4198|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 This was as predicted by Einstein's theory of general relativity, our most precise theory of motion on large cosmological scales. 
 
@@ -16,7 +16,7 @@ This was as predicted by Einstein's theory of general relativity, our most preci
 
 This video from NASA mentions almost every single concept that you will learn in Phys 211 this year. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4197|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
+[ciscode|rev=1|tool=elmsmedia|item=4197|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ### 3.  Finally, Phys 211 is about physics in our daily life event. 
 
