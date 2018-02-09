@@ -1,5 +1,8 @@
-### Beyond memorizing...
+### Cognitive Science. 
 
+Bloom's taxanomy is a famous way to think 
+
+[ciscode|rev=1|tool=elmsmedia|item=4214|entity_type=node|render=display_mode|display_mode=image]
 
 Please answer the following questions. 
 
