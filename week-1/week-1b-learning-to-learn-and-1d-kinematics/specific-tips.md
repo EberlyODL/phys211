@@ -20,9 +20,13 @@ Unfortunately, you cannot read your physics textbook like would you read Harry P
     
 ### Intense Study Cycle. 
 
-Now you have read and you have doing the reading quiz. Its now time to study for the weekly quiz or the exam. 
+Now you have read and you did the reading quiz.  You have done other practice questions at the end of the book. Its now time to study for the weekly quiz or the exam. 
 
 Studying does not have to be long, it just has to be intense and on task (no TV, no music!). 
 
+|Steps|Time|Activity|
+|---|---|---|
 |Set a goal| 1-2 min| Decide what you want to accomplish in your study session|
-|
+|Study with focus|30-50 min| Interact with material: elaborate, compare, organize, summarize|
+|Reward yourself| 10-15 min| Take a break, call/text a friend, play a short game, eat a snack|
+|Review| 5 min| Go over what you just studied
