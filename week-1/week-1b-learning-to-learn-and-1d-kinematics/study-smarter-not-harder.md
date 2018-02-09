@@ -16,15 +16,13 @@ From Wikipedia again, here is a definition of "cognition" by Ulric Neisser
 
 Note that while computer science has had an impact on cognitive psychology, the reverse is also true. Machine Learning and Deep Neural Networks have revolutionized what computer can do. Here is a free book on the subject for the curious!<a target = "_blank" href="http://neuralnetworksanddeeplearning.com/index.html"> Neural Networks and Deep Learning</a> 
 
-Learning is very much part of cognition. So what have learned about cognition that can improve soldier performance on the field or student's ability to learn. Quite a bit actually!
+Learning is very much part of cognition. So what have we learned about cognition that can improve soldier performance on the field or student's ability to learn. Quite a bit actually!
 
 ## Bloom's taxanomy 
 
-Bloom's taxanomy is a famous way to organize cognitive knowledge in a hierarchy. Look at the image below carefully.  
+Bloom's taxonomy is a famous way to organize cognitive knowledge in a hierarchy of different level of learning. Look at the image below carefully and answer the questions that follow. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4214|entity_type=node|render=display_mode|display_mode=image]
-
-Please answer the following questions. 
+[ciscode|rev=1|tool=elmsmedia|item=4214|entity_type=node|render=display_mode|display_mode=image] 
 
 [ciscode|rev=1|tool=elmsmedia|item=4204|entity_type=node|render=display_mode|display_mode=h5p__card]
 
