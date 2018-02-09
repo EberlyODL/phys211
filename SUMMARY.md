@@ -8,6 +8,7 @@
     * [Representing the motion of the rocket car](week-1/representing-the-motion-of-the-rocket-car.md)
     * [Check your understanding!](week-1/check-your-understanding.md)
   * [Week 1B- 1D kinematics](week-1/week-1b-learning-to-learn-and-1d-kinematics.md)
-    * [Study Smarter... not harder...](week-1/week-1b-learning-to-learn-and-1d-kinematics/learning-to-learn.md)
+    * [Success and Failure](week-1/week-1b-learning-to-learn-and-1d-kinematics/learning-to-learn.md)
+    * [Study Smarter not Harder](week-1/week-1b-learning-to-learn-and-1d-kinematics/study-smarter-not-harder.md)
 * End of book
 
