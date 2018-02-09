@@ -1,6 +1,10 @@
 ### Stephen's Chew
 
-Stephen Chew is a cognitive psychologist at Samford University in Alabama. He has made of series of videos on 
+Stephen Chew is a cognitive psychologist at Samford University in Alabama. He has made a series of videos (6 total) on how to study smart not hard. These videos have been seen by millions and Professor Chew was named US national professor of the year in 2015. 
+
+I strongly recommend watching those videos. You do not need to watch them all in one sitting and the material in those videos is not all covered in the exams but I have seen tremendous
+
+There are very good and while the content is not material that I will ask question about
 
 
 [ciscode|rev=1|tool=elmsmedia|item=4213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
