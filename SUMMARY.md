@@ -11,6 +11,7 @@
     * [Success and Failure](week-1/week-1b-learning-to-learn-and-1d-kinematics/learning-to-learn.md)
     * [Cognitive Psychology](week-1/week-1b-learning-to-learn-and-1d-kinematics/study-smarter-not-harder.md)
     * [Metacognition and the the Study Cycle](week-1/week-1b-learning-to-learn-and-1d-kinematics/metacognition-and-the-the-study-cycle.md)
+    * [Specific Tips](week-1/week-1b-learning-to-learn-and-1d-kinematics/specific-tips.md)
     * [Study Smarter not Harder](week-1/week-1b-learning-to-learn-and-1d-kinematics/study-smart-not-harder.md)
 * End of book
 
