@@ -14,6 +14,11 @@ From Wikipedia, here is a definition of "cognition" by Ulric Neisser
 
 >The term "cognition" refers to all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.
 
+Note that while computer science has had an impact on cognitive psychology, the reverse is also true, 
+
+<a target = "_blank" href="http://neuralnetworksanddeeplearning.com/index.html> Neural Networks and Deep Learning</a> 
+
+
 Learning is very much part of cognition. So what have learned about cognition that can improve soldier performance on the field or student's ability to learn. Quite a bit actually!
 
 ## Bloom's taxanomy 
