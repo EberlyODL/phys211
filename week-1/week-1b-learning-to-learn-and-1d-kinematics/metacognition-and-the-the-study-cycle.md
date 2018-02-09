@@ -6,11 +6,11 @@ How we move up the Bloom's pyramid? How do we go beyond memorization of facts an
 
 Metacognition is like having your brain looking from the outside at your own brain. Its the ability to think about one's own thinking.
 
-Novice in a field tend to be overconfident on their mastery of the material. This is known as the Dunning-Kruger effect. * I have seen this so many times. 
+Novice in a field tend to be overconfident on their mastery of the material. This is known as the Dunning-Kruger effect. * I have seen this so many times! 
 
 [ciscode|rev=1|tool=elmsmedia|item=4215|entity_type=node|render=display_mode|display_mode=image__left]
 
-To be successfull student, you need to think about your own thinking by doing the following
+To be a successful student, you need to think about your own thinking, here is a good process to remember. 
 
 * **Assess**: You need to assess the task. What is required of you, what is the level of skills that will be needed. Is remembering enough or will you need to apply and analyze?
 * **Evaluate**: Figure out your strengths and weaknesses. What do you already have? What are you missing?
@@ -22,3 +22,15 @@ To be successfull student, you need to think about your own thinking by doing th
 
 ### Shallow versus Deep Learning
 
+Which of the following is the MOST important ingredient for successful learning? 
+
+1.  The intention and desire to learn 
+2.  Paying close atenttion to the material as you 
+study 
+3.  Learning in a way that matches your  personal Learning Style? 
+4.  The time you spend studying 
+5.  What you think about while studying 
+
+Here is a cognitive experiment. 24 words are read, some of the participants are told to make a mental note if the word contain an E or a G. Others are told to make a mental note if they find the word pleasant or unpleasant. After the 24 words are read, each group has to recall as many words as they can. They all paid attention, they all tried hard but because of the instructions the participants were force to do shallow or deep processing of the words. 
+
+  
