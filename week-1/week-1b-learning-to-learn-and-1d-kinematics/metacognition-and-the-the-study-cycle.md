@@ -43,5 +43,11 @@ What you were thinking when studying completely change how much you learn. You i
 
 ### How to achieve deep Processing. 
 
+Just reading with music on or doing problem quickly or googling is shallow processing and mostly a waste of your time. It is better to spend less time but actually use that time to really process the information.
+
 As you study, follow these principles
-* Elaboration 
+* **Elaboration**: How does this concept relate to other concepts?
+* ** Distinctiveness**: How is this concept different from other concepts. 
+* ** Personal**: How can I relate this to my personal experience? Stop yourself and think about that. 
+* **Appropriate to retrieval and application**: Ask yourself what you are expected to be able to do with the information. 
+
