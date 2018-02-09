@@ -18,5 +18,7 @@ To be successfull student, you need to think about your own thinking by doing th
 * ** Apply** and **Monitor**: Apply strategies (see below) and monitor continuously your performance. 
 * ** Reflect**: Reflect on your performance, restart the cycle, re-assess the talk, evaluate and plan. 
  
+[ciscode|rev=1|tool=elmsmedia|item=4216|entity_type=node|render=display_mode|display_mode=image__right]
 
 ### Shallow versus Deep Learning
+
