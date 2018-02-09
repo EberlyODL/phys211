@@ -13,14 +13,16 @@ Unfortunately, you cannot read your physics textbook like would you read Harry P
     * concept map (see <a target = "_blank" href="https://www.lucidchart.com/pages/concept-map">Concept map explained</a>) 
 
 
-** a sidenote on Learning styles. One of the discovery of cognitive psychology is that learning style do not really exist. Everyone learn in the same way. The strategies outline here are universal. 
+** a side note on learning styles. One of the discovery of cognitive psychology is that learning style do not really exist. Everyone learn in the same way. The strategies I discuss in these pages are universal. 
 <a target = "_blank" href="https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html">Learning style debunked</a>
 
-    
+### Doing reading quiz, tutorial and quiz for real
+
+The book is there for you to learn the material but it is not a cane. When you are actually solving problems, it is best to actually close the book and try on your own.  Use the formulae sheet but close the book. It is ok (and good) to struggle on a question for a while, try different methods. Do not be too quick on the draw to get your book or (worse) google. Struggle, try various things. Maybe contact me or your peers. Eventually, look back at examples in book. 
     
 ### Intense Study Cycle. 
 
-Now you have read and you did the reading quiz.  You have done other practice questions at the end of the book. Its now time to study for the weekly quiz or the exam. 
+Now you have read the book and you did the reading quiz.  You have done other practice questions at the end of the book. Its now time to study for the weekly quiz or the exam or the tutorial. You should study frequently as you cannot do effective studying all in one day. 
 
 Studying does not have to be long, it just has to be intense and on task (no TV, no music!). 
 
