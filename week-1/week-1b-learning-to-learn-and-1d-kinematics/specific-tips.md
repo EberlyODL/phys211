@@ -10,8 +10,7 @@ Unfortunately, you cannot read your physics textbook like would you read Harry P
 4. Supplement the last 3 points with various activities such as 
     * highlighting 
     * taking notes
-    * concept map (see 
+    * concept map (see <a target = "_blank" href="https://www.lucidchart.com/pages/concept-map">Concept map explained</a>) 
     
     
     
-https://www.lucidchart.com/pages/concept-map
