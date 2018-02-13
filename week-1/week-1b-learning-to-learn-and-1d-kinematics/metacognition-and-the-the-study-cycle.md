@@ -35,7 +35,7 @@ Here is a cognitive experiment. 24 words are read, some of the participants are 
 
 [ciscode|rev=1|tool=elmsmedia|item=4217|entity_type=node|render=display_mode|display_mode=image]
 
-Here are the result of the experiment. 
+Here are the results of the experiment. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4218|entity_type=node|render=display_mode|display_mode=image]
 
