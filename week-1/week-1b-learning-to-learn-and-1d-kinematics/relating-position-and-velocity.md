@@ -29,3 +29,4 @@ Try the following two questions to make sure you are good with this definition.
 
 [ciscode|rev=1|tool=elmsmedia|item=4222|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
+[ciscode|rev=1|tool=elmsmedia|item=4223|entity_type=node|render=display_mode|display_mode=h5p]
