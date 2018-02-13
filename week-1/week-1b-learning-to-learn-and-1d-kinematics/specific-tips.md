@@ -14,6 +14,18 @@ Unfortunately, you cannot read your physics textbook like would you read Harry P
 ** a side note on learning styles. One of the discovery of cognitive psychology is that learning style do not really exist. Everyone learn in the same way. The strategies I discuss in these pages are universal. 
 <a target = "_blank" href="https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html">Learning style debunked</a>
 
+### Doing example problems from the book. 
+
+Do not read example solutions in the book right away. Here is how to do example problems. 
+
+1. First, you read the example question ONLY.
+2. You take a piece of paper and try to solve it, without looking at the solution. 
+3.  You may need to study the material, read the text before the example. Pay particular attention to problem solving strategies or tactic boxes. 
+4. You may need to struggle, abandon one way and try another. This is good. This is learning. 
+4. If you get the answer, compare just the solutions to the one in the book. If its the same, great, now look at what the author did. If its not the same, look back at your process first and try to find where you could have gone wrong. 
+5. If after 2 attempts (say 1/2 hour at least), it does not work look at the solution provided by the author. You will need to try a similar problem again to make sure you can do it without help.  
+
+
 ### Doing reading quiz, tutorial and quiz for real
 
 The book is there for you to learn the material but it is not a cane. When you are actually solving problems, it is best to actually close the book and try on your own.  Use the formulae sheet but close the book. It is ok (and good) to struggle on a question for a while, try different methods. Do not be too quick on the draw to get your book or (worse) google. Struggle, try various things. Maybe contact me or your peers. Eventually, look back at examples in book. 
