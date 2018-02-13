@@ -26,3 +26,6 @@ We have defined the average velocity in the s direction to be the displacement i
 $v_{avg,s} = \frac{\Delta s}{\Delta t}$
 
 Try the following two questions to make sure you are good with this definition. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4222|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+
