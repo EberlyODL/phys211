@@ -19,8 +19,10 @@ Remember from the "How to read the textbook" page, the best way to do examples. 
 
 ## Average vs Instantaneous.
 
-So we are in 1D, using the symbol s to denote either x (horizontal) or y (vertical) motion. 
+So we are in 1D, using the symbol $$s$$ to denote either $$x$$ (horizontal) or $$y$$ (vertical) motion. 
 
-We have defined the average velocity to be 
+We have defined the average velocity in the s direction to be the displacement in the $$s$$ direction $$\Delta s= s_f-s_i$$
  
 $$v_{avg,s} = \frac{\Delta s}{\Delta t}$$
+
+Try the following two questions to make sure you are good with this definition. 
