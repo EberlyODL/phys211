@@ -8,7 +8,7 @@ Now you may say that you already have been reading through the example problems 
 
 Remember from the "How to read the textbook" page, the best way to do examples. Let me repeat it here.
 
-1. First, you read the example question ONLY.
+1. First, you read the example questions ONLY.
 2. You take a piece of paper and try to solve it, without looking at the solution. 
 3.  You may need to study the material, read the text before the example. Pay particular attention to problem solving strategies or tactic boxes. 
 4. You may need to struggle, abandon one way and try another. This is good. This is learning. 
