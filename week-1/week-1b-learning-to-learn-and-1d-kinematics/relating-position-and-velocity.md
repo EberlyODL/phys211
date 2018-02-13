@@ -18,3 +18,9 @@ Remember from the "How to read the textbook" page, the best way to do examples. 
 ** Some might say, but what if when I first read the chapter, I read the example problem. How can I do them for real after that? It most probably does not matter, redo the example problem the next day or even earlier with the method above. Just by reading (or by watching a video online), you do not really assimilate the material so you will forget it anyhow. 
 
 ## Average vs Instantaneous.
+
+So we are in 1D, using the symbol s to denote either x (horizontal) or y (vertical) motion. 
+
+We have defined the average velocity to be 
+ 
+$$v_{avg,s} = \frac{\Delta s}{\Delta t}$$
