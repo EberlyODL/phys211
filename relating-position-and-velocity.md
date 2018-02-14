@@ -22,7 +22,6 @@ Remember from the "How to read the textbook" page, the best way to do examples. 
 
 So we are in 1D, using the symbol $s$ to denote either $x$ (horizontal) or $y$ (vertical) motion. 
 
-
 We have defined the average velocity in the s direction to be the displacement in the $s$ direction $\Delta s= s_f-s_i$
  
 $v_{avg,s} = \frac{\Delta s}{\Delta t}$
