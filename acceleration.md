@@ -6,3 +6,8 @@ An acceleration of $a_y = -10 m/s^2$ means that you velocity increase in the neg
 
 ### Position, Velocity, Acceleration
 
+Almost all of 1 D kinematics can be summarized in the following figure. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4230|entity_type=node|render=display_mode|display_mode=image]
+
+These are the **general** definitions that relates position, velocity and acceleration. 
