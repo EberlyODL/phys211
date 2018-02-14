@@ -2,7 +2,7 @@ Back to the study of motion. This week we study the beginning of kinematics in 1
 
 You can look at my chapter summary for Chap 2.1-2.3 but it very brief and succinct. It is meant to be this way. As in week 1, the notes in this course content are just meant to illustrate and clarify some concepts but the main source content is in the book. 
 
-In particular, I will no do "problem solving videos". Why? Because there are examples in the book and if I do example videos, you may feel you do not need to read the book. Also just listening to an example rarely do any good and may in fact do harm by giving false sense of security. 
+In particular, I will not do "problem solving videos". Why? Because there are examples in the book and if I do example videos, you may feel you do not need to read the book. Also just listening to an example rarely do any good and may in fact do harm by giving false sense of security. 
 
 Now you may say that you already have been reading through the example problems and you want more. Be careful, quantity is not what matter its how you do the example that matter. 
 
