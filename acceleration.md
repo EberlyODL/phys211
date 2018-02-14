@@ -4,4 +4,5 @@ A velocity of $v_x = +10 m/s$ means that you move 10 m to the right x direction 
 
 An acceleration of $a_y = -10 m/s^2$ means that you velocity increase in the negative y direction by 10 m/s every second. If you started with $v_y = 0$, you would have $v_y = -10 m/s$ after 1 second.
 
-### 
+### Position, Velocity, Acceleration
+
