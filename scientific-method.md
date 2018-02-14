@@ -14,6 +14,6 @@ The hypothesis is either rejected (or modified) if it keeps failing or the tests
 
 [ciscode|rev=1|tool=elmsmedia|item=4229|entity_type=node|render=display_mode|display_mode=image]
 
-In this first part of the class, we will do observing experiment. 
+In this first part of the class, we will do observing experiments. 
  
  design experiment to observe phenomena, find patterns, take and analyze data. Which variables to plot? Which variables to keep fixed? 
