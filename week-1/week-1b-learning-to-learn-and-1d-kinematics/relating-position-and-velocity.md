@@ -30,3 +30,13 @@ Try the following two questions to make sure you are good with this definition.
 [ciscode|rev=1|tool=elmsmedia|item=4222|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
 [ciscode|rev=1|tool=elmsmedia|item=4223|entity_type=node|render=display_mode|display_mode=h5p]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
+Questions about average can get tricky when the motion has multiple different parts. You may have to do some work to find the displacement. 
+</lrndesign-sidenote>
+
+### Example
+
+A car moves east at 30mph for 2 hours and then back west at 50mph for 2 hours. What was the average velocity. 
+
+First find the displacement. We moves east 60miles (30 *2) then west 100 miles. So the displacement (final - initial) will be -40 miles. We did that in 4hours so the average velocity is -10mph. 
