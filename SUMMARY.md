@@ -16,6 +16,8 @@
     * [Relating Position and Velocity. ](week-1/week-1b-learning-to-learn-and-1d-kinematics/relating-position-and-velocity.md)
     * [Instantanous Velocity](week-1/week-1b-learning-to-learn-and-1d-kinematics/instantanous-velocity.md)
 * [Week 2A- Scientific Method, Motion with constant Acceleration and Oscillations](week-2a-scientific-method-motion-with-constant-acceleration-and-oscillations.md)
+  * [Acceleration](acceleration.md)
   * [Scientific Method](scientific-method.md)
+  * [The accelerometer](the-accelerometer.md)
 * End of book
 
