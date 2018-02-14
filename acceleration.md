@@ -11,3 +11,5 @@ Almost all of 1 D kinematics can be summarized in the following figure.
 [ciscode|rev=1|tool=elmsmedia|item=4230|entity_type=node|render=display_mode|display_mode=image]
 
 These are the **general** definitions that relates position, velocity and acceleration. 
+
+In the following demonstration, we illustrate an interesting one dimensional motion with placed on a small cart.
