@@ -1,9 +1,9 @@
-### Phys 211 is harder that highschool physics
+### Phys 211 is not an easy course!
 
- * The course goes at a much faster pace. 
- * The material is conceptually more difficult and cumulative.
- * The problems can be more involved. 
- * The tests are less straightforward and will require you to **apply** several concepts at one time. 
+ * The course goes at a fast pace. 
+ * The material is conceptually difficult and cumulative.
+ * The problems can be quite involved. 
+ * The tests are not straightforward and will require you to **apply** several concepts at one time. 
 
 You may have to change the way you learn and the way you work to attain the goals that you have set for yourself. Even if you are well versed in "how to learn", you should remember that even the best athletes have coaches. There is always room for improvement!
 
