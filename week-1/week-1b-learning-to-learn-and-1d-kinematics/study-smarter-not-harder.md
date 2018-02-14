@@ -12,7 +12,9 @@ In combination with biological knowledge of where in the brain certain mental pr
 
 From Wikipedia again, here is a definition of "cognition" by Ulric Neisser
 
->The term "cognition" refers to all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
+The term "cognition" refers to all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.
+</lrndesign-sidenote>
 
 Note that while computer science has had an impact on cognitive psychology, the reverse is also true. Machine Learning and Deep Neural Networks have revolutionized what computer can do. Here is a free book on the subject for the curious!<a target = "_blank" href="http://neuralnetworksanddeeplearning.com/index.html"> Neural Networks and Deep Learning</a> 
 
