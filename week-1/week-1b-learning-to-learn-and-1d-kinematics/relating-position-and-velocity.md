@@ -2,6 +2,7 @@ Back to the study of motion. This week we study the beginning of kinematics in 1
 
 You can look at my chapter summary for Chap 2.1-2.3 but it very brief and succinct. It is meant to be this way. As in week 1, the notes in this course content are just meant to illustrate and clarify some concepts but the main source content is in the book. 
 
+
 In particular, I will not do "problem solving videos". Why? Because there are examples in the book and if I do example videos, you may feel you do not need to read the book. Also just listening to an example rarely do any good and may in fact do harm by giving false sense of security. 
 
 Now you may say that you already have been reading through the example problems and you want more. Be careful, quantity is not what matter its how you do the example that matter. 
@@ -21,9 +22,6 @@ Remember from the "How to read the textbook" page, the best way to do examples. 
 
 So we are in 1D, using the symbol $s$ to denote either $x$ (horizontal) or $y$ (vertical) motion. 
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
-  [content here]
-</lrndesign-sidenote>
 
 We have defined the average velocity in the s direction to be the displacement in the $s$ direction $\Delta s= s_f-s_i$
  
@@ -34,6 +32,11 @@ Try the following two questions to make sure you are good with this definition.
 [ciscode|rev=1|tool=elmsmedia|item=4222|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
 [ciscode|rev=1|tool=elmsmedia|item=4223|entity_type=node|render=display_mode|display_mode=h5p]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
+Questions about average can get tricky when the motion has multiple different parts. You may have to do some work to find the displacement. 
+</lrndesign-sidenote>
+
 
 
 ### Example
