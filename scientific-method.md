@@ -31,4 +31,4 @@ Often scientist have such questions in mind before they start observing. In  thi
 
 1. Is their a statistically significant difference between the acceleration during sliding of the IOLab (on the felt pads) for a small push compared to a big push?
 
-We will soon discuss how to do the "statistically significant" part properly. The following video demonstrate the big versus small push. 
+We will soon discuss how to do the "statistically significant" part properly. The following video demonstrate the big versus small push. Yes this is a very simple experiment!
