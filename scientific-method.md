@@ -21,6 +21,14 @@ The observations can be qualitative but more often we will collect numerical dat
 
 ### Lab 1
 
-Phenomenon to observe.
+**Phenomenon to Observe.**
 
 The acceleration of an object sliding (in 1 dimension) to come to a stop due to a friction.
+
+** Primary Guiding Question**
+
+Often scientist have such questions in mind before they start observing. In  this class, our guiding questions will ensure that we are not straying too far from one another. 
+
+1. Is their a statistically significant difference between the acceleration during sliding of the IOLab (on the felt pads) for a small push compared to a big push?
+
+We will soon discuss how to do the "statistically significant" part properly. The following video demonstrate the big versus small push. 
