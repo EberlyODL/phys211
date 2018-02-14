@@ -12,13 +12,21 @@ Area above the time axis are positive while area below the time axis are negativ
 
 [ciscode|rev=1|tool=elmsmedia|item=4226|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
+The last question contains the most difficult part. You have to remember that the area gives the displacement but the question may be asking for either the initial or final position, not necessarily just the displacement. 
+
 ### Derivatives and Integrals
 
-Almost all position-versus time curves or velocity-versus-time curves can be expressed as functions of time $x(t)$ and $v(t)$. In this course, most of the time, these functions will be a sum of polynomials in time of the form 
+Almost all position-versus time curves or velocity-versus-time curves can be expressed as functions of time $x(t)$ and $v(t)$. In this course these functions will very often be sum of polynomials in time of the form 
 
 $x(t) = a + bt+ ct^2 +d t^3 +....$
 where $a,b,c,d,...$ are constants that could be zero. 
 
+Look at eq. 2.6 and 2.8 in book for how to take derivatives while look at 2.13 and 2.14 for integrals. 
+
 As you will learn in more details in Math 140 - Calculus and as explained in our textbook in more details, the derivative and the integral are what allows us to compute instantaneous slope and areas. Read carefully your book (2.1-2.3) on both and then check your understanding here. 
 
- 
+[ciscode|rev=1|tool=elmsmedia|item=4227|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+
+To do the last one you must use the 
+
+$\Delta x = \int_{t_i}^{t_f} = v_x dt$
