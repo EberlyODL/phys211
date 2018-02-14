@@ -14,5 +14,6 @@
     * [Studying Methods](week-1/week-1b-learning-to-learn-and-1d-kinematics/specific-tips.md)
     * [Study Smarter not Harder](week-1/week-1b-learning-to-learn-and-1d-kinematics/study-smart-not-harder.md)
     * [Relating Position and Velocity. ](week-1/week-1b-learning-to-learn-and-1d-kinematics/relating-position-and-velocity.md)
+    * [Instantanous Velocity](week-1/week-1b-learning-to-learn-and-1d-kinematics/instantanous-velocity.md)
 * End of book
 
