@@ -15,5 +15,7 @@
     * [Study Smarter not Harder](week-1/week-1b-learning-to-learn-and-1d-kinematics/study-smart-not-harder.md)
     * [Relating Position and Velocity. ](week-1/week-1b-learning-to-learn-and-1d-kinematics/relating-position-and-velocity.md)
     * [Instantanous Velocity](week-1/week-1b-learning-to-learn-and-1d-kinematics/instantanous-velocity.md)
+* [Week 2A- Scientific Method, Motion with constant Acceleration and Oscillations](week-2a-scientific-method-motion-with-constant-acceleration-and-oscillations.md)
+* [Scientific Method](scientific-method.md)
 * End of book
 
