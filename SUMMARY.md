@@ -8,7 +8,7 @@
     * [Representing the motion of the rocket car](week-1/representing-the-motion-of-the-rocket-car.md)
     * [Check your understanding!](week-1/check-your-understanding.md)
   * [Week 1B- 1D kinematics](week-1/week-1b-learning-to-learn-and-1d-kinematics.md)
-    * [Success and Failure](week-1/week-1b-learning-to-learn-and-1d-kinematics/learning-to-learn.md)
+    * [Defining Success and Failure](week-1/week-1b-learning-to-learn-and-1d-kinematics/learning-to-learn.md)
     * [Cognitive Psychology](week-1/week-1b-learning-to-learn-and-1d-kinematics/study-smarter-not-harder.md)
     * [Metacognition](week-1/week-1b-learning-to-learn-and-1d-kinematics/metacognition-and-the-the-study-cycle.md)
     * [Studying Methods](week-1/week-1b-learning-to-learn-and-1d-kinematics/specific-tips.md)
@@ -16,6 +16,6 @@
     * [Relating Position and Velocity. ](week-1/week-1b-learning-to-learn-and-1d-kinematics/relating-position-and-velocity.md)
     * [Instantanous Velocity](week-1/week-1b-learning-to-learn-and-1d-kinematics/instantanous-velocity.md)
 * [Week 2A- Scientific Method, Motion with constant Acceleration and Oscillations](week-2a-scientific-method-motion-with-constant-acceleration-and-oscillations.md)
-    * [Scientific Method](scientific-method.md)
+  * [Scientific Method](scientific-method.md)
 * End of book
 
