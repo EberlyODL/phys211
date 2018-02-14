@@ -1,0 +1,1 @@
+The fan cart demonstration is an example of nearly constant acceleration motion. You may have been surprised by the answer to 
