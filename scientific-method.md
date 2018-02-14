@@ -1,0 +1,1 @@
+The scientific method is not the straightforward clean path of problem, hypothesis, testing and conclusion that you often hear about 
