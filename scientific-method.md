@@ -1,3 +1,5 @@
+### Ignorance
+
 The scientific method is not a straightforward clean path of incremental progress toward the truth. It has twists and turns. Scientists must often stop to revise or rethink. 
 
 The basic starting point of science is ignorance. This is what makes the science method special and different from other dogma. 
