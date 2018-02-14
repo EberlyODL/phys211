@@ -16,4 +16,11 @@ The hypothesis is either rejected (or modified) if it keeps failing or the tests
 
 In this first part of the class, we will do observing experiments. 
  
- design experiment to observe phenomena, find patterns, take and analyze data. Which variables to plot? Which variables to keep fixed? 
+The goal is to design experiment to observe phenomena, find patterns. 
+The observations can be qualitative but more often we will collect numerical data. Collecting data and visualizing it properly will enable us to better quantify the patterns that may see. 
+
+### Lab 1
+
+Phenomenon to observe.
+
+The acceleration of an object sliding (in 1 dimension) to come to a stop due to a friction.
