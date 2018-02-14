@@ -12,4 +12,8 @@ Almost all of 1 D kinematics can be summarized in the following figure.
 
 These are the **general** definitions that relates position, velocity and acceleration. 
 
-In the following demonstration, we illustrate an interesting one dimensional motion with placed on a small cart.
+In the following demonstration, we illustrate an interesting one dimensional motion with a small fan placed on a small cart. There is negligible friction between the cart and the ramp. 
+
+[demo fan cart video]
+
+[ciscode|rev=1|tool=elmsmedia|item=4231|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
