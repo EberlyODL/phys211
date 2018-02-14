@@ -33,7 +33,7 @@ Try the following two questions to make sure you are good with this definition.
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
 Questions about average can get tricky when the motion has multiple different parts. You may have to do some work to find the displacement. 
-
+</lrndesign-sidenote>
 
 ### Example
 
