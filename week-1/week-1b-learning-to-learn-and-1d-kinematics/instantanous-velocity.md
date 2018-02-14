@@ -12,4 +12,6 @@ Area above the time axis are positive while area below the time axis are negativ
 
 [ciscode|rev=1|tool=elmsmedia|item=4226|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
-### Derivatives and Integrals. 
+### Derivatives and Integrals
+
+Almost all position-versus time curves or velocity-versus-time curves can be expressed as functions of time $x(t)$ and $v(t)$
