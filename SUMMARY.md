@@ -10,7 +10,7 @@
   * [Week 1B- 1D kinematics](week-1b-learning-to-learn-and-1d-kinematics.md)
     * [Defining Success and Failure](learning-to-learn.md)
     * [Cognitive Psychology](study-smarter-not-harder.md)
-    * [Metacognition](metacognition-and-the-the-study-cycle.md)
+    * [Metacognition](metacognition-and-the-study-cycle.md)
     * [Studying Methods](specific-tips.md)
     * [Study Smarter not Harder](study-smart-not-harder.md)
     * [Relating Position and Velocity. ](relating-position-and-velocity.md)
