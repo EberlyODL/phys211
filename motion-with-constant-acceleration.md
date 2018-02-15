@@ -24,5 +24,5 @@ This is an example of **constant acceleration motion**. The velocity-versus-time
 Constant acceleration motion, just like uniform motion with zero acceleration, is a model that represents many motion in real life. It is never exactly true. Very often the acceleration change slightly due to perturbations. But it is a good approximation to model and study many features of real life situations. 
 </lrndesign-sidenote>
 
-### Ot
+### Other examples of constant acceleration motion
 
