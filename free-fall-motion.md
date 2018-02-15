@@ -17,4 +17,8 @@ or in huge NASA vacuum chambers.
 
 ### Our convention
 
-In this class, we will always take the y axis to be pointing upward from the surface of the Earth. 
+In this class, we will always take the y axis to be pointing upward from the surface of the Earth. The magnitude of the free fall acceleration is 
+<lrnmath>g = 9/80\; m/s^2</lrnmath> but the y component of the acceleration is **negative**
+
+<lrnmath>a_y = -g = -9.80\;m/s^2</lrnmath>
+
