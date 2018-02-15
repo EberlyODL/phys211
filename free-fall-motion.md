@@ -32,4 +32,10 @@ the acceleration in the <lrnmath>s </lrnmath> direction along the plane is
 
 <lrnmath> a_s = \pm g \sin\theta </lrnmath>
 
-where the sign depends on the direction of the axis (the acceleration is downward). 
+where the sign depends on the direction of the axis (the acceleration is downward).
+
+### Check your Understanding 
+
+[ciscode|rev=1|tool=elmsmedia|item=4247|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+
+** Note that <lrnmath>g = +9.80 \;m/s^2 </lrnmath>
