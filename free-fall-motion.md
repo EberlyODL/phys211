@@ -3,4 +3,18 @@ We often see objects falling at various rates. A tennis ball drops directly to t
 It is with such guiding questions that Galileo Galilei set forth to investigate this phenomenon. His findings are still to day among important discoveries in all of science. 
 
 1. In the absence of drag, the acceleration of an object in free fall is constant. 
-2. The magnitude of the acceleration (in the absence of forces from the air) is <lrnmath>9.8 m/s^2</lrnmath> for all objects independent of their masses. 
+2. The magnitude of the acceleration (in the absence of forces from the air) is <lrnmath>9.8 m/s^2</lrnmath> for all objects independent of their masses.
+
+These are very non-trivial observations to make. Galileo was not able to simply get rid of the air, he had to invent tricks or limiting cases. It took years of laboriously collecting data to find these patterns.  
+
+But now we can do it on the moon
+
+[ciscode|rev=1|tool=elmsmedia|item=4244|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+or in huge NASA vacuum chambers. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4245|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+### Our convention
+
+In this class, we will always take the y axis to be pointing upward from the surface of the Earth. 
