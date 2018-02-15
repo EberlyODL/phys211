@@ -1,0 +1,3 @@
+### Measuring Acceleration
+
+We must
