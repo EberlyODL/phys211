@@ -16,4 +16,13 @@ Which is to the left. In fact we can find the acceleration vector at any point a
 
 [ciscode|rev=1|tool=elmsmedia|item=4241|entity_type=node|render=display_mode|display_mode=image]
 
-This is an example of constant acceleration motion. The velocity-versus-time graph and the acceleration-versus-time graph are. 
+This is an example of **constant acceleration motion**. The velocity-versus-time graph is a straight line (here with negative slope) and the acceleration-versus-time graph is a horizontal line. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4242|entity_type=node|render=display_mode|display_mode=image]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
+Constant acceleration motion, just like uniform motion with zero acceleration, is a model that represents many motion in real life. It is never exactly true. Very often the acceleration change slightly due to perturbations. But it is a good approximation to model and study many features of real life situations. 
+</lrndesign-sidenote>
+
+### Ot
+
