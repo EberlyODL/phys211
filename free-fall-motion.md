@@ -38,4 +38,4 @@ where the sign depends on the direction of the axis (the acceleration is downwar
 
 [ciscode|rev=1|tool=elmsmedia|item=4247|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
-** Note that <lrnmath>g = +9.80 \;m/s^2 </lrnmath>
+Note that <lrnmath>g = +9.80 \;m/s^2 </lrnmath>. This is **always positive** by convention! But the acceleration is almost always negative <lrnmath>a_y=-g </lrnmath>.
