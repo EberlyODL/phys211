@@ -26,3 +26,4 @@ Constant acceleration motion, just like uniform motion with zero acceleration, i
 
 ### Other examples of constant acceleration motion
 
+[ciscode|rev=1|tool=elmsmedia|item=4243|entity_type=node|render=display_mode|display_mode=image]
