@@ -10,5 +10,7 @@ The accelerometer is a tiny microelectromechanical system (short is MEMS). It is
 
 [ciscode|rev=1|tool=elmsmedia|item=4246|entity_type=node|render=display_mode|display_mode=mediasvg__right__small__lightboxed]
 
-The accelerometer and the gyroscope (to be discussed later) are two of the most important MEMS. They are used in phones to determine direction and detect motion. Because smartphones are now mass produced, the accelerometer is fairly affordable electronic component and your IOLab is equipped with one. 
+The accelerometer and the gyroscope (to be discussed later) are two of the most important MEMS. They are used in phones to determine direction and detect motion. Because smartphones are now mass produced, the accelerometer is a fairly affordable electronic component and your IOLab is equipped with one. 
+
+What does the accelerometer measure. If you put your calibrated IOLab on a flat horizontal surface with z axis pointing up.
 
