@@ -21,5 +21,10 @@ The accelerometer does not measure coordinate acceleration, it actually measures
 An observer in free-fall in space with no air resistance feels nothing; this is zero-g. An observer on Earth feels an upward push by the floor with a proper acceleration of 1 g.  Compared to somebody in free-fall we are accelerating upward with an acceleration equal to <lrnmath>g = 9.80 m/s^2</lrnmath>. We are so used to it, we don’t think of it as a push but it is. Pilots are usually trained to sustain acceleration of up to 9-g for extend times.   
 In this course, we will use the concept of coordinate acceleration (what we have defined up to now) not proper acceleration.  Therefore, we will sometimes need to subtract the 1-g upward acceleration that the accelerometer measures when at rest. 
 
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
+In lab 1 (and many other situations), we will often look at motion on a horizontal surface. If we only care about acceleration in the horizontal direction , we do not need to subtract g. In a horizontal direction, the accelerometer measures the same thing that the wheel sensor measure.
+</lrndesign-sidenote>
+
+
 
 
