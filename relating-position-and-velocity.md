@@ -20,11 +20,11 @@ Remember from the "How to read the textbook" page, the best way to do examples. 
 
 ## Average vs Instantaneous.
 
-So we are in 1D, using the symbol $s$ to denote either $x$ (horizontal) or $y$ (vertical) motion. 
+So we are in 1D, using the symbol $s$ to denote either <lrn-math>x</lrn-math> (horizontal) or <lrn-math>y</lrn-math> (vertical) motion. 
 
-We have defined the average velocity in the s direction to be the displacement in the $s$ direction $\Delta s= s_f-s_i$
+We have defined the average velocity in the s direction to be the displacement in the $s$ direction <lrn-math>\Delta s= s_f-s_i</lrn-math>
  
-$v_{avg,s} = \frac{\Delta s}{\Delta t}$
+<lrn-math>v_{avg,s} = \frac{\Delta s}{\Delta t}</lrn-math>
 
 Try the following two questions to make sure you are good with this definition. 
 
@@ -42,4 +42,4 @@ Questions about average can get tricky when the motion has multiple different pa
 
 A car moves east at 30mph for 2 hours and then back west at 50mph for 2 hours. What was the average velocity. 
 
-First find the displacement. We moves east 60miles (30 *2) then west 100 miles. So the displacement (final - initial) will be -40 miles. We did that in 4hours so the average velocity is -10mph. 
+First find the displacement. We moves east 60miles (30 *2) then west 100 miles. So the displacement (final - initial) will be -40 miles. We did that in 4hours so the average velocity is -10mph.
