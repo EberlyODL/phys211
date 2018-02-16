@@ -35,4 +35,4 @@ Often scientist have such questions in mind before they start observing. In  thi
 
 We will soon discuss how to do the "statistically significant" part properly. The following video demonstrate the big versus small push. Yes this is a very simple experiment!
 
-[ciscode|rev=1|tool=elmsmedia|item=4238|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+[ciscode|rev=1|tool=elmsmedia|item=4238|entity_type=node]
