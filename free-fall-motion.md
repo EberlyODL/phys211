@@ -22,7 +22,7 @@ In this class, we will always take the y axis to be pointing upward from the sur
 
 <lrn-math>a_y = -g = -9.80\;m/s^2</lrn-math>
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 By convention, g is always a positive number, while ay can be positive or negative depending on the coordinate system. We will almost always take y to be up and <lrnmath>a_y=-g </lrn-math>.
 </lrndesign-sidenote>
 
