@@ -11,7 +11,7 @@ Unfortunately, you cannot read your physics textbook like would you read Harry P
     * concept map (see <a target = "_blank" href="https://www.lucidchart.com/pages/concept-map">Concept map explained</a>) 
 
 
-** a side note on learning styles. One of the discovery of cognitive psychology is that learning style do not really exist. Everyone learn in the same way. The strategies I discuss in these pages are universal. 
+**a side note on learning styles. One of the discovery of cognitive psychology is that learning style do not really exist. Everyone learn in the same way. The strategies I discuss in these pages are universal. 
 <a target = "_blank" href="https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html">Learning style debunked</a>
 
 ### Doing example problems from the book. 
