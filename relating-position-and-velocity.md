@@ -32,7 +32,7 @@ Try the following two questions to make sure you are good with this definition.
 
 [ciscode|rev=1|tool=elmsmedia|item=4223|entity_type=node|render=display_mode|display_mode=h5p]
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Questions about average can get tricky when the motion has multiple different parts. You may have to do some work to find the displacement. 
 </lrndesign-sidenote>
 
