@@ -14,6 +14,8 @@ In week1B, I will discuss specific learning strategies and this will include an 
 
 I will provide a Chapter Summary (pdf on Canvas) and I will often have a few examples in these course content pages to illustrate some of the material covered. 
 
-> The examples on this webpage are in no way exhaustive. If its in the textbook in an assigned readings, then it is covered in the course and it will be practice in the assignments and evaluated in the exams. 
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+The examples on this webpage are in no way exhaustive. If its in the textbook in an assigned readings, then it is covered in the course and it will be practice in the assignments and evaluated in the exams.
+</lrndesign-sidenote> 
 
 
