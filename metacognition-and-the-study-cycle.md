@@ -8,7 +8,7 @@ Metacognition is like having your brain looking from the outside at your own bra
 
 Novice in a field tend to be overconfident on their mastery of the material. This is known as the Dunning-Kruger effect. * I have seen this so many times! 
 
-[ciscode|rev=1|tool=elmsmedia|item=4215|entity_type=node|render=display_mode|display_mode=image__left]
+[ciscode|rev=1|tool=elmsmedia|item=4215|entity_type=node|render=display_mode|display_mode=image__right]
 
 To be a successful student, you need to think about your own thinking, here is a good process to remember. 
 
