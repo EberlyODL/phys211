@@ -28,4 +28,4 @@ Constant acceleration motion, just like uniform motion with zero acceleration, i
 
 Two other important examples of constant acceleration motion are free fall (with no drag) and motion on an inclined plane with no friction. This is illustrated below as a back and forth motion but any part of the motion is constant acceleration. So just an object in free fall going downward will have constant acceleration. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4243|entity_type=node|render=display_mode|display_mode=imag
+[ciscode|rev=1|tool=elmsmedia|item=4243|entity_type=node|render=display_mode|display_mode=image]
