@@ -18,6 +18,7 @@ The last question contains the most difficult part. You have to remember that th
 
 Almost all position-versus time curves or velocity-versus-time curves can be expressed as functions of time $x(t)$ and $v(t)$. In this course these functions will very often be sum of polynomials in time of the form 
 
+
 $x(t) = a + bt+ ct^2 +d t^3 +....$
 where $a,b,c,d,...$ are constants that could be zero. 
 
