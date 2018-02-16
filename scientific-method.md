@@ -27,7 +27,7 @@ The observations can be qualitative but more often we will collect numerical dat
 
 The acceleration of an object sliding (in 1 dimension) to come to a stop due to a friction.
 
-** Primary Guiding Question**
+**Primary Guiding Question**
 
 Often scientist have such questions in mind before they start observing. In  this class, our guiding questions will ensure that we are not straying too far from one another. 
 
