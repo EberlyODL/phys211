@@ -6,7 +6,7 @@ How do we move up the Bloom's pyramid? How do we go beyond memorization of facts
 
 Metacognition is like having your brain looking from the outside at your own brain. Its the ability to think about one's own thinking.
 
-Novice in a field tend to be overconfident on their mastery of the material. This is known as the Dunning-Kruger effect. *I have seen this so many times! 
+Novice in a field tend to be overconfident on their mastery of the material. This is known as the Dunning-Kruger effect. *I have seen this so many times!*
 
 [ciscode|rev=1|tool=elmsmedia|item=4215|entity_type=node|render=display_mode|display_mode=image__right]
 
@@ -46,8 +46,9 @@ What you were thinking when studying completely change how much you learn. You i
 Just reading with music on or doing problem quickly or googling is shallow processing and mostly a waste of your time. It is better to spend less time but actually use that time to really process the information.
 
 As you study, follow these principles
-* **Elaboration**: How does this concept relate to other concepts?
-* **Distinctiveness**: How is this concept different from other concepts. 
-* **Personal**: How can I relate this to my personal experience? Stop yourself and think about that. 
-* **Appropriate to retrieval and application**: Ask yourself what you are expected to be able to do with the information. 
+
+- **Elaboration**: How does this concept relate to other concepts?
+- **Distinctiveness**: How is this concept different from other concepts. 
+- **Personal**: How can I relate this to my personal experience? Stop yourself and think about that. 
+- **Appropriate to retrieval and application**: Ask yourself what you are expected to be able to do with the information. 
 
