@@ -22,7 +22,7 @@ An observer in free-fall in space with no air resistance feels nothing; this is 
 In this course, we will use the concept of coordinate acceleration (what we have defined up to now) not proper acceleration.  Therefore, we will sometimes need to subtract the 1-g upward acceleration that the accelerometer measures when at rest. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
-In lab 1 (and many other situations), we will often look at motion on a horizontal surface. If we only care about acceleration in the horizontal direction , we do not need to subtract g. In a horizontal direction, the accelerometer measures the same thing that the wheel sensor measure.
+<p>In lab 1 (and many other situations), we will often look at motion on a horizontal surface. If we only care about acceleration in the horizontal direction , we do not need to subtract g. In a horizontal direction, the accelerometer measures the same thing that the wheel sensor measure.</p>
 </lrndesign-sidenote>
 
 
