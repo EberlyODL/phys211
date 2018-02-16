@@ -14,9 +14,9 @@ To be a successful student, you need to think about your own thinking, here is a
 
 * **Assess**: You need to assess the task. What is required of you, what is the level of skills that will be needed. Is remembering enough or will you need to apply and analyze?
 * **Evaluate**: Figure out your strengths and weaknesses. What do you already have? What are you missing?
-* ** Plan**: Accounting for the current situation, given time constraints make the best plan to do the task at the level required. 
-* ** Apply** and **Monitor**: Apply strategies (see below) and monitor continuously your performance. 
-* ** Reflect**: Reflect on your performance, restart the cycle, re-assess the talk, evaluate and plan. 
+* **Plan**: Accounting for the current situation, given time constraints make the best plan to do the task at the level required. 
+* **Apply** and **Monitor**: Apply strategies (see below) and monitor continuously your performance. 
+* **Reflect**: Reflect on your performance, restart the cycle, re-assess the talk, evaluate and plan. 
  
 [ciscode|rev=1|tool=elmsmedia|item=4216|entity_type=node|render=display_mode|display_mode=image__right]
 
@@ -47,7 +47,7 @@ Just reading with music on or doing problem quickly or googling is shallow proce
 
 As you study, follow these principles
 * **Elaboration**: How does this concept relate to other concepts?
-* ** Distinctiveness**: How is this concept different from other concepts. 
-* ** Personal**: How can I relate this to my personal experience? Stop yourself and think about that. 
+* **Distinctiveness**: How is this concept different from other concepts. 
+* **Personal**: How can I relate this to my personal experience? Stop yourself and think about that. 
 * **Appropriate to retrieval and application**: Ask yourself what you are expected to be able to do with the information. 
 
