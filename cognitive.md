@@ -1,6 +1,6 @@
 ### Cognitive Psychology. 
 
-Wikipedia Definition: **Cognitive psychology is the study of mental processes such as "attention, language use, memory, perception, problem solving, creativity, and thinking".**
+Wikipedia Definition: **Cognitive psychology is the study of mental processes such as "attention, language use, memory, perception, problem solving, creativity, and thinking".**
 
 The field of cognitive psychology had impacts in other fields such as economy, social psychology and more relevant for us educational psychology. 
 
@@ -12,7 +12,7 @@ In combination with biological knowledge of where in the brain certain mental pr
 
 From Wikipedia again, here is a definition of "cognition" by Ulric Neisser
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2”>
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 The term "cognition" refers to all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.
 </lrndesign-sidenote>
 
