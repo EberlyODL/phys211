@@ -4,7 +4,7 @@ The fan cart demonstration is an example of nearly constant acceleration motion.
 This is important. Acceleration does not have to be zero just because the velocity is zero. The velocity may be changing from a positive to a negative value. 
 </lrndesign-sidenote>
 
-We can add the velocity vectors to the Fan Cart motion diagrams. ** Remember that the velocity vectors are just proportional to the displacement vectors. **
+We can add the velocity vectors to the Fan Cart motion diagrams. **Remember that the velocity vectors are just proportional to the displacement vectors.**
 
 [ciscode|rev=1|tool=elmsmedia|item=4239|entity_type=node|render=display_mode|display_mode=image]
 
