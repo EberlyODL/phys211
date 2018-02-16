@@ -16,11 +16,11 @@ The last question contains the most difficult part. You have to remember that th
 
 ### Derivatives and Integrals
 
-Almost all position-versus time curves or velocity-versus-time curves can be expressed as functions of time $x(t)$ and $v(t)$. In this course these functions will very often be sum of polynomials in time of the form 
+Almost all position-versus time curves or velocity-versus-time curves can be expressed as functions of time <lrn-math>x(t)</lrn-math> and <lrn-math>v(t)</lrn-math>. In this course these functions will very often be sum of polynomials in time of the form 
 
 
-$x(t) = a + bt+ ct^2 +d t^3 +....$
-where $a,b,c,d,...$ are constants that could be zero. 
+<lrn-math>x(t) = a + bt+ ct^2 +d t^3 +....</lrn-math>
+where <lrn-math>a,b,c,d,...</lrn-math> are constants that could be zero. 
 
 Look at eq. 2.6 and 2.8 in book for how to take derivatives while look at 2.13 and 2.14 for integrals. 
 
@@ -30,7 +30,7 @@ As you will learn in more details in Math 140 - Calculus and as explained in our
 
 To do the last question you must use the 
 
-$\Delta x = \int_{t_i}^{t_f} = v_x dt$
+<lrn-math>\Delta x = \int_{t_i}^{t_f} = v_x dt</lrn-math>
 
 [ciscode|rev=1|tool=elmsmedia|item=4228|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 

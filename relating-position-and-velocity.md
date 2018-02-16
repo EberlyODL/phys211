@@ -20,9 +20,9 @@ Remember from the "How to read the textbook" page, the best way to do examples. 
 
 ## Average vs Instantaneous.
 
-So we are in 1D, using the symbol $s$ to denote either <lrn-math>x</lrn-math> (horizontal) or <lrn-math>y</lrn-math> (vertical) motion. 
+So we are in 1D, using the symbol <lrn-math>s</lrn-math> to denote either <lrn-math>x</lrn-math> (horizontal) or <lrn-math>y</lrn-math> (vertical) motion. 
 
-We have defined the average velocity in the s direction to be the displacement in the $s$ direction <lrn-math>\Delta s= s_f-s_i</lrn-math>
+We have defined the average velocity in the s direction to be the displacement in the <lrn-math>s</lrn-math> direction <lrn-math>\Delta s= s_f-s_i</lrn-math>
  
 <lrn-math>v_{avg,s} = \frac{\Delta s}{\Delta t}</lrn-math>
 

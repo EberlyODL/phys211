@@ -25,9 +25,9 @@ This is a good **model** of a real life situation when the shape of the object i
  
 We will use SI units of second (s) and meter (m)
 
-Position $$\vec{r}$$ is a ** vector**: it has a direction and a magnitude. 
+Position <lrn-math>\vec{r}</lrn-math> is a **vector**: it has a direction and a magnitude. 
 
-Displacement $$\Delta\vec{r} = \vec{r}_f-\vec{r}_i$$ is the **difference** between two vectors. 
+Displacement <lrn-math>\Delta\vec{r} = \vec{r}_f-\vec{r}_i</lrn-math> is the **difference** between two vectors. 
 
 > Look carefully at vector addition and vector subtraction Tactics Box 1.1 and Tactics Box 1.2. 
 Geometric vector subtraction Tactics Box 1.2 may the hardest part of this chapter. We will come back to this!!
