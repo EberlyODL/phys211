@@ -30,7 +30,9 @@ As a professor, I see three things that I can do to transform your hard work int
 
 3. Provide a well designed course to guide your learning experience. The learning is not happening in the textbook or in this course webpage, the learning is happening in your head and its not done by me, its done by you. My course is designed to get you to acquire the knowledge, do the connections in your brain and to practice the skills to the point of unconscious mastery (like driving a car or a bike).  
 
->I encourage you strongly to contact me with any issues you may have. In my class or any other classes.
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+I encourage you strongly to contact me with any issues you may have. In my class or any other classes.
+</lrndesign-sidenote>
 
 
 
