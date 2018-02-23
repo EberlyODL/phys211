@@ -11,6 +11,19 @@ Oscillatory motion is the primary example that we will study in this class of a 
 
 Demo videos, example of mass on springs...
 
-Your book cover oscillatory in one chapter at the end. In this class, we will introduce oscillatory motions gradually as we go along. For the moment, we are only interested in the kinematics of oscillatory motion, section 15.1 and the beginning of section 15.4
+Your book covers oscillatory motion in one chapter at the end. In this class, we will introduce oscillatory motions gradually as we go along. For the moment, we are only interested in the kinematics of oscillatory motion, section 15.1 and the beginning of section 15.4
 
- Read carefully your book and my chapter review. 
+Read carefully your book and my chapter review. We will limit our analysis to simple harmonic motion where the motion is sinusoidal 
+
+[ciscode|rev=1|tool=elmsmedia|item=4257|entity_type=node|render=display_mode|display_mode=image]
+
+### Check your Understanding. 
+
+The first question is particularly important since this is a common misunderstanding regarding the notion of what is a full cycle. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4258|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=4259|entity_type=node|render=display_mode|display_mode=h5p]
+
+Rad for radian is not a real unit.
+
