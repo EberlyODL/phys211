@@ -23,5 +23,6 @@
     * [Oscillating Motion](oscillating-motion.md)
     * [Scientific Method](scientific-method.md)
     * [The accelerometer](the-accelerometer.md)
+    * [The boxplot and StatKey](the-boxplot-and-statkey.md)
 * End of book
 
