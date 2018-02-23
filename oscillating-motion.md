@@ -25,5 +25,5 @@ The first question is particularly important since this is a common misunderstan
 
 [ciscode|rev=1|tool=elmsmedia|item=4259|entity_type=node|render=display_mode|display_mode=h5p]
 
-Rad for radian is not a real unit.
+Rad for radian is not a real unit and it sometimes omitted. It is there to remind us that when you multiply the angular frequency by a time, you get an angle and that angle is in radians, not degrees. Be careful to use rad on your calculator. 
 
