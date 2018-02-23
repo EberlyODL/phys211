@@ -18,10 +18,10 @@
   * [Week 2A- Scientific Method, Motion with constant Acceleration and Oscillations](week-2a-scientific-method-motion-with-constant-acceleration-and-oscillations.md)
     * [Acceleration](acceleration.md)
     * [Motion with Constant Acceleration](motion-with-constant-acceleration.md)
+    * [Free Fall Motion](free-fall-motion.md)
     * [Kinematics Equations for Constant Acceleration](kinematics-equations.md)
     * [Oscillating Motion](oscillating-motion.md)
     * [Scientific Method](scientific-method.md)
-    * [Free Fall Motion](free-fall-motion.md)
     * [The accelerometer](the-accelerometer.md)
 * End of book
 
