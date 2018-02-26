@@ -70,7 +70,7 @@ Never, never delete data. Just put it in a new column, the outliers may be cruci
 </lrndesign-sidenote>
 
 
-
+[ciscode|rev=1|tool=elmsmedia|item=4268|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
 
 
