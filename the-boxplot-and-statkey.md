@@ -61,7 +61,7 @@ In the following video, I will show how to create a box plot graph. You will nee
 [ciscode|rev=1|tool=elmsmedia|item=4269|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
 Things to remember
-* you need to create a .csv file with a first row of header (a txt file can also work). For most using excel may be the easiest. 
+* you need to create a .csv file with a first row of header (a txt file can also work). For most, using excel may be the easiest. 
 * upload the file in StatKey. 
 
 In the next video, I will show how outliers can have a large impact on data and it is sometimes good to not include them in the analysis. 
