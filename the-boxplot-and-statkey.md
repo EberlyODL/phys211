@@ -66,7 +66,7 @@ Things to remember
 In the next video, I will show how outliers can have a large impact on data and it is sometimes good to not include them in the analysis. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Never, never delete data. Just put it in a new column, the outliers may be crucial to understand a physical phenomena. 
+Never, never delete data. Just put it in a new column, the outliers may be crucial to understand a physical phenomena and you may need to present the data or include in a future analysis. 
 </lrndesign-sidenote>
 
 
