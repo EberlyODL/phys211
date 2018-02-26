@@ -24,7 +24,7 @@
     * [Scientific Method](scientific-method.md)
     * [The accelerometer](the-accelerometer.md)
     * [The boxplot and StatKey](the-boxplot-and-statkey.md)
-  * Week 2B - Vectors and Motion in 2D
+  * [Week 2B - Vectors and Motion in 2D](week-2b-vectors-and-motion-in-2d.md)
     * Vector
   * Week 3A - Kinematics of Projectile Motion and Uniform Circular Motion
   * [Week 3B - Metacognition, Analyzing Data and Forces](week-3b-metacognition-analyzing-data-and-forces.md)
@@ -40,5 +40,4 @@
   * Week 8B - Conservation of Angular Momentum and Gravity
   * Week 9A - Oscillations and Study
 * [End of book ](end-of-book.md)
-
 
