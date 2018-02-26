@@ -54,7 +54,23 @@ The boxplot also displays ** outliers **. These are points which are far from th
 
 ## Creating a box plot and making sense of data. 
 
-In the following video, I will show how to create a boxplot graph. You will need to do this in your lab. 
+In the following video, I will show how to create a box plot graph. You will need to do this in your lab. 
+
+> All the data is fake but I tried to make it reasonable using real data that the average age of world campus students is 32 years old while the national average age of undergraduate students is 18-19 years old. 
+
+
+Things to remember
+* you need to create a .csv file with a first row of header (a txt file can also work). For most using excel may be the easiest. 
+* upload the file in StatKey. 
+
+In the next video, I will show how outliers can have a large impact on data and it is sometimes good to not include them in the analysis. 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Never, never delete data. Just put it in a new column, the outliers may be crucial to understand a physical phenomena. 
+</lrndesign-sidenote>
+
+
+
 
 
 
