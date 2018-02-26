@@ -52,4 +52,9 @@ The box plot is a way to visualize all this information in one graph.
 
 The boxplot also displays ** outliers **. These are points which are far from the range (Q3-Q1) of all the other points. They are represented by an asterisk. 
 
+## Creating a box plot and making sense of data. 
+
+In the following video, I will show how to create a boxplot graph. You will need to do this in your lab. 
+
+
 
