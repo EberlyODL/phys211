@@ -24,5 +24,11 @@
     * [Scientific Method](scientific-method.md)
     * [The accelerometer](the-accelerometer.md)
     * [The boxplot and StatKey](the-boxplot-and-statkey.md)
+* Week 2B - Vectors and Motion in 2D
+* Vector
+* Week 3A - Kinematics of Projectile Motion and Uniform Circular Motion
+* [Week 3B - Metacognition, Analyzing Data and Forces](week-3b-metacognition-analyzing-data-and-forces.md)
+* Week 4A - Dynamics in one dimension
+* Week 4B - Newton's Third Law
 * End of book
 
