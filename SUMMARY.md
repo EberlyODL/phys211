@@ -30,5 +30,14 @@
 * [Week 3B - Metacognition, Analyzing Data and Forces](week-3b-metacognition-analyzing-data-and-forces.md)
 * Week 4A - Dynamics in one dimension
 * Week 4B - Newton's Third Law
-* End of book
+* Week 5A - Dynamics of Uniform Circular Motion
+* Week 5B - Work and Kinetic Energy and Dynamics of Oscillations 
+* Week 5B - Work and Kinetic Energy and Dynamics of Oscillations 
+* Week 6A - Potential and Thermal Energy
+* Week 6B - Conservation of Energy and Momentum
+* Week 7A - Collisions, Rigid Bodies and Center of Mass
+* Week 7B - Moment of Inertia, Torque and Equilibrium
+* Week 8A - Rotational Dynamics 
+* Week 8B - Conservation of Angular Momentum and Gravity
+* Week 9A - Oscillations and Study
 
