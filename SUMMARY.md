@@ -25,7 +25,7 @@
     * [The accelerometer](the-accelerometer.md)
     * [The boxplot and StatKey](the-boxplot-and-statkey.md)
   * [Week 2B - Vectors and Motion in 2D](week-2b-vectors-and-motion-in-2d.md)
-    * Vector
+    * [Vector Components](week-2b-vectors-and-motion-in-2d/vector.md)
   * Week 3A - Kinematics of Projectile Motion and Uniform Circular Motion
   * [Week 3B - Metacognition, Analyzing Data and Forces](week-3b-metacognition-analyzing-data-and-forces.md)
   * Week 4A - Dynamics in one dimension
