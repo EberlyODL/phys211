@@ -11,6 +11,7 @@ An object moving in two dimensions will make a trajectory in the x-y plane. The 
 
 [ciscode|rev=1|tool=elmsmedia|item=4272|entity_type=node|render=display_mode|display_mode=h5p]
 
+For the next question you need to use the definition of average acceleration <lrn-math inline> \vec{a}_{avg} = \frac{\Delta\vec{v}}{\Delta t} </lrn-math>
 
 
 [ciscode|rev=1|tool=elmsmedia|item=4273|entity_type=node|render=display_mode|display_mode=h5p]
