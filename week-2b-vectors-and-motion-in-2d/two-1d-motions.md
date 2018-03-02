@@ -11,4 +11,6 @@ A full analysis of projectile motion with various problem solving techniques wil
 
 [ball drop demo]
 
-Again to reiterate, 
+Again to reiterate, the yellow ball in the image below is doing a 1 dimensional free fall motion in the y direction (like the red ball) together with a uniform constant velocity motion in the x direction. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4276|entity_type=node|render=display_mode|display_mode=image]
