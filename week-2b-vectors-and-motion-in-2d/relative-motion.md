@@ -17,7 +17,8 @@ Typical problem in relative motion are crossing a river and distinguish between 
 
 Try to do both example 4.7 and 4.8 on your own before looking at Knight's solution. 
 
-Section 4.3 is a great place to do careful reading as we discussed in thisI remind you that you that you should always 
+Section 4.3 is a great place to do careful reading as we discussed in week 1B "Reading and Studying Methods". The method is as follows. 
+
 
 * first read section 4.3 before example 4.6 and paraphrase it in your mind (write notes on paper
 * try to do example 4.6 on your own. 
