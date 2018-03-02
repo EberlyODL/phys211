@@ -10,3 +10,5 @@ A full analysis of projectile motion with various problem solving techniques wil
 </lrndesign-sidenote>
 
 [ball drop demo]
+
+Again to reiterate, 
