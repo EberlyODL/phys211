@@ -13,4 +13,10 @@ To avoid mistakes when solving relative motion problem it is really important to
 In problem solving is that the words, swim speed or airplane speed  usually refers to speed with respect to the medium. So swim speed is speed with respect to water while airplane speed is with respect to air. Often the water is also moving with respect to ground (current) while the air is moving with respect to ground (wind). 
 </lrndesign-sidenote>
 
-Typical problem in crossing a river 
+Typical problem in relative motion are crossing a river and distinguish between the velocity relative to water and velocity relative to ground. These are very similar problems to the airplane problem example 4.7 and 4.8. 
+
+Try to do both example 4.7 and 4.8 on your own before looking at Knight's solution. 
+
+Section 4.3 is a great place to do careful reading as we discussed in thisI remind you that you that you should always 
+
+*first read the theory and try the example on your own, only check the a
