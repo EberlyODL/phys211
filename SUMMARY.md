@@ -28,6 +28,7 @@
     * [Vectors](week-2b-vectors-and-motion-in-2d/vector.md)
     * [Motion in 2D](week-2b-vectors-and-motion-in-2d/motion-in-2d.md)
     * [Two 1D motions](week-2b-vectors-and-motion-in-2d/two-1d-motions.md)
+    * [Relative motion](week-2b-vectors-and-motion-in-2d/relative-motion.md)
   * Week 3A - Kinematics of Projectile Motion and Uniform Circular Motion
   * [Week 3B - Metacognition, Analyzing Data and Forces](week-3b-metacognition-analyzing-data-and-forces.md)
   * Week 4A - Dynamics in one dimension
