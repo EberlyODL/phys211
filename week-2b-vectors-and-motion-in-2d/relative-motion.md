@@ -19,4 +19,11 @@ Try to do both example 4.7 and 4.8 on your own before looking at Knight's soluti
 
 Section 4.3 is a great place to do careful reading as we discussed in thisI remind you that you that you should always 
 
-*first read the theory and try the example on your own, only check the a
+* first read section 4.3 before example 4.6 and paraphrase it in your mind (write notes on paper
+* try to do example 4.6 on your own. 
+* check the answer (its 350 m/s)
+* if you got it right check the solution
+* if you got it wrong, look at what you did and try to fix it.
+* if in 5 minutes you can't fix check the solution
+* finish reading section 4.3, paraphrasing
+* try to do example 4.7 and 4.8 in the same manner that you did 4.6
