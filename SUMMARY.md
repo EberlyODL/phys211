@@ -11,7 +11,7 @@
     * [Defining Success and Failure](learning-to-learn.md)
     * [Cognitive Psychology](cognitive.md)
     * [Metacognition](metacognition-and-the-study-cycle.md)
-    * [Studying Methods](specific-tips.md)
+    * [Reading and Studying Methods](specific-tips.md)
     * [Study Smarter not Harder](study-smart-not-harder.md)
     * [Relating Position and Velocity. ](relating-position-and-velocity.md)
     * [Instantanous Velocity](instantanous-velocity.md)
