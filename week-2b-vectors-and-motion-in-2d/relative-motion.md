@@ -21,10 +21,11 @@ Section 4.3 is a great place to do careful reading as we discussed in week 1B "R
 
 
 * first read section 4.3 before example 4.6 and paraphrase it in your mind (write notes on paper
-* try to do example 4.6 on your own. 
+* try to do example 4.6 on your own without looking at the solution (block it with a piece of paper or take a picture) and rewrite the question in your own words and solve it.  
 * check the answer (its 350 m/s)
 * if you got it right check the solution
 * if you got it wrong, look at what you did and try to fix it.
 * if in 5 minutes you can't fix check the solution
 * finish reading section 4.3, paraphrasing
 * try to do example 4.7 and 4.8 in the same manner that you did 4.6
+* check your understanding with the stop to think 
