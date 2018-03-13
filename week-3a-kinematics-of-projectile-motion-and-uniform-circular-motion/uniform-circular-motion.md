@@ -24,5 +24,13 @@ For circular motion, we will not use the x-y coordinate system that we have been
 
 The connection between linear variable (in the rt coordinate system) and angular variables <lrn-math inline>\theta, \omega </lrn-math> can be summarized as follows. 
 
+[ciscode|rev=1|tool=elmsmedia|item=4291|entity_type=node|render=display_mode|display_mode=image]
  
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+The tangential acceleration <lrn-math inline>a_t </lrn-math> is zero for now because we are dealing with uniform circular motion only. 
+</lrndesign-sidenote>
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+The derivation of these formulas are not particularly important. 
+</lrndesign-sidenote>
 
