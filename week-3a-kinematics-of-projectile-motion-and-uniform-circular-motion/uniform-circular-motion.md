@@ -33,4 +33,3 @@ The tangential acceleration <lrn-math inline>a_t </lrn-math> is zero for now bec
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 The derivation of these formulas are not particularly important. 
 </lrndesign-sidenote>
-
