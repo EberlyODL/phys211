@@ -32,6 +32,7 @@
   * [Week 3A - Kinematics of Projectile Motion and Uniform Circular Motion](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion.md)
     * [Problem solving Projectile Motion](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion/problem-solving-projectile-motion.md)
     * [Projectile Motion](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion/projectile-motion.md)
+    * Uniform Circular Motion
   * [Week 3B - Reflecting on Midterm 1 and Forces](week-3b-metacognition-analyzing-data-and-forces.md)
   * Week 4A - Dynamics in one dimension
   * Week 4B - Newton's Third Law
