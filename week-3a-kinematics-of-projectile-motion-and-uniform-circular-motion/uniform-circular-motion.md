@@ -16,4 +16,4 @@ The relation between angular velocity and angular displacement is the same as th
 We will take counter clockwise rotation to be positive and clockwise rotation to be negative but this is a convention. 
 </lrndesign-sidenote>
 
-### Connecting angular variable to 
+### Connecting angular variables to linear variables
