@@ -22,3 +22,7 @@ The large number of variables in projectile motion require you to be well organi
 * finish reading section 4.2, paraphrasing along the way in your mind or on paper.  Pay close to attention to Model 4.1 and Problem solving strategy 4.1.
 * try to do example 4.5 the same manner that you did 4.4
 * finish reading and check your understanding with the stop to think 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+The best way to become good at solving problem is by solving problems. Practice, practice, practice. Use the extra problem in Mastering physics. Be careful of looking at solutions or videos of professors solving problems. Those usually do more harm than good by giving you the false feeling that you understand and that by simply watching the video, you can solve another problem like it. You may but check it by solving problems on your own. 
+</lrndesign-sidenote>
