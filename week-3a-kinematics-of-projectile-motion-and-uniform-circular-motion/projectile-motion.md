@@ -8,3 +8,5 @@ In Projectile motion, the vertical and horizontal motion are independent from ea
 [ciscode|rev=1|tool=elmsmedia|item=4288|entity_type=node|render=display_mode|display_mode=h5p]
 
 ## Killing Kenny
+
+Here we demonstrate the "classic" problem in physics of the coconut in a tree by shooting Kenny from South Park. 
