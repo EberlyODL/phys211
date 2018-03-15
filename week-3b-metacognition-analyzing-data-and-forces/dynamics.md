@@ -12,6 +12,9 @@ In this video, I will demonstrate many of the forces we will discuss in this cla
 
 Read Chapter 5 carefully. It is very wordy but these are very important concepts. 
 
-Tactics Box 5.2 and Tactics Box 5.3 are crucial to master for the rest of the course. Practice both by looking at example 5.5 and 5.6 (and the reading quiz). 
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Tactics Box 5.2 and Tactics Box 5.3 are crucial to master for the rest of the course. Practice both by looking at example 5.5 and 5.6 (and the reading quiz). Also look again at the mathematical aside on proportional reasoning.
+</lrndesign-sidenote>
+
 
 Read my chapter summary.  
