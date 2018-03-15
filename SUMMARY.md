@@ -36,6 +36,7 @@
     * [Proportional Reasoning](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion/check-your-understanding.md)
   * [Week 3B - Reflecting on Midterm 1 and Forces](week-3b-metacognition-analyzing-data-and-forces.md)
     * [Dynamics](week-3b-metacognition-analyzing-data-and-forces/dynamics.md)
+    * Practicing Newton's Laws
   * Week 4A - Dynamics in one dimension
   * Week 4B - Newton's Third Law
   * Week 5A - Dynamics of Uniform Circular Motion

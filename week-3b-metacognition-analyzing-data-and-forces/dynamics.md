@@ -6,7 +6,7 @@ Sometimes the acceleration was zero for uniform motion, g for free fall or <lrn-
 
 We now move to dynamics which aims to explain what causes motion and we will start by introducing the concept of forces. 
 
-In this video, I will demonstrate many of the forces we will discuss in this class. 
+In the following video, I will demonstrate many of the forces we will discuss in this class. 
 
 [demo forces]
 
