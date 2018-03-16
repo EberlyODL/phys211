@@ -39,6 +39,7 @@
     * [Dynamics](week-3b-metacognition-analyzing-data-and-forces/dynamics.md)
     * [Practicing Newton's Laws](week-3b-metacognition-analyzing-data-and-forces/practicing-newtons-laws.md)
     * [Rocket in space](week-3b-metacognition-analyzing-data-and-forces/rocket-in-space.md)
+    * [Analyzing data. ](week-3b-metacognition-analyzing-data-and-forces/analyzing-data.md)
   * Week 4A - Dynamics in one dimension
   * Week 4B - Newton's Third Law
   * Week 5A - Dynamics of Uniform Circular Motion
