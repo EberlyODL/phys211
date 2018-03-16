@@ -17,7 +17,10 @@ We will continue using the Boxplot in this course.
  Often in science we are interested in **correlations**. 
  
  A correlation is ... 
+ 
+ 
  We will focus on correlations between 2 quantitative variables. The question is then 
 
 
 
+video how to use statkey for correlation
