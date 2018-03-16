@@ -36,6 +36,7 @@
     * [Proportional Reasoning](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion/check-your-understanding.md)
   * [Week 3B - Reflecting on Midterm 1 and Forces](week-3b-metacognition-analyzing-data-and-forces.md)
     * [Reflecting on the midterm](week-3b-metacognition-analyzing-data-and-forces/reflecting-on-the-midterm.md)
+    * [do it!](week-3b-metacognition-analyzing-data-and-forces/do-it.md)
     * [Dynamics](week-3b-metacognition-analyzing-data-and-forces/dynamics.md)
     * [Practicing Newton's Laws](week-3b-metacognition-analyzing-data-and-forces/practicing-newtons-laws.md)
     * [Rocket in space](week-3b-metacognition-analyzing-data-and-forces/rocket-in-space.md)
