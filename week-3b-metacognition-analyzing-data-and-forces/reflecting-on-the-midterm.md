@@ -43,11 +43,11 @@ Finding what you don't know or where you struggle can be hard and this is where 
 Accounting for the current situation, given time constraints make the best plan to do the task at the level required.
 
 Part of the plan should include 
-1. Reading the textbook properly. 
-2. Use reading quiz and quiz as real tests
-3. Do weekly intense study. 
+1. Reading the textbook properly. ** Remember there is a method to it!
+2. **Use reading quiz and quiz as real tests**
+3. Do weekly intense study. Not just before the exam!
 
-The intense study cycle is 
+The intense study cycle is short but intense!
 
 |Steps|Time|Activity|
 |---|---|---|
@@ -59,5 +59,10 @@ The intense study cycle is
 Don't forget the review, it only takes 5 min!
 
 
-**Apply** and **Monitor**: Apply strategies (see below) and monitor continuously your performance.
+### 4. **Apply** and **Monitor**: 
+
+Apply strategies (see below) and monitor continuously your performance.
+
+The goal is to achive 
+
 **Reflect**: Reflect on your performance, restart the cycle, re-assess the talk, evaluate and plan.
