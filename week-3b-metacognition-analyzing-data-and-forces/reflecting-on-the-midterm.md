@@ -47,6 +47,15 @@ Part of the plan should include
 2. Use reading quiz and quiz as real tests
 3. Do weekly intense study. 
 
+Steps|Time|Activity|
+|---|---|---|
+|Set a goal| 1-2 min| Decide what you want to accomplish in your study session|
+|Study with focus|30-50 min| Interact with material: elaborate, compare, organize, summarize|
+|Reward yourself| 10-15 min| Take a break, call/text a friend, play a short game, eat a snack|
+|Review| 5 min| Go over what you just studied
+
+Don't forget the review, it only takes 5 min!
+
 
 **Apply** and **Monitor**: Apply strategies (see below) and monitor continuously your performance.
 **Reflect**: Reflect on your performance, restart the cycle, re-assess the talk, evaluate and plan.
