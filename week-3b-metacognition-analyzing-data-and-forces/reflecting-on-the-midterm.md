@@ -70,8 +70,6 @@ The goal is to achieve deep processing of the ideas, to do so follow these princ
 - **Personal**: How can I relate this to my personal experience? Stop yourself and think about that. 
 - **Appropriate to retrieval and application**: Ask yourself what you are expected to be able to do with the information. 
 
-
-
 We will all share strategies during the discussion boards this week. 
 
 ### 5. **Reflect**: 
