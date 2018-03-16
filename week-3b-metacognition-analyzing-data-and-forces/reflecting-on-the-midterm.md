@@ -47,7 +47,8 @@ Part of the plan should include
 2. Use reading quiz and quiz as real tests
 3. Do weekly intense study. 
 
-Steps|Time|Activity|
+The intense study cycle is 
+|Steps|Time|Activity|
 |---|---|---|
 |Set a goal| 1-2 min| Decide what you want to accomplish in your study session|
 |Study with focus|30-50 min| Interact with material: elaborate, compare, organize, summarize|
