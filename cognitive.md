@@ -19,7 +19,7 @@ The term "cognition" refers to all processes by which the sensory input is trans
 
 Note that while computer science has had an impact on cognitive psychology, the reverse is also true. Machine Learning and Deep Neural Networks have revolutionized what computer can do. Here is a free book on the subject for the curious!<a target = "_blank" href="http://neuralnetworksanddeeplearning.com/index.html"> Neural Networks and Deep Learning</a> 
 
-Learning is very much part of cognition. So what have we learned about cognition that can improve soldier performance on the field or student's ability to learn. Quite a bit actually!
+Learning is very much part of cognition. So what have we learned about cognition that can improve soldier performance on the field or student's ability to learn? Quite a bit actually!
 
 ## Bloom's taxanomy 
 
