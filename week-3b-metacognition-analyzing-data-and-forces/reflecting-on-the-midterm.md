@@ -16,13 +16,13 @@ Here is the story of 4 Phys 211 students and their exam grade (3 midterm and a f
 
 Metacognition is like having your brain looking from the outside at your own brain. Its the ability to think about one's own thinking.
 
-The 5 steps to take ownership of your learning and to think about your thinking (and learning) are
+The 5 steps to take ownership of your learning and to think about your own thinking (and learning) are
 
 ### **1. Assess the task**: 
 
 You need to assess the task. What is required of you, what is the level of skills that is needed. Is remembering enough or will you need to apply and analyze?
 
-Were you surprised by question on the exams? You should not be, the questions are just like the weekly quizzes. Were you surprised by a subject? Look at the learning objectives list pdf on Canvas, make sure you understand all of the learning objectives. Were you surprised by the level of the questions. I remind you that we are not just working with remembering the concepts, we are working at the level of applying and analyzing in the Bloom's pyramid. 
+Were you surprised by question on the exams? You should not be, the questions are just like the ones in weekly quizzes or sample exams. Were you surprised by a subject? Look at the learning objectives list pdf on Canvas, make sure you understand all of the learning objectives. Were you surprised by the level of the questions? I remind you that we are not just working with remembering the concepts, we are working at the level of applying and analyzing in the Bloom's pyramid. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4214|entity_type=node|render=display_mode|display_mode=image] 
 
@@ -33,7 +33,7 @@ To be able to apply and analyze in various situations, you need to **practice to
 Figure out your strengths and weaknesses. What do you already have? What are you missing?
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-You will need to ** assess** your performance on midterm 1. Which concepts did you struggle with? 
+You will need to ** assess** your performance on midterm 1. And for that, you will have to look back at it which I know can be stressful and depressing when the grade is low. You need to know which concepts you struggle with or which type of problems you had issues with.
 </lrndesign-sidenote>
 
 Finding what you don't know or where you struggle can be hard and this is where a coach or a teacher is indispensable. Visit the office hours or email me to have one-one discussion. 
