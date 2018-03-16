@@ -48,6 +48,7 @@ Part of the plan should include
 3. Do weekly intense study. 
 
 The intense study cycle is 
+
 |Steps|Time|Activity|
 |---|---|---|
 |Set a goal| 1-2 min| Decide what you want to accomplish in your study session|
