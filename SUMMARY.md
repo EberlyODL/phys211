@@ -12,7 +12,7 @@
     * [Cognitive Psychology](cognitive.md)
     * [Metacognition](metacognition-and-the-study-cycle.md)
     * [Reading and Studying Methods](specific-tips.md)
-    * [Study Smarter not Harder](study-smart-not-harder.md)
+    * [Stephen's Chew videos](study-smart-not-harder.md)
     * [Relating Position and Velocity. ](relating-position-and-velocity.md)
     * [Instantanous Velocity](instantanous-velocity.md)
   * [Week 2A- Scientific Method, Motion with constant Acceleration and Oscillations](week-2a-scientific-method-motion-with-constant-acceleration-and-oscillations.md)

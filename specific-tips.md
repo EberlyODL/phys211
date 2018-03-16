@@ -46,3 +46,5 @@ Studying does not have to be long, it just has to be intense and on task (no TV,
 |Study with focus|30-50 min| Interact with material: elaborate, compare, organize, summarize|
 |Reward yourself| 10-15 min| Take a break, call/text a friend, play a short game, eat a snack|
 |Review| 5 min| Go over what you just studied
+
+Don't forget the review, it only takes 5 min!
