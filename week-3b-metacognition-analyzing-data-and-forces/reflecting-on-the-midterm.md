@@ -63,6 +63,10 @@ Don't forget the review, it only takes 5 min!
 
 Apply strategies (see below) and monitor continuously your performance.
 
-The goal is to achive 
+The goal is to achieve deep processing of the idea in the mind, not shallow processing.  
 
-**Reflect**: Reflect on your performance, restart the cycle, re-assess the talk, evaluate and plan.
+We will all share strategies during the discussion boards this week. 
+
+### 5. **Reflect**: 
+
+Reflect on your performance, restart the cycle, re-assess the talk, evaluate and plan.
