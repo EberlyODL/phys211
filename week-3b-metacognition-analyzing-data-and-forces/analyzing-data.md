@@ -10,9 +10,14 @@ That way, you were able to reach conclusion regarding whether the variability of
 Note that a perfectly valid conclusion to make from data is that more data is needed or better measurement techniques. Its usually one of the other, not both. A good scientific statement from lab 1 could have been. Unlike the max acceleration which was clearly different between big and small push, the average acceleration during sliding is much less different between big and small. The noise appears too big to clearly differentiate the cases and a better experimental setup would be needed to definitely measure a difference if there are any.
 </lrndesign-sidenote>
 
+We will continue using the Boxplot in this course.
+
 ### Two quantitative variables. 
 
-We will continue using the Boxplot in this course. Often that we are interested in **correlations**. We will focus on correlations between 2 quantitative variables. The question is then 
+ Often in science we are interested in **correlations**. 
+ 
+ A correlation is ... 
+ We will focus on correlations between 2 quantitative variables. The question is then 
 
 
 
