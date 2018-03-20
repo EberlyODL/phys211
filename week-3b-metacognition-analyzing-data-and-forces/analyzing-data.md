@@ -11,6 +11,24 @@ Note that a perfectly valid conclusion to make from data is that more data is ne
 
 We will continue using the Boxplot tool in this course.
 
+### Type of variables
+
+* Independent variable: This is the one changed by the scientist. 
+* Dependent variable: This is the variable that the scientist observes to see if or how it is affected by change made in the independent variable. 
+* Controlled variable. This is a variable that the scientist will try to keep constant while changing the independent variable. 
+
+In your lab this week you will how kinetic friction depends on the mass of the object. 
+
+|type|variable|
+|----
+|Independent| mass of IOLab+ stuff on it|
+|Dependent| kinetic friction|
+|Control| surface|
+
+There are often multiple
+
+
+
 ### Two quantitative variables. 
 
 We will often look at cases where we have two quantitative (numerical) variables. We will use the scatter plot to visualize. 
