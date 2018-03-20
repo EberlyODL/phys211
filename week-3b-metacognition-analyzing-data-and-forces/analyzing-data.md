@@ -37,7 +37,6 @@ We will often look at cases where we have two quantitative (numerical) variables
 A scatterplot is a graph with the independent variable (or function of) as the horizontal axis and the dependent variable (or function of) as the vertical axis. The paired data is represented as a dot on the graph. 
 </lrndesign-sidenote>
 
-
 When we look at a scatterplot, we are interested to see whether there is a pattern, a trend. 
 
 For example, the image below shows a scatterplot created in Statkey of the ph vs average mercury for 53 different lakes in Florida.
