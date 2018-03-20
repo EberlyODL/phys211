@@ -58,12 +58,15 @@ The correlation often denoted r is a number between -1 and 1. Values close to +1
 
 The regression line is the "best fit" for the data. It assumes a linear relationship between the dependent and independent variable. The regression line interpolates between the data point and allows you to predict the dependent variable based on a value of the dependent variable.
 
-</lrn-math> \rm{independent} = 
+</lrn-math> \rm{Dependent} = a + b\times \rm{Independent} </lrn-math>. 
+
+The regression line data on StatKey give both the slope (b) and the intercept (a). Both are super important. 
+
+We will use the correlation r as a measure of how good the fit is. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 When looking for linear relationship we may have to choose different functions of the dependent or independent variable.
 </lrndesign-sidenote>
 
 
-
-video how to use statkey for correlation
+Let me illustrate how to use statkey to measure correlation and do "best fit". video how to use statkey for correlation
