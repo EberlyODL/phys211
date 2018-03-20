@@ -25,15 +25,18 @@ In your lab this week you will how kinetic friction depends on the mass of the o
 |Dependent| kinetic friction|
 |Control| surface|
 
-There are often multiple
-
+There are often multiple control variables. It really refers to anything that you are NOT changing. 
 
 
 ### Two quantitative variables. 
 
-We will often look at cases where we have two quantitative (numerical) variables. We will use the scatter plot to visualize. 
+We will often look at cases where we have two quantitative (numerical) variables. We will use the scatterplot to visualize. 
 
-A scatterplot is a graph with the de
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Scatterplot
+A scatterplot is a graph with the independent variable (or function of) as the horizontal axis and the dependent variable (or function of) as the vertical axis. The paired data are represented as a dot on the graph. 
+</lrndesign-sidenote>
+
  
  Often in science we are interested in **correlations**. 
  
