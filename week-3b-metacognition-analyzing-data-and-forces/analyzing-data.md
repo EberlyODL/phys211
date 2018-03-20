@@ -68,6 +68,8 @@ We will use the correlation r as a measure of how good the fit is.
 When looking for linear relationship we may have to choose different functions of the dependent or independent variable.
 </lrndesign-sidenote>
 
-Let me illustrate how to use StatKey to measure correlation and do "best fit". In the video, I will test the relationship between the period of a mass on a spring and the spring constant of that spring. We have not see this yet but we will soon. the relationship is 
+Let me illustrate how to use StatKey to measure correlation and do "best fit". In the video, I will test the relationship between the period of a mass on a spring and the spring constant of that spring. We have not seen this yet but we will soon. the relationship is 
 
 <lrn-math inline> T = 2\pi\sqrt{\frac{m}{k}} </lrn-math>
+
+[ciscode|rev=1|tool=elmsmedia|item=4307|entity_type=node|render=display_mode|display_mode=mediavideo]
