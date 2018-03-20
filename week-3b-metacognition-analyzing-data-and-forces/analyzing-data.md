@@ -1,5 +1,6 @@
-Even in a perfect world, measured quantities normally varies and one goal of physics is to detect real variation on top of the normal "noise". 
-There are precise quantitative ways to do this but it requires more background in statistical method. In this course we will mostly use visual tools to make decisions about data. 
+Even in a perfect world, measured quantities normally varies and one goal of physics is to detect real variation on top of normal "noise". 
+
+There are precise quantitative ways to do this but it requires more background in statistical methods. In this course, we will mostly use visual tools to make decisions about data. 
   
 For lab 1, we looked at small vs big push of the IOLab. We used the boxplot feature in StatKey to visualize data. The boxplot gave us a very nice visual of multiple statistics such as the mean, median, and the range. The boxplot on Statkey even allowed us to quickly determine outliers. 
 
@@ -43,7 +44,7 @@ For example, the image below shows a scatterplot created in Statkey of the ph vs
 
 [ciscode|rev=1|tool=elmsmedia|item=4306|entity_type=node|render=display_mode|display_mode=image]
 
-While the data is pretty scattered, a careful observation of this scatter plot reveals there there seems to be a trend in that high ph lakes seems to be low average mercury while the reverse is true of low ph. 
+While the data is pretty scattered, a careful observation of this scatterplot reveals there there seems to be a trend in that high ph lakes seems to be low average mercury while the reverse is true of low ph. 
 
 On the right of the image, you see the mean and standard deviation of each variable as well as the sample size. There is a new statistics we have not seen before called the correlation.
 
