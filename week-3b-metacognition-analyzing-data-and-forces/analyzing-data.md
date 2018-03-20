@@ -34,9 +34,18 @@ We will often look at cases where we have two quantitative (numerical) variables
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 **Scatterplot**
-A scatterplot is a graph with the independent variable (or function of) as the horizontal axis and the dependent variable (or function of) as the vertical axis. The paired data are represented as a dot on the graph. 
+A scatterplot is a graph with the independent variable (or function of) as the horizontal axis and the dependent variable (or function of) as the vertical axis. The paired data is represented as a dot on the graph. 
 </lrndesign-sidenote>
 
+When we look at a scatterplot, we are interested to see whether there is a pattern, a trend. 
+
+
+### Regression line. 
+In particular in this class we will be looking for linear relationship (if there any). 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+When looking for linear relationship we may have to choose different functions of the dependend or independent variable. So 
+</lrndesign-sidenote>
 
  
  Often in science we are interested in **correlations**. 
