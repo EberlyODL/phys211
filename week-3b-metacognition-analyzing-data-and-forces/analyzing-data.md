@@ -43,7 +43,9 @@ For example, the image below shows a scatterplot created in Statkey of the ph vs
 
 [ciscode|rev=1|tool=elmsmedia|item=4306|entity_type=node|render=display_mode|display_mode=image]
 
-While the data is pretty scattered, a careful reveals there there seems to 
+While the data is pretty scattered, a careful observation reveals there there seems to be a trend in that high ph lakes seems to be low average mercury while the reverse is true of low ph. 
+
+On the right of the image, you see the mean and standard deviation of each variable as well as the sample size. There is new statistics we have not seen before, call the correlation
 
 
 ### Regression line. 
