@@ -33,9 +33,10 @@ There are often multiple control variables. It really refers to anything that yo
 We will often look at cases where we have two quantitative (numerical) variables. We will use the scatterplot to visualize. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Scatterplot
+**Scatterplot**
 A scatterplot is a graph with the independent variable (or function of) as the horizontal axis and the dependent variable (or function of) as the vertical axis. The paired data are represented as a dot on the graph. 
 </lrndesign-sidenote>
+
 
  
  Often in science we are interested in **correlations**. 
