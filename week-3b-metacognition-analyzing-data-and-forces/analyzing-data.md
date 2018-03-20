@@ -69,4 +69,4 @@ When looking for linear relationship we may have to choose different functions o
 </lrndesign-sidenote>
 
 
-Let me illustrate how to use statkey to measure correlation and do "best fit". video how to use statkey for correlation
+Let me illustrate how to use statkey to measure correlation and do "best fit". 
