@@ -1,6 +1,5 @@
 Even in a perfect world, measured quantities normally varies and one goal of physics is to detect real variation on top of the normal "noise". 
-There are precise quantitative way to do this but it requires a background in statistical method. In this course we will mostly use visual tool to make decisions about data. 
-
+There are precise quantitative ways to do this but it requires more background in statistical method. In this course we will mostly use visual tools to make decisions about data. 
   
 For lab 1, we looked at small vs big push. We used the boxplot feature in StatKey to visualize data. The boxplot gave us a very nice visual of multiple statistics such as the mean, median, and the range. The boxplot on Statkey even allowed us to quickly determine outliers. 
 
