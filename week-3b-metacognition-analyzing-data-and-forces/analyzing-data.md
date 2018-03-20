@@ -68,6 +68,6 @@ We will use the correlation r as a measure of how good the fit is.
 When looking for linear relationship we may have to choose different functions of the dependent or independent variable.
 </lrndesign-sidenote>
 
-Let me illustrate how to use statkey to measure correlation and do "best fit". In the video, I will test the relationship between the period of a pendulum and the mass. Newton's theory of gravity predict the following relation
+Let me illustrate how to use StatKey to measure correlation and do "best fit". In the video, I will test the relationship between the period of a mass on a spring and the spring constant of that spring. We have not see this yet but we will soon. the relationship is 
 
-<lrn-math inline> T = 2\pi\frac{
+<lrn-math inline> T = 2\pi\sqrt{\frac{m}{k}} </lrn-math>
