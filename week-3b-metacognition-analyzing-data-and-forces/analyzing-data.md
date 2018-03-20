@@ -52,6 +52,7 @@ On the right of the image, you see the mean and standard deviation of each varia
 The correlation is a measure of the strength and direction of linear association between two variables. 
 </lrndesign-sidenote>
 
+The correlation often denoted r is a number between -1 and 1. Values close to +1 or -1 means strong association (positive or negative) while values close to 0 means no association. 
 
 
 
