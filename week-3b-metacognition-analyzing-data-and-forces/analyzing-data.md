@@ -39,6 +39,12 @@ A scatterplot is a graph with the independent variable (or function of) as the h
 
 When we look at a scatterplot, we are interested to see whether there is a pattern, a trend. 
 
+For example, the image below shows a scatterplot created in Statkey of the ph vs average mercury for 53 different lakes in Florida.
+
+[ciscode|rev=1|tool=elmsmedia|item=4306|entity_type=node|render=display_mode|display_mode=image]
+
+While the data is pretty scattered, a careful reveals there there seems to 
+
 
 ### Regression line. 
 In particular in this class we will be looking for linear relationship (if there any). 
