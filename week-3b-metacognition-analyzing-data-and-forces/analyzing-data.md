@@ -54,10 +54,11 @@ The correlation is a measure of the strength and direction of linear association
 
 The correlation often denoted r is a number between -1 and 1. Values close to +1 or -1 means strong association (positive or negative) while values close to 0 means no association. 
 
-
 ### Regression line. 
 
-In particular in this class we will be looking for linear relationship (if there any). 
+The regression line is the "best fit" for the data. It assumes a linear relationship between the dependent and independent variable. The regression line interpolates between the data point and allows you to predict the dependent variable based on a value of the dependent variable.
+
+</lrn-math> \rm{independent} = 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 When looking for linear relationship we may have to choose different functions of the dependent or independent variable.
