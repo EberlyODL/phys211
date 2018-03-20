@@ -32,10 +32,11 @@ There are often multiple control variables. It really refers to anything that yo
 
 We will often look at cases where we have two quantitative (numerical) variables. We will use the scatterplot to visualize. 
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+<lrndesign-sidenote label="Definition" icon="bookmark" bg-color="#c2c2a3">
 **Scatterplot**
 A scatterplot is a graph with the independent variable (or function of) as the horizontal axis and the dependent variable (or function of) as the vertical axis. The paired data is represented as a dot on the graph. 
 </lrndesign-sidenote>
+
 
 When we look at a scatterplot, we are interested to see whether there is a pattern, a trend. 
 
@@ -43,13 +44,15 @@ For example, the image below shows a scatterplot created in Statkey of the ph vs
 
 [ciscode|rev=1|tool=elmsmedia|item=4306|entity_type=node|render=display_mode|display_mode=image]
 
-While the data is pretty scattered, a careful observation reveals there there seems to be a trend in that high ph lakes seems to be low average mercury while the reverse is true of low ph. 
+While the data is pretty scattered, a careful observation of this scatter plot reveals there there seems to be a trend in that high ph lakes seems to be low average mercury while the reverse is true of low ph. 
 
 On the right of the image, you see the mean and standard deviation of each variable as well as the sample size. There is a new statistics we have not seen before called the correlation.
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Correlation
+<lrndesign-sidenote label="Definition" icon="bookmark" bg-color="#c2c2a3">
+**Correlation**
+The correlation is a measure of the strength and direction of linear association between two variables. 
 </lrndesign-sidenote>
+
 
 
 
