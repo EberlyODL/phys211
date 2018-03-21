@@ -12,7 +12,7 @@ I remind you that models are really approximate description of real phenomena.
 2. Constant force. This is for objects on which the net force is constant. In this case there will be a constant acceleration in the same direction as the net force. One can use <lrn-math inline> \vec{F}_{net} =m\vec{a} </lrn-math> and the constant kinematic equation we have learned before. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Kinematics is still a crucial part of all of our problem solving skills. Since we will mostly work with the constant force model at first. We will often solve for a constant acceleration. The question may be asking about velocity and position in which case we need to use kinematics to from acceleration to other variables. 
+Kinematics is still a crucial part of all of our problem solving skills. Since we will mostly work with the constant force model at first, we will get a constant acceleration. The question may be asking about velocity and position in which case we need to use constant acceleration kinematics to solve for these variables. 
 </lrndesign-sidenote>
 
 
