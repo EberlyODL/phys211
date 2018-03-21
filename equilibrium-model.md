@@ -16,7 +16,7 @@ Kinematics is still a crucial part of all of our problem solving skills. Since w
 </lrndesign-sidenote>
 
 
-The problem solving strategy 6.1 is super important. Here it is summarize again
+The problem solving strategy 6.1 is super important. In a nutshell it is. 
 
 **Model**: the object as a dot and decide which force should be included or neglected. (use Tactics Box 5.2 to remember how to identify forces). 
 
