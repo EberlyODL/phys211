@@ -1,1 +1,1 @@
-We will study the force of gravity in more details at the end 
+We will study the force of gravity in more details at the end of the course. 

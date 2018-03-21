@@ -1,10 +1,10 @@
 ## Read the textbook, Chap 6: Dynamics I
 
-Start by reading the textbook carefully using paraphrasing and do the examples without looking at the solutions. If you want start with section 6.1 to 6.3 first, the read this page and next before start friction. 
+Start by reading the textbook carefully using paraphrasing and do the examples without looking at the solutions. If you want start with section 6.1 to 6.3 first thats fine. Then read this page and the next before starting with friction. 
 
-There are a total of 11 worked examples in the textbook in this chapter and all of them are important. The only way to learn dynamics is to practice it in multiple contexts. Make sure you look carefully at all exercises. 
+There are a total of 11 worked examples in the textbook in this chapter and all of them are important. The only way to learn dynamics is to practice it in multiple contexts. Make sure you look carefully at all exercises. Do them without looking at solutions. 
 
-section 6.1 to 6.3 discusses two models of Nature. 
+Section 6.1 to 6.3 discusses two models of Nature. 
 
 I remind you that models are really approximate description of real phenomena. 
 
