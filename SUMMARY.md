@@ -45,6 +45,8 @@
   * [Week 4A - Dynamics in one dimension](week-4a-dynamics-in-one-dimension.md)
     * [Equilibrium and Constant Force Models](equilibrium-model.md)
     * [Mass & Weight](mass-and-weight.md)
+    * Friction
+    * Drag
   * Week 4B - Newton's Third Law
   * Week 5A - Dynamics of Uniform Circular Motion
   * Week 5B - Work and Kinetic Energy and Dynamics of Oscillations 
