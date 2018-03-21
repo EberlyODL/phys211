@@ -32,4 +32,7 @@ In the following video, I illustrate the problem solving strategy.
 
 
 
+Tips to remember from the video and your readings
 
+* It is very good to tilt your coordinate axes to align as many forces as possible
+* When we write Newton's Law in component, we write the magnitude of forces (like n and T) and put the sign directly in front (+ or -). We account for direction by using <lrn-math inline> \cos\theta </lrn-math> or <lrn-math inline> \sin\theta </lrn-math>
