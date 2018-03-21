@@ -26,3 +26,10 @@ The problem solving strategy 6.1 is super important. Here it is summarize again
 
 ** Assess** Check units and whether the number make sense. 
 
+### Mechanical equilibrium. 
+
+In the following video, I illustrate the problem solving strategy. 
+
+
+
+
