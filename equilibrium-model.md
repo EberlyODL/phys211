@@ -30,6 +30,8 @@ The problem solving strategy 6.1 is super important. In a nutshell it is.
 
 In the following video, I illustrate the problem solving strategy. 
 
+[demo video with cart]
+
 Tips to remember from the video and your readings
 
 * It is always good to tilt your coordinate axes to align as many forces as possible (or align with the acceleration vectors). 
