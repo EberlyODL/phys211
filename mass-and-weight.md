@@ -10,4 +10,9 @@ with  <lrn-math inline>g = 9.80 m/s^2 </lrn-math> although we will use <lrn-math
 Do not confuse the force of gravity with weight. Weight refers to the force a scale reads when you are standing on it. Often it is the same as the force of gravity on you but not always. 
 </lrndesign-sidenote>
 
+[ciscode|rev=1|tool=elmsmedia|item=4308|entity_type=node|render=display_mode|display_mode=h5p]
+
+Another more intricate but very important example is as follows. This is also in your textbook, Fig 6.10 and surrounding text.
+
+
 
