@@ -42,6 +42,7 @@
     * [Rocket in space](week-3b-metacognition-analyzing-data-and-forces/rocket-in-space.md)
     * [Simulation: Forces and Motion](week-3b-metacognition-analyzing-data-and-forces/simulation-forces-and-motion.md)
     * [Analyzing data. ](week-3b-metacognition-analyzing-data-and-forces/analyzing-data.md)
+    * [How to Use Excel](week-3b-metacognition-analyzing-data-and-forces/how-to-use-excel.md)
     * [The Best Fit!](week-3b-metacognition-analyzing-data-and-forces/the-best-fit.md)
   * [Week 4A - Dynamics in one dimension](week-4a-dynamics-in-one-dimension.md)
     * [Equilibrium and Constant Force Models](equilibrium-model.md)
