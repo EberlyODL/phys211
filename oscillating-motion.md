@@ -9,7 +9,8 @@ If the acceleration is not constant, the general relationships still holds.
 
 Oscillatory motion is the primary example that we will study in this class of a non-constant acceleration motion. 
 
-Demo videos, example of mass on springs...
+[Demo videos, example of mass on springs...]
+
 
 Your book covers oscillatory motion in one chapter at the end. In this class, we will introduce oscillatory motions gradually as we go along. For the moment, we are only interested in the kinematics of oscillatory motion, section 15.1 and the beginning of section 15.4
 
