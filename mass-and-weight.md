@@ -12,7 +12,8 @@ Do not confuse the force of gravity with weight. Weight refers to the force a sc
 
 [ciscode|rev=1|tool=elmsmedia|item=4308|entity_type=node|render=display_mode|display_mode=h5p]
 
-Another more intricate but very important example is as follows. This is also in your textbook, Fig 6.10 and surrounding text.
+Another more intricate but very important example is below. This is also in your textbook, Fig 6.10 and surrounding text.
 
+[ciscode|rev=1|tool=elmsmedia|item=4309|entity_type=node|render=display_mode|display_mode=h5p]
 
-
+Note that you feel heavier or lighter when an elevator starts or stops. This is your weight. If the cable was to suddenly break, you and the elevator would be in free fall and the scale would read zero. You would be weightless. 
