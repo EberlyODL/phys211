@@ -17,4 +17,4 @@ Tactics Box 5.2 and Tactics Box 5.3 are crucial to master for the rest of the co
 </lrndesign-sidenote>
 
 
-Read my chapter summary.   
+Read my chapter summary!  
