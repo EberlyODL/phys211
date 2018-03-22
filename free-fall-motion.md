@@ -15,6 +15,11 @@ or in huge NASA vacuum chambers.
 
 [ciscode|rev=1|tool=elmsmedia|item=4245|entity_type=node|render=display_mode|display_mode=mediavideo]
 
+
+And of course, we should never believe what other people's do. You can do it yourself 
+
+[demo ball in free fall]
+
 ### Our convention
 
 In this class, we will always take the y axis to be pointing upward from the surface of the Earth. The magnitude of the free fall acceleration is 
