@@ -17,3 +17,6 @@ Sometimes, you will not know if 1) the object is moving and 2) which way the fri
 </lrndesign-sidenote>
 
 [ciscode|rev=1|tool=elmsmedia|item=4314|entity_type=node|render=display_mode|display_mode=h5p]
+
+below, I work on this problem a bit more. 
+[ciscode|rev=1|tool=elmsmedia|item=4315|entity_type=node|render=display_mode|display_mode=mediavideo]
