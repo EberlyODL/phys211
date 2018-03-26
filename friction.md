@@ -15,3 +15,5 @@ Here is another example. Take your time with this one, first do the free-body di
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Sometimes, you will not know if 1) the object is moving and 2) which way the friction should be. You have to do detective work and try one case to see if it makes sense (if it does not then you try another). 
 </lrndesign-sidenote>
+
+[ciscode|rev=1|tool=elmsmedia|item=4314|entity_type=node|render=display_mode|display_mode=h5p]
