@@ -52,6 +52,7 @@
   * [Week 4B - Newton's Third Law](week-4b-newtons-third-law.md)
     * [Interacting Objects](week-4b-newtons-third-law/interacting-objects.md)
     * [Newton's Third Law](week-4b-newtons-third-law/newtons-third-law.md)
+    * [Ropes and Pulleys](week-4b-newtons-third-law/ropes-and-pulleys.md)
     * [Problem solving with multiple objects](week-4b-newtons-third-law/problem-solving-with-multiple-objects.md)
   * Week 5A - Dynamics of Uniform Circular Motion
   * Week 5B - Work and Kinetic Energy and Dynamics of Oscillations 

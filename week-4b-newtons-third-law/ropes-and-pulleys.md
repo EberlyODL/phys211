@@ -1,0 +1,1 @@
+We will almost always consider massless ropes in this course. We will eventually consider real massive pulley with friction but for the moment we will consider pulleys which have very low mass and very low friction. 
