@@ -1,6 +1,5 @@
 [demo video friction]
 
-
 [ciscode|rev=1|tool=elmsmedia|item=4312|entity_type=node|render=display_mode|display_mode=h5p]
 
 Look at example 6.10 in your book regarding the last question.
