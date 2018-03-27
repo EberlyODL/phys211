@@ -8,4 +8,5 @@ For example, a cylinder falling down has C = 1.1 and <lrn-math inline>A = 2\pi r
 
 [ciscode|rev=1|tool=elmsmedia|item=4317|entity_type=node|render=display_mode|display_mode=image]
 
-The most important concept about drag is that it depends on the velocity square and that it can lead to terminal velocity. At terminal velocity, the acceleration is zero, therefore you can use Newton's law to find the drag force, you may not need the complicated formulae above.
+The most important concept about drag is that it depends on the velocity square and opposes motion. The drag will increase has object speed up but only up to a point called the  terminal velocity. At terminal velocity, the acceleration is zero, therefore you can use Newton's law to find the drag force, you may not need the complicated formulae above.
+
