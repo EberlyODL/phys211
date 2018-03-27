@@ -6,3 +6,5 @@ In this demo, Anne-Sylvie and I illustrate Newton's third law in action with rop
 
 The concept of tension can be tricky. Always draw free-body diagrams. 
 
+[ciscode|rev=1|tool=elmsmedia|item=4326|entity_type=node|render=display_mode|display_mode=h5p]
+
