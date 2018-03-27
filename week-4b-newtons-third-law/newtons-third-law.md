@@ -16,4 +16,5 @@ But the force on R coming from B and the forces on B coming from R are third law
 
 
 
+
  
