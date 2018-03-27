@@ -4,3 +4,5 @@ In this demo, Anne-Sylvie and I illustrate Newton's third law in action with rop
 
 [demo bowling balls]
 
+The concept of tension can be tricky. Always draw free-body diagrams. 
+
