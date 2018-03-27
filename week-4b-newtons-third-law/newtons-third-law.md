@@ -1,1 +1,5 @@
-The runner starting block can be represented using a 
+The runner/starting block/ground/Earth system can be represented using an interaction diagram. 
+
+We will not use interaction diagram very much in the course. There are only mildly useful in problem solving but they have in their places in the textbook as they do help to visualize what is going on. 
+
+ 
