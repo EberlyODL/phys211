@@ -2,6 +2,9 @@ As usual start by reading Chap 7 and do the examples without looking at solution
 
 Do not look at the worked out solutions, come read these pages, ask questions and try the examples again at a later time. 
 
-In the next few page, I will elaborate more on the material. Interacting object.
+In the next few page, I will elaborate more on the material. 
 
-In the following image, a runner use a launching block to propel herself forward. 
+### Interacting object. (7.1-7.2)
+
+In the following image, a runner uses a launching block to propel herself forward. 
+
