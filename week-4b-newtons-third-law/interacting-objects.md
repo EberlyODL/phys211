@@ -39,6 +39,13 @@ With this notation the free body diagram for the runner becomes
 
 and the free body diagram for the starting block will be 
 
+[ciscode|rev=1|tool=elmsmedia|item=4322|entity_type=node|render=display_mode|display_mode=image]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+All the forces on the free-body diagram of the runner are "on R" while all the forces on the free-body diagram of the starting block are "on B". Make sure you put the forces at the correct place!
+</lrndesign-sidenote>
+
+
 
 
 
