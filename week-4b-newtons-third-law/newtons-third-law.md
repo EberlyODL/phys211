@@ -8,6 +8,8 @@ All the forces have third law partners but since we have only shown the free-bod
 
 But the force on R coming from B and the forces on B coming from R are third law partners and we know that their magnitude are the same (but they have opposite directions). 
 
+[ciscode|rev=1|tool=elmsmedia|item=4324|entity_type=node|render=display_mode|display_mode=image]
+
 
 
  
