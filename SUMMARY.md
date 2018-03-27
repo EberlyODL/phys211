@@ -51,6 +51,7 @@
     * [Drag](drag.md)
   * [Week 4B - Newton's Third Law](week-4b-newtons-third-law.md)
     * [Interacting Objects](week-4b-newtons-third-law/interacting-objects.md)
+    * [Newton's Third Law](week-4b-newtons-third-law/newtons-third-law.md)
   * Week 5A - Dynamics of Uniform Circular Motion
   * Week 5B - Work and Kinetic Energy and Dynamics of Oscillations 
   * Week 6A - Potential and Thermal Energy
