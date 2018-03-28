@@ -4,5 +4,6 @@ Beside the importance of understanding Newton's third law conceptually, it comes
 
 In general, in a problem with multiple objects, each object would have its own acceleration <lrn-math inline>\vec{a}_A, \vec{a}_B, c\dots </lrn-math> When multiple objects are connected or in contact, the acceleration are often related in some ways. 
 
+In the video below. 
 [psv on object with mass]
 
