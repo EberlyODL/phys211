@@ -6,7 +6,7 @@ In general, in a problem with multiple objects, each object would have its own a
 
 In the video below, I am solving the following problem. 
 
-Consider two books: the lower book has mass <lrn-math inline> m_2 </lrn-math> and is resting on a nearly frictionless surface. Suppose the coefficient of static friction between the books is <lrn-math inline>\mu_s </lrn-math>.
+Consider two books: the lower book has mass <lrn-math inline> m_2 </lrn-math> and is resting on a nearly frictionless surface while the upper has mass <lrn-math inline> m_1 </lrn-math>. Suppose the coefficient of static friction between the books is <lrn-math inline>\mu_s </lrn-math>.
 
 With what maximum force can the upper book be pushed horizontally so that the books move together without slipping?
 
