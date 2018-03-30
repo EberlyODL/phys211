@@ -1,0 +1,1 @@
+There is nothing new in this chapter in terms of theory. But dynamics of circular motion is tricky and can 
