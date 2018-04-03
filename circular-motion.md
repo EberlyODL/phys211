@@ -8,3 +8,10 @@ There is nothing new in this chapter in terms of theory. Dynamics of circular mo
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Do not get confused by the circular motion when identifying forces. You should forget about the motion when identifying forces. What is the object touching, you get contact forces for those and thats it. 
 </lrndesign-sidenote>
+
+
+Here is an example of circular motion. This is just a coin on a turntable. 
+
+[demo video]
+
+[ciscode|rev=1|tool=elmsmedia|item=4337|entity_type=node|render=display_mode|display_mode=h5p]
