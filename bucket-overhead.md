@@ -31,6 +31,8 @@ or <lrn-math inline> v> \sqrt{\frac{gr}{\mu_s}} </lrn-math>.
 
 ### Water in the bucket or the loop-the-loop
 
+[ciscode|rev=1|tool=elmsmedia|item=4341|entity_type=node|render=display_mode|display_mode=h5p]
 
+This scenario will come back again and again. It is described in the book section 8.4 and I discussed it in this short video. 
 
-This scenario
+[demo bucket]
