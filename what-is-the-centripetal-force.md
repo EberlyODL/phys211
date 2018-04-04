@@ -4,7 +4,7 @@ For a coin on a turntable that is not sliding, the static friction must be the c
 
 [ciscode|rev=1|tool=elmsmedia|item=4338|entity_type=node|render=display_mode|display_mode=image]
 
-Here is another example of circular motion. 
+Here is another example of circular motion, the spinning centrifuge or <a href="https://en.wikipedia.org/wiki/Wall_of_death" target="_blank">"wall of death"</a> 
 
 [demo]
 
@@ -21,4 +21,4 @@ To repeat, we will not often use the word centripetal force since it is not a ne
 </lrndesign-sidenote>
 
 
-Because both of the previous examples
+Because both of the previous examples involve static friction, you may guess that something special will happen if the maximum static friction is exceeded. 
