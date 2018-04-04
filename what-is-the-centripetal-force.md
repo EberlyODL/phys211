@@ -20,3 +20,5 @@ For a car on banked road, the centripetal force will be a combination of the nor
 To repeat, we will not often use the word centripetal force since it is not a new type of force. The force that cause circular motion are the same forces that we saw before. Circular motion only requires that the net force be in the direction of the center of the circle. 
 </lrndesign-sidenote>
 
+
+Because both of the previous examples
