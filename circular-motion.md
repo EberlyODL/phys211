@@ -10,7 +10,7 @@ Do not get confused by the circular motion when identifying forces. You should f
 </lrndesign-sidenote>
 
 
-Here is an example of circular motion. This is just a coin on a turntable. 
+Here is an example of circular motion. This is just a "coin", really a weighted mass, on a turntable. 
 
 [demo video]
 
