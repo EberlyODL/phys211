@@ -15,5 +15,5 @@ If we do a free-body diagram of the mass spinning in the centrifuge it looks lik
 This is almost the same as the coin on the turntable but with friction and normal reversed. Now the normal force is the centripetal force!
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-To repeat, we will not often use the word centripetal force since there its not a new type of force. The force that cause circular motion are the same forces that we saw before. Circular motion only requires that the net force be in the direction of the center of the circle. 
+To repeat, we will not often use the word centripetal force since there it is not a new type of force. The force that cause circular motion are the same forces that we saw before. Circular motion only requires that the net force be in the direction of the center of the circle. 
 </lrndesign-sidenote>
