@@ -56,6 +56,7 @@
     * [Problem solving with multiple objects](week-4b-newtons-third-law/problem-solving-with-multiple-objects.md)
   * [Week 5A - Dynamics of Uniform Circular Motion](week-5a-dynamics-of-uniform-circular-motion.md)
     * [Circular Motion](circular-motion.md)
+    * [What is the centripetal force?](what-is-the-centripetal-force.md)
   * Week 5B - Work and Kinetic Energy and Dynamics of Oscillations 
   * Week 6A - Potential and Thermal Energy
   * Week 6B - Conservation of Energy and Momentum

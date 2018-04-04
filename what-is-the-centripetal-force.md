@@ -1,0 +1,1 @@
+As you saw in the last question, the centripetal force is not a new special force. The centripetal force refers to the net force in circular motion which must 
