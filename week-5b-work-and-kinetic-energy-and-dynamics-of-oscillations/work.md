@@ -18,5 +18,5 @@ There are 13 worked examples. As usual, these are all important problems includi
 [demo weight]
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Work has a very specific meaning in physics. It is a transfer of energy to the system because of mechanics forces. 
+Work has a very specific meaning in physics. It is a transfer of energy to the system because of mechanical forces. 
 </lrndesign-sidenote>
