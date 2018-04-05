@@ -12,3 +12,4 @@ There are two "aside" that on this chapter that are important. These two concept
 * Hooke's Law. This is really a new force, the spring force. We could have done this in Chap 6 but there was enough new stuff by then so its here now. This force is variable, it changes as the stretching/compressing changes.  
 
 There are 13 worked examples. As usual, these are all important problems including the very last one, the "challenge". Make sure you do without looking at solutions. 
+
