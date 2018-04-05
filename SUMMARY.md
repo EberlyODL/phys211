@@ -58,7 +58,8 @@
     * [Circular Motion](circular-motion.md)
     * [What is the centripetal force?](what-is-the-centripetal-force.md)
     * [Bucket overhead](bucket-overhead.md)
-  * Week 5B - Work and Kinetic Energy and Dynamics of Oscillations 
+  * [Week 5B - Work and Kinetic Energy and Dynamics of Oscillations ](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations.md)
+    * Work
   * Week 6A - Potential and Thermal Energy
   * Week 6B - Conservation of Energy and Momentum
   * Week 7A - Collisions, Rigid Bodies and Center of Mass
