@@ -11,3 +11,5 @@ Static friction can do work but as we will see kinetic friction does not.
 ### Variable force
 
 If the force varies, the work done is the integral of the force over the line. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4349|entity_type=node|render=display_mode|display_mode=h5p]
