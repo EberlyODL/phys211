@@ -13,3 +13,7 @@ Static friction can do work but as we will see kinetic friction does not.
 If the force varies, the work done is the integral of the force over the line. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4349|entity_type=node|render=display_mode|display_mode=h5p]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Most of the force we have seen in this class
+</lrndesign-sidenote>
