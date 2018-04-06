@@ -20,3 +20,5 @@ There are 13 worked examples. As usual, these are all important problems includi
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Work has a very specific meaning in physics. It is a transfer of energy to the system because of mechanical forces. 
 </lrndesign-sidenote>
+
+[ciscode|rev=1|tool=elmsmedia|item=4346|entity_type=node|render=display_mode|display_mode=h5p]
