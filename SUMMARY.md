@@ -60,6 +60,7 @@
     * [Bucket overhead](bucket-overhead.md)
   * [Week 5B - Work, Kinetic Energy and Hooke's Law](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations.md)
     * [Work](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/work.md)
+    * [Something the work is zero!](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/something-the-work-is-zero.md)
     * Spring Forces
   * Week 6A - Potential and Thermal Energy
   * Week 6B - Conservation of Energy and Momentum
