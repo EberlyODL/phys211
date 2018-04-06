@@ -4,6 +4,6 @@
 In order to do work, the point of application of the force must move. 
 </lrndesign-sidenote>
 
-In circular motion, many of the forces are perpendicular to the 
+In circular motion, many of the forces are perpendicular to the    displacement and the work done would be zero. 
 
 Static friction can do work but as we will see kinetic friction does not. 
