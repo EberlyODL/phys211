@@ -66,11 +66,11 @@
     * [A sense for energy and power](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/a-sense-for-energy-and-power.md)
   * [Week 6A -Conservation of Energy](week-6a-potential-and-thermal-energy.md)
     * [Potential Energy](potential-energy.md)
-  * Week 6B - Conservation of Energy and Momentum
+  * Week 6B - Oscillations
   * Week 7A - Collisions, Rigid Bodies and Center of Mass
   * Week 7B - Moment of Inertia, Torque and Equilibrium
   * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
   * [Week 8B - Conservation of Angular Momentum and Gravity](week-8b-conservation-of-angular-momentum-and-gravity.md)
-  * Week 9A - Oscillations and Study
+  * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
 
