@@ -20,7 +20,7 @@ The energy per gram is written in different units. You may already know the Calo
 
 1 Wh = 1 Calorie. \(approximately\)
 
-Up to now we have been using the prefer the SI unit of Joules.
+Up to now we have been using the SI unit of Joules.
 
 4200 Joules = 1 Calorie  
 3600 Joules = 1 Wh
