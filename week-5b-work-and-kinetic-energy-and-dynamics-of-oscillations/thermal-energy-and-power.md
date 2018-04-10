@@ -62,5 +62,5 @@ There are many important points to remember here
 
 * The choice of system is important. If you choose a system with a dissipative force as an external force, you will not be able to (at least easily) apply conservation of energy since it is hard to know how much of the dissipated energy goes in the system versus how much goes out. Just choose a different system! Always put friction (kinetic or rolling) inside the system. 
 
-* The formula for <lrn-math inline> \Delta E_{th} = f_k\Delta s </lrn-math> is very similar looking to what you would get if friction did do work. It make sense its that way but it led to many errors in many textbook and you can often see the phrase "work done by friction". 
+* The formula for <lrn-math inline> \Delta E_{th} = f_k\Delta s </lrn-math> is very similar looking to what you would get if friction did do work. It make sense its that way but it led to many errors in many textbook and you can often see the phrase "work done by friction". Just don't be confused if you see this. 
 

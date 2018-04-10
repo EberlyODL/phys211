@@ -1,6 +1,8 @@
+Energy takes many different forms. As we have discussed, energy can be stored in system as potential energy. Chemical energy of molecular bonds, nuclear energy of nuclear bonds, electric energy, gravitational energy, etc. 
 
+Energy is a real thing even though you cannot see it. It can be counted. Let us get a feeling for some energy values. 
 
-Look at the table below - it shows the amount of energy a 1 gram mass of each object has. Isn't it strange that chocolate chip cookies have more "usable energy" than TNT? Why, then, is dynamite so much more dangerous than cookies? The key difference is how fast the energy is released, and this has to do with power. Look at the table below. It has some very interesting numbers.
+Look at the table below - it shows the amount of usable (extractable) energy a 1 gram mass of each object has. Isn't it strange that chocolate chip cookies have more "usable energy" than TNT? Why, then, is dynamite so much more dangerous than cookies? The key difference is how fast the energy is released, and this has to do with power. Look at the table below. It has some very interesting numbers.
 
 | Object | Calories | Joules | Compared to TNT | Type of Energy |
 | :--- | :--- | :--- | :--- | :--- |
@@ -14,23 +16,16 @@ Look at the table below - it shows the amount of energy a 1 gram mass of each ob
 | Asteroid or Meteor \(30km/s\) | 107 | 450 kJ | 165 | Kinetic |
 | Uranium | 20 million | 84 billion J | 30 million | Nuclear |
 
-The energy per gram is written in different units. You already know the Calorie. We often use the kilowatt-hour abbreviated kWh in our electricity meters outside of our houses. Electric companies sell us energy in kWh. One kWh is 1000 watt-hour \(Wh\) and we have that approximately
+The energy per gram is written in different units. You may already know the Calorie. We often use the kilowatt-hour abbreviated kWh in our electricity meters outside of our houses. Electric companies sell us energy in kWh. One kWh is 1000 watt-hour \(Wh\) and we have that approximately
 
 1 Wh = 1 Calorie. \(approximately\)
 
-Physicists prefer the unit of Joules which is the natural unit to use in their equations \(and the SI unit\).
+Up to now we have been using the prefer the SI unit of Joules.
 
 4200 Joules = 1 Calorie  
 3600 Joules = 1 Wh
 
-As you can see from the table, for the same mass of fuel, uranium is the big winner. The energy that is accessible in uranium is the binding energy between neutrons and protons in the nucleus. We will learn more about this in the future but for now it is important to know that nuclear energy is often _much much_ bigger per gram than chemical energy \(TNT, cookies\) or energy stored in batteries.
-
-[ciscode|rev=1|tool=elmsmedia|item=428|entity_type=node|render=display_mode|display_mode=image**right**circle__lightboxed]
-
-* Marie: Do you play a sport, Sophie?
-* Sophie: Yes, I play volleyball.
-* M: Ah, great example. This is a sport that has more to do with power than energy.
-* M: Some sports require a lot of energy constantly, say like running. These are sports of endurance. But volleyball, or say football, often requires very quick bursts of energy release. These sports are not so much about energy, they require high power.
+As you can see from the table, for the same mass of fuel, uranium is the big winner. The energy that is accessible in uranium is the binding energy between neutrons and protons in the nucleus. 
 
 ## Power
 
@@ -42,9 +37,8 @@ Usain Bolt has a high power when he sprints the 100 meters in less than 10 secon
 
 TNT has less energy per gram than cookies but it has a high power. TNT is made to release its energy very quickly. TNT explodes while chocolate chip cookies require more time to release all their energy.
 
-## How Much Energy and Power?
+## How Much and Power?
 
-Let us see if you can estimate roughly how much power are in these various circumstances.
 
 | Value | Equivalent | Example |
 | :--- | :--- | :--- |
