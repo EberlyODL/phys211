@@ -46,18 +46,21 @@ In Phys 211, we will no yet learn the tools on how to compute the exact amount o
 
 Kinetic (and rolling) friction are good examples where the naïve use of <lrn-math inline> W = \Delta K </lrn-math> fails. 
 
-It is never correct to say that friction does work since work is a transfer of energy to the system. But when you rub your two hands together, both hands get warmer. Friction does not just transfer energy to the system on which it is applied. Both the object and the surface gets warmer. 
+It is never correct to say that friction does work since work is a transfer of energy to the system. When you rub your two hands together, both hands get warmer. Friction does not just transfer energy to the system on which it is applied. Both the object and the surface gets warmer. 
 
-More technically, because friction is fundamentally a force applied on a surface with many particles, the derivation of work from Newton's second law does not apply. 
+More technically, because friction is fundamentally a force applied on a surface with many particles, the derivation of work from Newton's second law does not apply. Kinetic and rolling friction involve multiple deformation, breakage that are hard to fully account for.  
 
-Nevertheless, as shown in your book, it is simple to prove that if you define the system to include the object and the surface on which it slides, then the friction is an internal force. It does not do work but it will increase the thermal energy of the system. The amount of the increase is
+If you define the system to include the object and the surface on which it slides, then the friction is an internal force. It does not do work but it will increase the thermal energy of the system. As shown in your book, it is simple to prove that the amount of the increase is
 
 <lrn-math inline> \Delta E_{th} = f_k\Delta s </lrn-math>
 
 replacing <lrn-math inline>f_k </lrn-math> by </lrn-math> f_r </lrn-math> for rolling friction.
 
 There are many important points to remember here 
-* Static friction never does work. For a force to do the point of contact of the force needs to move and static friction does not do work. 
-* The choice of system is important. If you choose a system with a dissipative force as an external force, you will need to be able to (at least easily) apply conservation of energy since it is at first impossible to know how much of the dissipated energy goes in the system versus how much goes out. Just choose a different system and you can solve the problem!
-* The formula for <lrn-math inline> \Delta E_{th} = f_k\Delta s </lrn-math>
+
+* Static friction never does work or increase thermal energy. It does neither. For a force to do the point of contact of the force needs to move and static friction does not do work. A car that propel itself with static friction is using the energy from the gasoline or battery, not from the road. 
+
+* The choice of system is important. If you choose a system with a dissipative force as an external force, you will not be able to (at least easily) apply conservation of energy since it is hard to know how much of the dissipated energy goes in the system versus how much goes out. Just choose a different system! Always put friction (kinetic or rolling) inside the system. 
+
+* The formula for <lrn-math inline> \Delta E_{th} = f_k\Delta s </lrn-math> is very similar looking to what you would get if friction did do work. It make sense its that way but it led to many errors in many textbook and you can often see the phrase "work done by friction". 
 
