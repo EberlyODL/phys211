@@ -21,4 +21,8 @@ The formula for work comes from integrating the variable spring force. Look at f
 Again a common mistake is to forget the equilibrium position <lrn-math inline>s_e </lrn-math>
 </lrndesign-sidenote>
 
+### Check your understanding. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4354|entity_type=node|render=display_mode|display_mode=h5p]
+
 
