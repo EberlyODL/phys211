@@ -65,6 +65,7 @@
     * [Thermal Energy](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/thermal-energy-and-power.md)
     * [A sense for energy and power](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/a-sense-for-energy-and-power.md)
   * [Week 6A -Conservation of Energy](week-6a-potential-and-thermal-energy.md)
+    * [Potential Energy](potential-energy.md)
   * Week 6B - Conservation of Energy and Momentum
   * Week 7A - Collisions, Rigid Bodies and Center of Mass
   * Week 7B - Moment of Inertia, Torque and Equilibrium
