@@ -46,5 +46,11 @@ In Phys 211, we will no yet learn the tools on how to compute the exact amount o
 
 Kinetic (and rolling) friction are a good example where the naïve use of <lrn-math inline> W = \Delta K </lrn-math> fails. 
 
-It is never correct to say that friction does work since work is a transfer of energy to the system. But when you 
+It is never correct to say that friction does work since work is a transfer of energy to the system. But when you rub your two hands together, both hands get warmer. Friction does not just transfer energy to the system on which it is applied. Both the object and the surface gets warmer. 
+
+More technically, because friction is fundamentally a force applied on a surface with many particles, the derivation of work from Newton's second law does not apply. 
+
+Nevertheless, as shown in your book, it is simple to prove that if you define the system to include the object and the surface on which it slides, then the friction is an internal force. It does not do work but it will increase the thermal energy of the system. The amount of the increase is
+
+<lrn-math inline> \Delta E_{th} = f_k\Delta s </lrn-math>
 
