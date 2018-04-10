@@ -66,8 +66,8 @@
   * Week 6B - Conservation of Energy and Momentum
   * Week 7A - Collisions, Rigid Bodies and Center of Mass
   * Week 7B - Moment of Inertia, Torque and Equilibrium
-  * Week 8A - Rotational Dynamics 
-  * Week 8B - Conservation of Angular Momentum and Gravity
+  * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
+  * [Week 8B - Conservation of Angular Momentum and Gravity](week-8b-conservation-of-angular-momentum-and-gravity.md)
   * Week 9A - Oscillations and Study
 * [End of book ](end-of-book.md)
 
