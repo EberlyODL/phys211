@@ -63,7 +63,7 @@
     * [Sometime the work is zero!](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/something-the-work-is-zero.md)
     * [Spring Forces](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/spring-forces.md)
     * [Thermal Energy](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/thermal-energy-and-power.md)
-    * A sense for energy and power
+    * [A sense for energy and power](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/a-sense-for-energy-and-power.md)
   * Week 6A - Potential and Thermal Energy
   * Week 6B - Conservation of Energy and Momentum
   * Week 7A - Collisions, Rigid Bodies and Center of Mass
