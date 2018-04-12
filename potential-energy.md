@@ -23,3 +23,14 @@ Energy problems are easy to solve and usually involve a single equation of the f
 </lrndesign-sidenote>
 
 There are 11 worked examples. As usual, these are all important problems including the very last one, the "challenge". Make sure you do them without looking at solutions.
+
+### Gravitational potential. 
+
+As shown in your book, a system made of a mass m and the Earth has the following gravitational potential energy if the mass is near the surface of the Earth. 
+
+<lrn-math inline>U_G=mgy </lrn-math>
+
+Some comments
+* The Earth must be part of the system in consideration. If it was not, the gravitational force would be external and the Earth would be doing work on the mass. Treating the force as external and doing work is a fine and correct way to analyze the situation but then we cannot discuss potential energy. If gravity is external, it does work. If it is internal, we have potential energy. We never have both at the same time!
+* This potential energy depends on the relative position of the mass and the Earth (on y). By moving the mass up, I increase the potential energy of the mass-Earth system. 
+* Potential energy is stored in the gravitational field. We will not discuss this further in this class but we will return tp this concept in Phys 212 (the electric field). For now, you should know that the potential energy is spread out between the mass and the Earth in a physical, but not visible, very real and very important entity known as the gravitational field. 
