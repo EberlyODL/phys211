@@ -1,6 +1,6 @@
 Kinematics was about describing motion quantitatively given a known acceleration which could be zero for uniform motion. 
 
-Sometimes the acceleration was zero for uniform motion, g for free fall or <lrn-math inline> v^2/r </lrn-math> for circular motion. But why are some objects accelerated while others are not? What causes motion?
+Sometimes the acceleration was zero for uniform motion, g for free fall. But why are some objects accelerated while others are not? What causes motion?
 
 ### Dynamics
 

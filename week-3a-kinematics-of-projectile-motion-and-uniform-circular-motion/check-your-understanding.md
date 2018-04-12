@@ -1,4 +1,4 @@
-Mathematical aside. Proportional Reasoning. Read ahead to page 118 Mathematical aside in Chap 5. 
+Mathematical aside. Proportional Reasoning. Read page 118 Mathematical aside in Chap 5. 
 
 Two quantity are proportional when there is a direct relation between like
 <lrn-math inline>

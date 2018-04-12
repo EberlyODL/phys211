@@ -1,4 +1,4 @@
-Here is the story of 4 Phys 211 students and their exam grade (3 midterm and a final
+Here is the "grade evolution" of four past Phys 211 students (3 midterm and a final)
 
 |Students|MT1|MT2|MT3|FNL|Grade in class|
 |----
@@ -6,6 +6,8 @@ Here is the story of 4 Phys 211 students and their exam grade (3 midterm and a f
 |Kristy| 60|100|95|84|A|
 |Blanche|64|79|87|100|A|
 |Joshua|78|50|87|97|A|
+
+What happen for these students. They change some key aspects of their learning strategies. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
   It is possible to completely turn your performance around if you make some changes to the way you learn. Metacognition is the key!
