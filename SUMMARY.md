@@ -73,7 +73,7 @@
     * [Other forms of energy](other-forms-of-energy.md)
     * [Energy Diagrams](energy-diagrams.md)
   * [Week 6B - Oscillations](week-6b-oscillations.md)
-  * [Review of Simple Harmonic Motion](review-of-simple-harmonic-motion.md)
+    * [Review of Simple Harmonic Motion](review-of-simple-harmonic-motion.md)
   * [Week 7A - Conservation of Momentum](week-7a-collisions-rigid-bodies-and-center-of-mass.md)
   * Week 7B -  Rigid Bodies
   * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
