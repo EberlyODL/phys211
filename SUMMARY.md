@@ -71,6 +71,7 @@
     * [Energy Bar Charts](loops-and-tracks.md)
     * [Loops and Tracks](loops-and-track.md)
     * Other forms of energy
+    * [Energy Diagrams](energy-diagrams.md)
   * Week 6B - Oscillations
   * [Week 7A - Conservation of Momentum](week-7a-collisions-rigid-bodies-and-center-of-mass.md)
   * Week 7B -  Rigid Bodies
