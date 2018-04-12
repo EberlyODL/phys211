@@ -22,3 +22,6 @@ or
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Note that <lrn-math inline> W_{ext} </lrn-math> is from external forces only. Kinetic friction should always be internal and contribute to <lrn-math inline> \Delta E_{th} </lrn-math> which we never write as an inital and final since we do not have the tools yet to quantify the amount of thermal energy in an object (see Phys 213). 
 </lrndesign-sidenote>
+
+
+[ciscode|rev=1|tool=elmsmedia|item=4363|entity_type=node|render=display_mode|display_mode=h5p]
