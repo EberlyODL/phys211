@@ -8,5 +8,10 @@ A good analogy that works well is to think of this as a roller coaster.
 
 Energy diagrams tell you
 
-* turning points
-* 
+* turning points of the motion. 
+* equilibrium (stale and unstable)
+* the force (negative of the slope). 
+
+[ciscode|rev=1|tool=elmsmedia|item=4366|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=4367|entity_type=node|render=display_mode|display_mode=h5p]
