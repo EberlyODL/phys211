@@ -68,7 +68,8 @@
     * [A sense for energy and power](week-5b-work-and-kinetic-energy-and-dynamics-of-oscillations/a-sense-for-energy-and-power.md)
   * [Week 6A -Conservation of Energy](week-6a-potential-and-thermal-energy.md)
     * [Potential Energy](potential-energy.md)
-    * [Loops and Tracks](loops-and-tracks.md)
+    * [Energy Bar Charts](loops-and-tracks.md)
+    * [Loops and Tracks](loops-and-track.md)
   * Week 6B - Oscillations
   * [Week 7A - Conservation of Momentum](week-7a-collisions-rigid-bodies-and-center-of-mass.md)
   * Week 7B -  Rigid Bodies
