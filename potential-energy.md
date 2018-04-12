@@ -22,5 +22,4 @@ Look
 Energy problems are easy to solve and usually involve a single equation of the form initial energies = final energies. Nevertheless, the common mistake is to forget some form of energy in the equation. The use of bar charts greatly diminish these type of errors. 
 </lrndesign-sidenote>
 
-
 There are 11 worked examples. As usual, these are all important problems including the very last one, the "challenge". Make sure you do them without looking at solutions.
