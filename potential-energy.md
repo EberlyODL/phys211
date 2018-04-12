@@ -11,7 +11,7 @@ All energy problems depend on how you choose the system. If gravity or the sprin
 
 As you will see, conservation of energy is very powerful to solve many problems that can be written as a before-and-after situations. 
 
-Look 
+Pay particular attention to the problem solving strategy 10.1
 
 ** Two new important tools
 
