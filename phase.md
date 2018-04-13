@@ -1,0 +1,1 @@
+In a simple harmonic motion, the phase refers to the quantity inside the cosine (or sine). 
