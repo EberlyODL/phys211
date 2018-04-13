@@ -8,7 +8,7 @@ Momentum is a vector unlike energy. An object really has 2 different momentum (i
 
 We will NOT cover 11.6 on rocket propulsion but feel free to read if you are curious. 
 
-Section 11.1-11.5 are on impulse, conservation of momentum. There are 9 worked example for you go through. As well check my chapter summary after you read the textbook. 
+Section 11.1-11.5 are on impulse, conservation of momentum. There are 9 worked examples for you to go through. As well check my chapter summary after you read the textbook. 
 
 ### Impulse
 
