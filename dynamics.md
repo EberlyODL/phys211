@@ -20,5 +20,5 @@ The two simple harmonic oscillators that we will see in this course are the pend
 
 ### Resonance. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4374|entity_type=node|render=display_mode|display_mode=h5p]
+[demo resonance]
 
