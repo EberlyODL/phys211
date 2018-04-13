@@ -12,3 +12,4 @@ The phase tells you where you are on the sine and cosine but it is often easier 
 
 The SHM is the x projection of the counter-clockwise circular motion
 
+[ciscode|rev=1|tool=elmsmedia|item=4370|entity_type=node|render=display_mode|display_mode=h5p]
