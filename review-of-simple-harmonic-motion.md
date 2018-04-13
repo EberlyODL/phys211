@@ -14,3 +14,6 @@ section 15.2 on how to view SHM as circular motion is often confusing and we wil
 In this class, we will skip the subsection "The physical pendulum in section 15.6. Do not do example 15.9 but the "Stop to think 15.5 is important and relates to earlier part of section 15.6. 
 
 The challenge example 15.11 can be skipped.
+
+
+[demo spring on mass
