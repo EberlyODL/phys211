@@ -13,5 +13,6 @@ The two simple harmonic oscillator that we will see in this course are the pendu
 
 [ciscode|rev=1|tool=elmsmedia|item=4373|entity_type=node|render=display_mode|display_mode=h5p]
 
+[ciscode|rev=1|tool=elmsmedia|item=4374|entity_type=node|render=display_mode|display_mode=h5p]
 
 
