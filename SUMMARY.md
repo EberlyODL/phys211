@@ -79,6 +79,7 @@
   * [Week 7A - Conservation of Momentum](week-7a-collisions-rigid-bodies-and-center-of-mass.md)
     * [Impulse](impulse.md)
     * [Conservation of Momentum](conservation-of-momentum.md)
+    * Collisions
   * Week 7B -  Rigid Bodies
   * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
   * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)
