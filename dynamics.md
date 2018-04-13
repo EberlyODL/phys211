@@ -7,10 +7,11 @@ As you can see we are to the right of the origin and we are moving (CCW on a cir
 
 [ciscode|rev=1|tool=elmsmedia|item=4372|entity_type=node|render=display_mode|display_mode=h5p]
 
-### The two simple harmonic oscillator that we will see in this course are  
+### Pendulum and Mass on Spring
 
-
+The two simple harmonic oscillator that we will see in this course are the pendulum (at small angle) and the mass on spring. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4373|entity_type=node|render=display_mode|display_mode=h5p]
+
 
 
