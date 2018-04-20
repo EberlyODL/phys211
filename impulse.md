@@ -20,6 +20,7 @@ Section 11.1-11.5 are on impulse, conservation of momentum. There are 9 worked e
 Be careful with the signs! 
 </lrndesign-sidenote>
 
+[demo bouncing balls]
 
 [ciscode|rev=1|tool=elmsmedia|item=4379|entity_type=node|render=display_mode|display_mode=h5p]
 
