@@ -12,8 +12,12 @@ Section 11.1-11.5 are on impulse, conservation of momentum. There are 9 worked e
 
 ### Impulse
 
+[ciscode|rev=1|tool=elmsmedia|item=4378|entity_type=node|render=display_mode|display_mode=h5p]
 
-some force are question...
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Be careful with the signs! 
+</lrndesign-sidenote>
+
 
 some concept
 
