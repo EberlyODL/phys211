@@ -17,3 +17,5 @@ As described in your book there are three very important special cases.
 
 Here is a special sequence of two perfectly elastic collision both of type "Case C" that lead to dramatic bouncing. 
 
+[demo astroblaster]
+
