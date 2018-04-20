@@ -12,4 +12,4 @@ Now if instead we define the system under study to be the blocks together with t
 There are external forces, force of gravity on balls and normal on blocks. Just before the collisions, those forces are the in y direction so they do not contribute to the impulse in the x direction. The friction force in the x direction does contribute and it is the cause of why the block rotate and fall instead of just moving straight with constant velocity. 
 </lrndesign-sidenote>
 
-If there is approximately no external force on the 
+If there is approximately no external force on the system then momentum must be conserved. This is momentum of the system. Within the system can be transferred from one part to another and this is exactly what the balls are doing. The bouncing ball is transferring MORE momentum to the block. 
