@@ -14,7 +14,11 @@ As described in your book there are three very important special cases.
 * Case B: object 1 is much more massive than 2. For example a truck runs into a tennis ball. 
 * Case C: the reverse of B.  For example, a tennis ball collide against the wall.  
 
-Here is a special sequence of two perfectly elastic collision both of type "Case C" that lead to dramatic bouncing. In Case C, the smaller mass object 1 bounce back with almost the same initial speed, just different direction. 
+Here is a special sequence of two perfectly elastic collisions both of type "Case C" that lead to dramatic effects at the end. 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+ In Case C, the smaller mass object 1 bounce back with almost the same initial speed, just different direction. <lrn-math inline> (v_{fx})_1 \approx \frac{-m_2}{m_2}(v_{ix})_1 = -(v_{ix})_1 </lrn-math>
+</lrndesign-sidenote>
 
 [demo astroblaster]
 
