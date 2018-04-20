@@ -13,5 +13,15 @@ In a completely inelastic collision, we must always have some of the initial kin
 
 A general collision where both objects move initially and both objects move at the end has two unknown to solve for (two different final speed). 
 
-To be able to find those final velocities, we need to know something about the energy of the system. The general case is beyond the level of this course but the case 
-The completely elastic conserve energy 
+To be able to find those final velocities, we need to know something about the energy of the system. The general case is beyond the level of this course but the case where kinetic energy is exactly conserved can be solved. 
+
+This is the completely elastic collision. Even in this special scenario, we will further simplify by considering the case where object 2 is initially at rest. In this case, the final velocities of object 1 and 2 are 
+
+<lrn-math inline> (v_{fx})_1=\frac{m_1-m_2}{m_1+m_2}(v_{ix})_1 </lrn-math>
+
+<lrn-math inline>(v_{fx})_2=\frac{2m_1}{m_1+m_2}(v_{ix})_1</lrn-math>
+
+As described in your book there are three very important special case. 
+* Case a: equal masses for example billard balls
+* Case b: object 1 is much more massive than 2 for example a truck runs into a tennis ball. 
+* Case C: the reverse for example, a tennis ball collide against the wall.  
