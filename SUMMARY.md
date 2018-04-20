@@ -80,6 +80,7 @@
     * [Impulse](impulse.md)
     * [Conservation of Momentum](conservation-of-momentum.md)
     * [Collisions](collisions.md)
+    * [Bouncing Balls](bouncing-balls.md)
   * Week 7B -  Rigid Bodies
   * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
   * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)

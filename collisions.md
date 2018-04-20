@@ -25,3 +25,6 @@ As described in your book there are three very important special case.
 * Case a: equal masses for example billard balls
 * Case b: object 1 is much more massive than 2 for example a truck runs into a tennis ball. 
 * Case C: the reverse for example, a tennis ball collide against the wall.  
+
+Here is a special sequence of two perfectly elastic collision both of Case C that lead to dramatic bouncing. 
+
