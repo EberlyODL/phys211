@@ -29,7 +29,6 @@ The second collision in the demo involves the tennis ball going down with speed 
 RF: BasketBall means reference frame of the basketball. This is as seen from the point of view of the person standing in the room. 
 </lrndesign-sidenote>
 
-
 [ciscode|rev=1|tool=elmsmedia|item=4383|entity_type=node|render=display_mode|display_mode=image]
 
 
