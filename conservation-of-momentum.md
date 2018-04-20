@@ -15,3 +15,5 @@ There are external forces, force of gravity on balls and normal on blocks. Just 
 If there is approximately no external force on the system then momentum must be conserved. This is momentum of the system. Within the system can be transferred from one part to another and this is exactly what the balls are doing. The bouncing ball is transferring MORE momentum to the block. 
 
 Again, lets practice this idea of various "size" of momentum transfer. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4380|entity_type=node|render=display_mode|display_mode=h5p]
