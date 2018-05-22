@@ -21,7 +21,7 @@ In this first part of the class, we will do observing experiments.
 The goal is to design experiment to observe phenomena, find patterns. 
 The observations can be qualitative but more often we will collect numerical data. Collecting data and visualizing it properly will enable us to better quantify the patterns that may see. 
 
-### Lab 1
+### Lab 2 - "Slowing Down"
 
 **Phenomenon to Observe.**
 
