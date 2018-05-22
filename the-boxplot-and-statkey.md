@@ -58,7 +58,7 @@ In the following video, I will show how to create a box plot graph. You will nee
 
 > All the data is fake but I tried to make it reasonable using real data that the average age of world campus students is 32 years old while the national average age of undergraduate students is 18-19 years old. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4269|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+[ciscode|rev=1|tool=elmsmedia|item=4269|entity_type=node]
 
 Things to remember
 * you need to create a .csv file with a first row of header (a txt file can also work). For most, using excel may be the easiest. 
@@ -71,7 +71,7 @@ Never, never delete data. Just put it in a new column, the outliers may be cruci
 </lrndesign-sidenote>
 
 
-[ciscode|rev=1|tool=elmsmedia|item=4268|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+[ciscode|rev=1|tool=elmsmedia|item=4268|entity_type=node]
 
 
 
