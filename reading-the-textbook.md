@@ -1,6 +1,5 @@
 The primary source of information for this course is the textbook. 
 
-
 There are no good reasons for me to rewrite some part or say it aloud in a video. It is much better if instead I focus on teaching to skill to properly find and learn the material from reading the textbook.
 
 While reading the textbook, pay close attention to 
@@ -18,4 +17,6 @@ I will provide a Chapter Summary (pdf on Canvas) and I will often have a few exa
 The examples on this webpage are in no way exhaustive. If its in the textbook in an assigned readings, then it is covered in the course and it will be practice in the assignments and evaluated in the exams.
 </lrndesign-sidenote> 
 
+
+Now is the time to read Chap 1 of your textbook! Then come back to read the next two pages. 
 
