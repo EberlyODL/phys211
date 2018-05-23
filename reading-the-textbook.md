@@ -17,6 +17,5 @@ I will provide a Chapter Summary (pdf on Canvas) and I will often have a few exa
 The examples on these webpages are in no way exhaustive. If it is in the textbook in an assigned readings, then it is covered in the course and it will be practice in the assignments and evaluated in the exams.
 </lrndesign-sidenote> 
 
-
 Now is the time to read Chap 1 of your textbook! Then come back to read the next two pages. 
 
