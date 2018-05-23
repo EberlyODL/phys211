@@ -6,10 +6,10 @@ My name is Louis Leblond. I will introduce myself in details on our first discus
 
 
 ## Orientation
-Everything you need each week can always be found on the homepage on Canvas. The course is divided into weekly lessons. Each weekly lessons will typically have: 
+Everything you need each week can always be found on the homepage on Canvas. The course is divided into (half) weekly lessons. Each half-week lessons will typically have: 
 
 * List of readings
-* Course content webpage. You are currently viewing week 1 of the course content.
+* Course content webpage. You are currently viewing week 1A of the course content.
 * Reading quiz, discussion boards, Labs, tutorials, quiz (the activities). 
 
 
