@@ -24,9 +24,4 @@ Motion occurs all the time around us and it can be counterintuitive and surprisi
 
 [ciscode|rev=1|tool=elmsmedia|item=4200|entity_type=node|render=display_mode|display_mode=image]
 
-### 4. But ultimately all science class such as this one is about learning to think critically. 
-
-Carl Sagan eloquently explains why it is so important that everyone know about science. 
-
-[ciscode|rev=1|tool=elmsmedia|item=2058|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
 
