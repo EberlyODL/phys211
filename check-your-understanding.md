@@ -4,8 +4,8 @@
 
 page 14 in your book discusses the common sign confusions relating to acceleration and velocity. Be careful with the words speeding up and slowing down. Also be careful with speed vs velocity! These words have different physical meaning!
 
-Speed: The magnitude the velocity vector
-Velocity: includes both the magnitude and the velocity. 
+* **Speed:** The magnitude the velocity vector
+* **Velocity:** includes both the magnitude and the velocity. 
 
 2. Vector addition and subtraction.
 
