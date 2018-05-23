@@ -17,7 +17,7 @@ I have in the past refused to write letters of recommendation for A students bec
 
 For other students, this course was a real challenge. They had to struggle continuously and some of them were trying to avoid dire consequences such as losing financial aids or not being admitted in their major of choice. For some of them the hard work pays off and that makes a great success story. 
 
-Others may not get the grade they need for entering a specific major and may have to chose something else. Some may leave school and come back or leaves school and do something else. If later you remember this course fondly (I know with physics in the title!) and if you remember trying hard and learning things, then it was a success.  
+Others may not get the grade they need for entering a specific major and may have to chose something else.  If later you remember this course fondly (I know with physics in the title!) and if you remember trying hard and learning things, then it was a success.  
 
 The only real failure is the failure to try. 
    
