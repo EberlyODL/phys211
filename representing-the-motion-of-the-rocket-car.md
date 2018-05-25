@@ -34,3 +34,8 @@ We can connect the dots by a line that goes through all of them. The end result 
 
 Note that the shape of the graph has nothing to do with what the actual motion looked like. The motion was on a line, the graph is in two dimensions. The graph is a **representation** of the motion \(position and time together\).
 
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+As we will see later, the rocket car be modeled as a constant acceleration motion. 
+</lrndesign-sidenote>
+
+
