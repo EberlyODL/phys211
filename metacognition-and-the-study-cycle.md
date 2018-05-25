@@ -2,7 +2,7 @@ How do we move up the Bloom's pyramid? How do we go beyond memorization of facts
 
 [ciscode|rev=1|tool=elmsmedia|item=4214|entity_type=node|render=display_mode|display_mode=image]
 
-### Metacognition and becoming a self-directed learner
+## Metacognition and becoming a self-directed learner
 
 Metacognition is like having your brain looking from the outside at your own brain. Its the ability to think about one's own thinking.
 
@@ -20,7 +20,7 @@ To be a successful student, you need to think about your own thinking, here is a
  
 [ciscode|rev=1|tool=elmsmedia|item=4216|entity_type=node|render=display_mode|display_mode=image]
 
-### Shallow versus Deep Learning
+## Shallow versus Deep Learning
 
 Which of the following is the MOST important ingredient for successful learning? 
 
@@ -31,19 +31,21 @@ study
 4.  The time you spend studying 
 5.  What you think about while studying 
 
-To answer this question let us look at the following cognitive experiment. 24 words are read, some of the participants are told to make a mental note if the word contain an E or a G. Others are told to make a mental note if they find the word pleasant or unpleasant. After the 24 words are read, each group has to recall as many words as they can. They all paid attention, they all tried hard but because of the instructions the participants were force to do shallow or deep processing of the words. 
+To answer this question let us look at the following cognitive experiment. 24 words are read, some of the participants are told to make a mental note if the word contain an E or a G. Others are told to make a mental note if they find the word pleasant or unpleasant. After the 24 words are read, each group has to recall as many words as they can. They all paid attention, they all tried hard but because of the instructions the participants were forced to do **shallow or deep processing of the words. **
 
 [ciscode|rev=1|tool=elmsmedia|item=4217|entity_type=node|render=display_mode|display_mode=image]
 
-Here are the results of the experiment. 
+Shallow processing is when the information is stored only in the working memory. Deep processing is way to make connection to things in your long-term memory. As you might expect, things stick better. 
+
+Here are the results of the experiment. The intentional versus incidental refers to the fact that some students were told they would have to recall while other were not told. Being aware that you would be tested had no impact on the performance. It was just 
 
 [ciscode|rev=1|tool=elmsmedia|item=4218|entity_type=node|render=display_mode|display_mode=image]
 
 What you were thinking when studying completely change how much you learn. You internalized the information and achieved deeper processing by connecting the material to your emotions. 
 
-### How to achieve deep Processing. 
+## How to achieve deep Processing. 
 
-Just reading with music on or doing problem quickly or googling is shallow processing and mostly a waste of your time. It is better to spend less time but actually use that time to really process the information.
+Just reading with music on or doing problems quickly or googling is shallow processing and mostly a waste of your time. It is better to spend less time but actually use that time to really process the information.
 
 As you study, follow these principles
 
