@@ -11,7 +11,9 @@ While reading the textbook, pay close attention to
 
 In week1B, I will discuss specific learning strategies and this will include an how-to guide in how to read the textbook. 
 
-I will provide a Chapter Summary (pdf on Canvas) and I will often have a few examples in these course content pages to illustrate some of the material covered. 
+Instead of repeating the textbook, I decided to write Chapter Summary (pdf on Canvas). These chapter summaries are my own personal summary of the important concepts and tools for the week lessons.
+
+I will often have a few examples in these course content pages to illustrate some of the material covered. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 The examples on these webpages are in no way exhaustive. If it is in the textbook in an assigned readings, then it is covered in the course and it will be practice in the assignments and evaluated in the exams.
