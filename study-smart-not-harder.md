@@ -6,7 +6,7 @@ I **strongly recommend** watching those videos. You do not need to watch them al
 
 Here is the summary video for the series. The word "fail" in the title here refers to not getting a passing grade. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right] 
+[ciscode|rev=1|tool=elmsmedia|item=4213|entity_type=node|render=display_mode|display_mode=mediavideo]
  
  The whole playlist can be found here. 
   
