@@ -14,11 +14,11 @@ This was as predicted by Einstein's theory of general relativity, our most preci
 
 ### 2. Our understanding of motion has also led to important technological advances. 
 
-This video from NASA mentions almost every single concept that you will learn in Phys 211 this year. 
+This interesting video from NASA mentions almost every single concept that you will learn in Phys 211 this year. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4197|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-### 3.  Finally, Phys 211 is about physics in our daily life event. 
+### 3.  Finally, Phys 211 is about physics in our daily life. 
 
 Motion occurs all the time around us and it can be counterintuitive and surprising. This course will help you make sense of many phenomenon in your daily life. 
 
