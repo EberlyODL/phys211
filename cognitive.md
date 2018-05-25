@@ -1,20 +1,18 @@
 ### Cognitive Psychology. 
 
+Lets us start with a bit of theory that underlies the best studying strategies. The fundamental goes back to cognitive psychology.
+
 Wikipedia Definition: **Cognitive psychology is the study of mental processes such as "attention, language use, memory, perception, problem solving, creativity, and thinking".**
 
 The field of cognitive psychology had impacts in other fields such as economy, social psychology and more relevant for us educational psychology. 
 
 Before 1950, the field of cognitive psychology was dominated by behaviorism which posit that mental processes were either reflexes or predictable given a person's history. 
 
-During the second world war, there was much interest and research in improving the performance of soldiers. At around the same time, the first ideas of information theory, the computer and eventually artificial intelligence appeared. 
-
-In combination with biological knowledge of where in the brain certain mental processes occur, this led to a revolution in cognitive psychology. Mental processes can be divided into parts, they can be studied and they can be improved. The brain is a muscle! 
+During the second world war, there was much interest and research in improving the performance of soldiers. At around the same time, the first ideas of information theory, the computer and eventually artificial intelligence appeared. In combination with biological knowledge of where in the brain certain mental processes occur, this led to a revolution in cognitive psychology. Mental processes can be divided into parts, they can be studied and they can be improved. The brain is a muscle! 
 
 From Wikipedia again, here is a definition of "cognition" by Ulric Neisser
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The term "cognition" refers to all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.
-</lrndesign-sidenote>
+> The term "cognition" refers to all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.
 
 
 Note that while computer science has had an impact on cognitive psychology, the reverse is also true. Machine Learning and Deep Neural Networks have revolutionized what computer can do. Here is a free book on the subject for the curious!<a target = "_blank" href="http://neuralnetworksanddeeplearning.com/index.html"> Neural Networks and Deep Learning</a> 
