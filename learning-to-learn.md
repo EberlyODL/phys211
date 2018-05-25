@@ -1,10 +1,13 @@
-### Phys 211 may require a lot of work from you!
+
+### Learning to Learn Physics
+
+**Phys 211 may require a lot of work from you!**
 
  * The course goes at a fast pace. 
  * The material can be conceptually difficult .
  * The content is cumulative as we continuously return to previous concepts to understand new ones.
- * The problems will get quite involved. 
- * The tests are not straightforward and will require you to **apply** several concepts at one time. 
+ * The problems you need to solve will get quite involved. 
+ * The tests are not straightforward and may require you to **apply** several concepts at one time in new situations. 
 
 You may have to change the way you learn and the way you work to attain the goals that you have set for yourself. Even if you are well versed in "how to learn", you should remember that even the best athletes have coaches. There is always room for improvement!
 
