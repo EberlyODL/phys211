@@ -5,7 +5,7 @@ You can look at my chapter summary for Chap 2.1-2.3 but it very brief and succin
 
 In particular, I will not do "problem solving videos". Why? Because there are examples in the book and if I do example videos, you may feel you do not need to read the book. Also just listening to an example rarely do any good and may in fact do harm by giving false sense of security. 
 
-Now you may say that you already have been reading through the example problems and you want more. Be careful, quantity is not what matter its how you do the example that matter. 
+Now you may say that you already have been reading through the example problems and you want more. Be careful, quantity is not what matter its how you do the examples that matter. 
 
 Remember from the "How to read the textbook" page, the best way to do examples. Let me repeat it here.
 
@@ -42,4 +42,4 @@ Questions about average can get tricky when the motion has multiple different pa
 
 A car moves east at 30mph for 2 hours and then back west at 50mph for 2 hours. What was the average velocity. 
 
-First find the displacement. We moves east 60miles (30 *2) then west 100 miles. So the displacement (final - initial) will be -40 miles. We did that in 4hours so the average velocity is -10mph.
+First find the displacement. We moves east 60miles (30 *2) then west 100 miles. So the displacement (final - initial) will be -40 miles. We did that in 4 hours so the average velocity is -10mph.
