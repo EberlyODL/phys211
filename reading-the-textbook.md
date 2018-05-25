@@ -11,9 +11,13 @@ While reading the textbook, pay close attention to
 
 In week1B, I will discuss specific learning strategies and this will include an how-to guide in how to read the textbook. 
 
-Instead of repeating the textbook, I decided to write Chapter Summary (pdf on Canvas). These chapter summaries are my own personal summary of the important concepts and tools for the week lessons.
+Instead of repeating the textbook with lectures notes or videos (which have been shown an ineffective way to learn, I wrote
 
-I will often have a few examples in these course content pages to illustrate some of the material covered. 
+1. Chapter Summary (pdf on Canvas). These chapter summaries are my own personal summary of the important concepts and tools for the week lessons.
+
+2. Some course course content pages to illustrate via examples and real demo video some of the material covered. The pages include many "check you understanding questions". 
+
+The course content pages include also all the material that is not covered in the textbook but needed for the class. This is mostly about "how to learn physics" and about "statistic and lab techniques". 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 The examples on these webpages are in no way exhaustive. If it is in the textbook in an assigned readings, then it is covered in the course and it will be practice in the assignments and evaluated in the exams.
