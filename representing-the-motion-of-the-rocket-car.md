@@ -1,6 +1,6 @@
 Let us apply the concepts of motion you saw in Chap 1. Knight to the rocket car motion.
 
-Imagine we live in a Universe that is a single line. You can only move right/left \(or up/down say\).
+For the moment we are working in one dimension so imagine we live in a Universe that is a single line.  You can only move right/left \(or up/down say\).
 
 [ciscode|rev=1|tool=elmsmedia|item=2054|entity_type=node|render=display_mode|display_mode=image]
 
