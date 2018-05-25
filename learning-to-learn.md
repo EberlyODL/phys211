@@ -9,7 +9,7 @@
  * The problems you need to solve will get quite involved. 
  * The tests are not straightforward and may require you to **apply** several concepts at one time in new situations. 
 
-You may have to change the way you learn and the way you work to attain the goals that you have set for yourself. Even if you are well versed in "how to learn", you should remember that even the best athletes have coaches. There is always room for improvement!
+You may have to change the way you learn and the way you work to reach the goals that you have set for yourself. Even if you are well versed in "how to learn", you should remember that even the best athletes have coaches. There is always room for improvement!
 
  
 ### What is success? What is failure? 
