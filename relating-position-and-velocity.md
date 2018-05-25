@@ -24,7 +24,7 @@ Anne-Sylvie Deutsch is a former graduate student at Penn State (now its Dr. Deut
 
 The simplest kind of motion to analyze is the one of constant velocity, constant speed and direction. 
 
-
+[demo video hovercraft]
 
 ## Average vs Instantaneous.
 
