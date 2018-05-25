@@ -31,7 +31,7 @@ study
 4.  The time you spend studying 
 5.  What you think about while studying 
 
-Here is a cognitive experiment. 24 words are read, some of the participants are told to make a mental note if the word contain an E or a G. Others are told to make a mental note if they find the word pleasant or unpleasant. After the 24 words are read, each group has to recall as many words as they can. They all paid attention, they all tried hard but because of the instructions the participants were force to do shallow or deep processing of the words. 
+To answer this question let us look at the following cognitive experiment. 24 words are read, some of the participants are told to make a mental note if the word contain an E or a G. Others are told to make a mental note if they find the word pleasant or unpleasant. After the 24 words are read, each group has to recall as many words as they can. They all paid attention, they all tried hard but because of the instructions the participants were force to do shallow or deep processing of the words. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4217|entity_type=node|render=display_mode|display_mode=image]
 
