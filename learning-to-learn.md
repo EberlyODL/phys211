@@ -14,7 +14,7 @@ You may have to change the way you learn and the way you work to reach the goals
  
 ### What is success? What is failure? 
 
-Success in my course is not defined by your course grades. Success is measured by how much you gain and how much you grew as a person through the course. Yes it sounds cheesy but it is always worth repeating. While we all have different stories and all come from different backgrounds, the path ahead is ours to make.
+Success in my course is not defined by your course grades. Success is measured by how much you gain and how much you grew as a person through the course. Yes it sounds cheesy but it is always worth repeating. We all have different stories and all come from different backgrounds but the path ahead is ours to make.
 
 I have in the past refused to write letters of recommendation for A students because I had nothing to say. The students came in with perfect scores and left with perfect scores. Nothing wrong with that, but how much of a success is it to come in a course mostly knowing the subject and leaving with mostly the same knowledge?
 
@@ -35,7 +35,7 @@ As a professor, I see three things that I can do to transform your hard work int
 3. Provide a well designed course to guide your learning experience. The learning is not happening in the textbook or in this course webpage, the learning is happening in your head and its not done by me, its done by you. My course is designed to get you to acquire the knowledge, do the connections in your brain and to practice the skills to the point of unconscious mastery (like driving a car or a bike).  
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-I encourage you strongly to contact me with any issues you may have. In my class or any other classes.
+I encourage you strongly to contact me with any issues you may have. With the course material, the course logistic or some personal issues (I usually do not need to know any details to still be able to offer some help!). I want everyone one of you to have all the things you need to be successful. 
 </lrndesign-sidenote>
 
 
