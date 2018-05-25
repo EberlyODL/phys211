@@ -1,3 +1,5 @@
+Here is two important "Check your understanding questions". My comments and my teacher wisdom may be inside the question as feedbacks to your correct or incorrect answers. These questions are not graded but try them out for real!!
+
 1. Acceleration and Velocity in one dimension
 
 [ciscode|rev=1|tool=elmsmedia|item=4202|entity_type=node|render=display_mode|display_mode=h5p__card]
