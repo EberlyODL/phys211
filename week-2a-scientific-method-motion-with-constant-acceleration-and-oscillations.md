@@ -1,8 +1,9 @@
 ## Lesson Objectives for week 2A
 
+LOKin03-05, LOProc06
 
-
-The full list of objectives can be found on Canvas. All readings and assignments can be found on Canvas.
+LOKin03: distinguish & relate position, velocity and acceleration using slopes/derivatives and areas/integrals of functions with respect to time
+LOKin04: relate and create time dependent plots of kinematic variables 
 
 
 
