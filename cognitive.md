@@ -21,7 +21,28 @@ Learning is very much part of cognition. So what have we learned about cognition
 
 ## Bloom's taxanomy 
 
-Bloom's taxonomy is a famous way to organize cognitive knowledge in a hierarchy of different level of learning. Look at the image below carefully and answer the questions that follow. 
+Bloom's taxonomy is a famous way to organize cognitive knowledge in a hierarchy of different level of learning. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4214|entity_type=node|render=display_mode|display_mode=image] 
+
+The idea is that there are many ways to know something. When someone says that they know something, what does that mean? Let us say my friend comes in and state that he knows about black hole
+
+* do he just remember some stuff about it?
+* do he understand it in a way that he could explain the broad features to me?
+* Would he be able to apply his black hole knowledge to solve a problem involving two spinning Kerr Black hole.
+* Would he able to analyze and break down the theory surrounding black hole into its different part. General relativity, thermodynamics, etc. 
+* Would he be able to tell whether the three last papers of Stephe Hawking are correct. 
+* would he able to write a paper on black hole like Stephen Hawking?
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+I am exagerating with the last two. But you get the idea. Evaluating and Creating are the highest level of learning. 
+</lrndesign-sidenote>
+
+
+### Question for you. 
+
+* At what level of Bloom's do you think high-school students need to be to succeed in their exams?
+* at what level of Bloom's do you think you need to aim to be to succeed in college?
+
+
 
