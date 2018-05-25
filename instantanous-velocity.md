@@ -1,6 +1,4 @@
-Instantaneous velocity at a given time is the slope of the position-versus-time graph at that time. 
-
-A slope upward is positive while a slope downward is negative. 
+Instantaneous velocity at a given time is the slope of the position-versus-time graph at that time. A slope upward is positive while a slope downward is negative. 
 
 Displacement in a given time _interval_ can be obtained from the area between the position-versus-time curve and the time axis during that time _interval_. 
 
@@ -12,7 +10,7 @@ Area above the time axis are positive while area below the time axis are negativ
 
 [ciscode|rev=1|tool=elmsmedia|item=4226|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
-The last question contains the most difficult part. You have to remember that the area gives the displacement but the question may be asking for either the initial or final position, not necessarily just the displacement. 
+The last question contains the most difficult part. **You have to remember that the area gives the displacement but the question may be asking for either the initial or final position, not necessarily just the displacement.** 
 
 ### Derivatives and Integrals
 
