@@ -37,20 +37,20 @@ To answer this question let us look at the following cognitive experiment. 24 wo
 
 Shallow processing is when the information is stored only in the working memory. Deep processing is way to make connection to things in your long-term memory. As you might expect, things stick better. 
 
-Here are the results of the experiment. The intentional versus incidental refers to the fact that some students were told they would have to recall while other were not told. Being aware that you would be tested had no impact on the performance. It was just 
+Here are the results of the experiment. The intentional versus incidental refers to the fact that some students were told they would have to recall while other were not told. Being aware that you would be tested had no impact on the performance. The only things that mattered was shallow vs deep processing. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4218|entity_type=node|render=display_mode|display_mode=image]
 
-What you were thinking when studying completely change how much you learn. You internalized the information and achieved deeper processing by connecting the material to your emotions. 
+What you are thinking when studying completely change how much you learn. You internalize the information and achieve deeper processing by connecting the material to your emotions or previous experiences.. 
 
 ## How to achieve deep Processing. 
 
 Just reading with music on or doing problems quickly or googling is shallow processing and mostly a waste of your time. It is better to spend less time but actually use that time to really process the information.
 
-As you study, follow these principles
+As you study, follow these principles and ask yourself questions.
 
 - **Elaboration**: How does this concept relate to other concepts?
 - **Distinctiveness**: How is this concept different from other concepts. 
-- **Personal**: How can I relate this to my personal experience? Stop yourself and think about that. 
+- **Personal**: How can I relate this to my personal experience? Stop yourself to think about that. 
 - **Appropriate to retrieval and application**: Ask yourself what you are expected to be able to do with the information. 
 
