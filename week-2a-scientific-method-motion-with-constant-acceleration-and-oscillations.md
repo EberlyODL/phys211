@@ -7,5 +7,4 @@ Now we are ready to look at the accelerated motion like the rocket car video we 
 * LOKin07: apply kinematics to oscillations where the acceleration is not constant 
 
 
-
-
+[read Chap 2.4-2.7] then come back to read the course notes. 
