@@ -14,10 +14,12 @@ The hypothesis is either rejected (or modified) if it keeps failing. If it succe
 
 In this first part of the class, we will do observing experiments. 
  
-The goal is to design experiment to observe phenomena, find patterns. 
-The observations can be qualitative but more often we will collect numerical data. Collecting data and visualizing it properly will enable us to better quantify the patterns that may see. 
+The goal is to design experiment to observe phenomena and find patterns. 
+The observations can be qualitative but more often we will collect numerical data. Collecting data and visualizing it properly will enable us to better quantify the patterns that we may see. 
 
 ### Lab 2 - "Slowing Down"
+
+Let us now delve into the details and look at what we need to do for lab 2!
 
 **Phenomenon to Observe.**
 
