@@ -18,10 +18,10 @@ For the next question you need to use the definition of average acceleration <lr
 
 [ciscode|rev=1|tool=elmsmedia|item=4273|entity_type=node|render=display_mode|display_mode=h5p]
 
+
+### Motion diagram in 2D. 
  
- ### Motion diagram in 2D. 
- 
- Motion diagram in 2D works the same way as in 1D. The velocity vectors green connect two points in each motion diagram while the acceleration vector is shown on top the of the dot and come from the ** vector substraction** of the velocity after - velocity before the point. 
+ Motion diagram in 2D works the same way as in 1D. The velocity vectors green connect two points in each motion diagram while the acceleration vector is shown on top the of the dot and come from the **vector subtraction** of the velocity after - velocity before the point. 
  
  <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 
