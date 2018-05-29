@@ -8,7 +8,7 @@ We can add the velocity vectors to the fan cart motion diagrams. **Remember that
 
 [ciscode|rev=1|tool=elmsmedia|item=4239|entity_type=node|render=display_mode|display_mode=image]
 
-The acceleration at the turning point is <lrn-math>\vec{a}_4 = \frac{Delta\vec{v}}{\Delta t}</lrn-math>. If we take the time interval to be 1 in whatever units (not important here) the acceleration vector can be found by vector substraction 
+The acceleration at the turning point is <lrn-math>\vec{a}_4 = \frac{Delta\vec{v}}{\Delta t}</lrn-math>. If we take the time interval to be 1 in whatever units (not important here) the acceleration vector can be found by vector substraction.
 
 [ciscode|rev=1|tool=elmsmedia|item=4240|entity_type=node|render=display_mode|display_mode=image]
 
