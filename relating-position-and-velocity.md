@@ -48,6 +48,6 @@ Questions about average can get tricky when the motion has multiple different pa
 
 ### Example
 
-A car moves east at 30mph for 2 hours and then back west at 50mph for 2 hours. What was the average velocity. 
+A car moves east at 30 mph for 2 hours and then back west at 50 mph for 2 hours. What was the average velocity. 
 
 First find the displacement. We moves east 60miles (30 *2) then west 100 miles. So the displacement (final - initial) will be -40 miles. We did that in 4 hours so the average velocity is -10mph.
