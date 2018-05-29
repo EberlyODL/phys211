@@ -1,11 +1,11 @@
 We often see objects falling at various rates. A tennis ball drops directly to the ground while a feather takes it time and swing back and forth while descending. Is there a pattern to the acceleration of falling objects? Are there general rules and if so what are they? Does the acceleration depend on the shape on the object? Does it depend on the mass of the object?
 
-It is with such guiding questions that Galileo Galilei set forth to investigate this phenomenon. His findings are still to day among important discoveries in all of science. 
+It is with such guiding questions that Galileo Galilei set forth to investigate this phenomenon. His findings are still to this day among the most important discoveries in all of science. 
 
 1. In the absence of drag, the acceleration of an object in free fall is constant. 
-2. The magnitude of the acceleration (in the absence of forces from the air) is <lrn-math>9.8\;m/s^2</lrn-math> for all objects independent of their masses.
+2. The magnitude of the acceleration (in the absence of forces from the air) is <lrn-math>9.8\;m/s^2</lrn-math> for all objects **independent of their masses**.
 
-These are very non-trivial observations to make. Galileo was not able to simply get rid of the air, he had to invent tricks or limiting cases. It took years of laboriously collecting data to find these patterns.  
+These are very non-trivial observations to make. Galileo was not able to simply get rid of the air to get rid of the drag. He had to invent tricks or limiting cases. It took years of laboriously collecting data to find these patterns.  
 
 But now we can do it on the moon
 
@@ -23,12 +23,12 @@ And of course, we should never believe what other people's do. You can do it you
 ### Our convention
 
 In this class, we will always take the y axis to be pointing upward from the surface of the Earth. The magnitude of the free fall acceleration is 
-<lrn-math>g = 9/80\; m/s^2</lrn-math> but the y component of the acceleration is **negative**
+<lrn-math>g = 9.80\; m/s^2</lrn-math> but the y component of the acceleration is **negative**
 
 <lrn-math>a_y = -g = -9.80\;m/s^2</lrn-math>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-By convention, g is always a positive number, while ay can be positive or negative depending on the coordinate system. We will almost always take y to be up and <lrnmath>a_y=-g </lrn-math>.
+By convention, g is always a positive number, while <lrn-math inline>a_y</lrn-math> can be positive or negative depending on the coordinate system. We will almost always take y to be up and <lrnmath>a_y=-g </lrn-math>.
 </lrndesign-sidenote>
 
 On a incline plane with negligible friction, the falling acceleration is a fraction of the full free fall acceleration. That fraction is set by the angle of the incline plane. 
