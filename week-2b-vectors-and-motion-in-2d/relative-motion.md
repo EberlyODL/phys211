@@ -1,11 +1,15 @@
 
 [demo ball tunnel]
 
-The video above illustrate the independence of horizontal versus vertical motio, motion is relative and different reference frame will measured different velocities
+The video above illustrates the independence of horizontal versus vertical motion.  Motion is relative and different reference frame will measured different velocities.
 
 Read carefully the textbook for section 4.3 and my chapter summary. The ideas are simple but it can become quite confusing when solving problems. 
 
-To avoid mistakes when solving relative motion problem it is really important to use the proper notation. 
+To avoid mistakes when solving relative motion problem it is really important to use the proper notation. For example, in the following we have a car denoted C (or toy truck really) moving on a sheet of plastic (denoted S) which is itself moving with respect to the ground (G). 
+
+[ciscode|rev=1|tool=elmsmedia|item=4397|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+
+There 3 different velocities and the relationship between them is
 
 [ciscode|rev=1|tool=elmsmedia|item=4277|entity_type=node|render=display_mode|display_mode=image]
 
