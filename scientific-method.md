@@ -1,3 +1,5 @@
+In preparation for our first real lab we need to introduce some new concepts and techniques. First, what is the scientific method?
+
 ### Ignorance
 
 The scientific method is not a straightforward clean path of incremental progress toward the truth. It has twists and turns. Scientists must often stop to revise or rethink. 
