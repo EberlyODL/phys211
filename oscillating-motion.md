@@ -7,14 +7,16 @@ If the acceleration is not constant, the general relationships still holds.
 
 ### Oscillating motion 
 
-Oscillatory motion is the primary example that we will study in this class of a non-constant acceleration motion. 
+Oscillatory motion is the primary example that we will study in this class of a** non-constant acceleration motion. **
 
 [Demo videos, example of mass on springs...]
 
 
-Your book covers oscillatory motion in one chapter at the end. In this class, we will introduce oscillatory motions gradually as we go along. For the moment, we are only interested in the kinematics of oscillatory motion, section 15.1 and the beginning of section 15.4
+Your book covers oscillatory motion in one chapter at the end. In this class, we will introduce oscillatory motions gradually as we go along. For the moment, we are only interested in the kinematics of oscillatory motion, section 15.1 and the beginning of section 15.4.
 
-Read carefully your book and my chapter review. We will limit our analysis to simple harmonic motion where the motion is sinusoidal 
+[read chap 15.1 and 15.4 till equation 15.28]
+
+Read carefully your book and my chapter review. We will limit our analysis to simple harmonic motion where the motion is sinusoidal.
 
 [ciscode|rev=1|tool=elmsmedia|item=4257|entity_type=node|render=display_mode|display_mode=image]
 
