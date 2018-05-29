@@ -38,9 +38,9 @@ I will show in the video below how to create this image and what it means. On th
 * **Standard Deviation**: This number quantitatively measures the spread of the data. 
 * **Minimum**: This is the smallest number in the data set. 
 * **Q1**: This is the first quartile. It means that 3/4 of the data points are above Q1 while 1/4 are below.
-* ** Median**: This number divides the data exactly in two. Half the data points are below and the other half are above. 
+* **Median**: This number divides the data exactly in two. Half the data points are below and the other half are above. 
 * **Q3** 3/4 of the data is below Q3. 
-* ** Maximum**: The biggest number in the data set.
+* **Maximum**: The biggest number in the data set.
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 The 95% rule. For most approximately symmetric data set, 95% fo the data should fall within 2 standard deviations around the mean. So a data point slightly beyond 2 standard deviations is unusual (to the 5% level). 
@@ -61,6 +61,7 @@ In the following video, I will show how to create a box plot graph. You will nee
 [ciscode|rev=1|tool=elmsmedia|item=4269|entity_type=node]
 
 Things to remember
+
 * you need to create a .csv file with a first row of header (a txt file can also work). For most, using excel may be the easiest. 
 * upload the file in StatKey. 
 
