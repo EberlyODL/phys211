@@ -37,9 +37,9 @@ I will show in the video below how to create this image and what it means. On th
 * **Mean**: This is the average age. 
 * **Standard Deviation**: This number quantitatively measures the spread of the data. 
 * **Minimum**: This is the smallest number in the data set. 
-* **Q1**: This is the first quartile. This the 25th percentile or 3/4 of the data is above Q1 while 1/4 is below
-* ** Median**: This number divides the data exactly in 1/2
-* **Q3**: This is the third quartile, the 75th percentile. 3/4 of the data is below Q3. 
+* **Q1**: This is the first quartile. It means that 3/4 of the data points are above Q1 while 1/4 are below.
+* ** Median**: This number divides the data exactly in two. Half the data points are below and the other half are above. 
+* **Q3** 3/4 of the data is below Q3. 
 * ** Maximum**: The biggest number in the data set.
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
@@ -50,7 +50,7 @@ The box plot is a way to visualize all this information in one graph.
 
 [ciscode|rev=1|tool=elmsmedia|item=4267|entity_type=node|render=display_mode|display_mode=image]
 
-The boxplot also displays ** outliers **. These are points which are far from the range (Q3-Q1) of all the other points. They are represented by an asterisk. 
+The boxplot also displays **outliers**. These are points which are far from the range (Q3-Q1) of all the other points. They are represented by an asterisk. 
 
 ## Creating a box plot and making sense of data. 
 
