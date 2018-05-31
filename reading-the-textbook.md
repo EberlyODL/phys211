@@ -1,3 +1,5 @@
+[ciscode|rev=1|tool=elmsmedia|item=4398|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 The primary source of information for this course is the textbook. 
 
 There are no good reasons for me to rewrite some part or say it aloud in a video. It is much better if instead I focus on teaching you the skills to properly find and learn the material from reading the textbook.
@@ -11,7 +13,7 @@ While reading the textbook, pay close attention to
 
 In week1B, I will discuss specific learning strategies and this will include an how-to guide in how to read the textbook. 
 
-Instead of repeating the textbook with lectures notes or videos (which have been shown an ineffective way to learn, I wrote
+Instead of repeating the textbook with lectures notes or videos (which have been shown an ineffective way to learn), I wrote
 
 1. Chapter Summary (pdf on Canvas). These chapter summaries are my own personal summary of the important concepts and tools for the week lessons.
 
