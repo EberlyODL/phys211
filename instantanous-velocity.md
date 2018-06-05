@@ -26,7 +26,7 @@ As you will learn in more details in Math 140 - Calculus and as explained in our
 
 [ciscode|rev=1|tool=elmsmedia|item=4227|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
 
-To do the last question you must use the 
+To do the last question you must use the integral relationship.
 
 <lrn-math>\Delta x = \int_{t_i}^{t_f} = v_x dt</lrn-math>
 
