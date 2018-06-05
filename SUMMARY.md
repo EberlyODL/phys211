@@ -29,6 +29,4 @@
     * [Motion in 2D](week-2b-vectors-and-motion-in-2d/motion-in-2d.md)
     * [Two 1D motions](week-2b-vectors-and-motion-in-2d/two-1d-motions.md)
     * [Relative motion](week-2b-vectors-and-motion-in-2d/relative-motion.md)
-
 * [End of book ](end-of-book.md)
-
