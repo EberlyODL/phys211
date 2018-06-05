@@ -24,7 +24,7 @@ Anne-Sylvie Deutsch is a former graduate student at Penn State (now its Dr. Deut
 
 The simplest kind of motion to analyze is the one of constant velocity, constant speed and direction. This is call uniform motion. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4399|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+[ciscode|rev=1|tool=elmsmedia|item=4399|entity_type=node|render=display_mode|display_mode=video]
 
 <stop-note chapter="2.1-2.3"></stop-note>
 
