@@ -42,7 +42,7 @@ I am exaggerating with the last two. But you get the idea. Evaluating and creati
 ### Question for you. 
 
 * At what level of Bloom's do you think high-school students need to be to succeed in their exams?
-* at what level of Bloom's do you think you need to aim to be to succeed in college?
+* At what level of Bloom's do you think you need to aim to be to succeed in college?
 
 
 
