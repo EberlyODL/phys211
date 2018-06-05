@@ -19,6 +19,6 @@ LOProc01, LOProc03, LoVec02, LOKin01
 The full list of objectives can be found on Canvas. The reading for this week is Chap 1 of the textbook but read these course content page until you get the "read the textbook sign". 
 
 
-<stop-note chapter="example" pages="read these notes first"></stop-note>
+<stop-note chapter="example read these notes first"></stop-note>
 
 

@@ -20,11 +20,13 @@ Remember from the "How to read the textbook" page, the best way to do examples. 
 ## Uniform Motion
 
 
-Anne-Sylvie Deutsch is a former graduate student at Penn State (now its Dr. Deutsch). She will help me demonstrates some of the physics that we will see in this course. 
+Anne-Sylvie Deutsch is a former graduate student at Penn State (now its Dr. Deutsch). She will help me demonstrates some of the physics that we will see in this course through some (something silly demonstration video)
 
 The simplest kind of motion to analyze is the one of constant velocity, constant speed and direction. This is call uniform motion. 
 
-[demo video hovercraft]
+[ciscode|rev=1|tool=elmsmedia|item=4399|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
+
+<stop-note chapter="2.1-2.3"></stop-note>
 
 ## Average vs Instantaneous.
 

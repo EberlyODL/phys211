@@ -31,11 +31,11 @@ The idea is that there are many ways to know something. When someone says that t
 * do he understand it in a way that he could explain the broad features to me?
 * Would he be able to apply his black hole knowledge to solve a problem involving two spinning Kerr Black hole.
 * Would he able to analyze and break down the theory surrounding black hole into its different part. General relativity, thermodynamics, etc. 
-* Would he be able to tell whether the three last papers of Stephe Hawking are correct. 
+* Would he be able to tell whether the three last papers of Stephen Hawking are correct. 
 * would he able to write a paper on black hole like Stephen Hawking?
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-I am exagerating with the last two. But you get the idea. Evaluating and Creating are the highest level of learning. 
+I am exaggerating with the last two. But you get the idea. Evaluating and creating are the highest level of learning. 
 </lrndesign-sidenote>
 
 
