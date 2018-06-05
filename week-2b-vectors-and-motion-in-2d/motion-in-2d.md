@@ -1,4 +1,6 @@
-[Stop and ready Chap 4.1 and 4.3]. The rest of Chap 4 will be seen next week and it is NOT covered in midterm 1. 
+<stop-note chapter="4.1 and 4.3 (not 4.2 yet)"></stop-note>
+
+The rest of Chap 4 will be seen next week and it is NOT covered in midterm 1. 
 
 An object moving in two dimensions will make a trajectory in the x-y plane. The instantaneous velocity is tangent to the trajectory and will generally have x and y component. 
 
