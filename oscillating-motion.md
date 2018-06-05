@@ -7,7 +7,7 @@ If the acceleration is not constant, the general relationships still holds.
 
 ### Oscillating motion 
 
-Oscillatory motion is the primary example that we will study in this class of a** non-constant acceleration motion. **
+Oscillatory motion is the primary example that we will study in this class of a **non-constant acceleration motion.**
 
 [ciscode|rev=1|tool=elmsmedia|item=4402|entity_type=node]
 
