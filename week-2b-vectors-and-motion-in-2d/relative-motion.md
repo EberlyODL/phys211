@@ -21,7 +21,7 @@ To avoid mistakes when solving relative motion problem it is really important to
 
 [ciscode|rev=1|tool=elmsmedia|item=4397|entity_type=node]
 
-There 3 different velocities and the relationship between them is
+There are three different velocities and the relationship between them is
 
 [ciscode|rev=1|tool=elmsmedia|item=4277|entity_type=node|render=display_mode|display_mode=image]
 
