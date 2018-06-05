@@ -27,6 +27,7 @@ The simplest kind of motion to analyze is the one of constant velocity, constant
 
 <stop-note chapter="2.1-2.3"></stop-note>
 
+
 ## Average vs Instantaneous.
 
 So we are in 1D, using the symbol <lrn-math>s</lrn-math> to denote either <lrn-math>x</lrn-math> (horizontal) or <lrn-math>y</lrn-math> (vertical) motion. 
