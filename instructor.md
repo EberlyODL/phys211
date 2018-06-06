@@ -1,11 +1,11 @@
 <div style="max-width:500px;">
-  [ciscode|rev=1|tool=elmsmedia|item=291|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
+  [ciscode|rev=1|tool=elmsmedia|item=291|entity_type=node|render=display_mode|display_mode=image]
 </div>
 
 My name is Louis Leblond. I will introduce myself in details on our first discussion board. I am looking forward to your introduction there as well. 
 
 
-## Orientation
+## Quick Orientation
 Everything you need each week can always be found on the homepage on Canvas. The course is divided into (half) weekly lessons. Each half-week lessons will typically have: 
 
 * List of readings
