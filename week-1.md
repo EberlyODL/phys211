@@ -4,7 +4,7 @@
 
 ## Lesson Objectives for week 1A
 
-Physics is rocket science! By the end of this course you will be able to describe and explain the broad features of rocket motion/
+Physics is rocket science! By the end of this course you will be able to describe and explain the broad features of rocket motion.
 
 But first, we need to describe and analyze motion. The lessons objectives for this (half) week are
 
