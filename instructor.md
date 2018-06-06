@@ -8,7 +8,7 @@ I am an associate teaching professor of physics and the director of online educa
 
 I will introduce myself in more details on our first discussion board. I am looking forward to your introduction there as well!
 
-### Lev Krainov, Teaching assistant. 
+### Lev Krainov, teaching assistant. 
 
 introduction coming soon. 
 
