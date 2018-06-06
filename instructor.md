@@ -1,18 +1,16 @@
-
 ### Louis Leblond, professor 
 
 <div style="max-width:500px;">
   [ciscode|rev=1|tool=elmsmedia|item=291|entity_type=node|render=display_mode|display_mode=image]
 </div>
 
-I am an associate teaching professor of physics and the director of online education in physics. 
+I am an associate teaching professor of physics and the director of online education in physics. I am originally from Québec, in Canada but I did my PH.D at Cornell University and work at Texas A&M and the Perimeter Institute in Canada before coming to Penn State. 
 
-I am originally from Québec, in Canada but I did my PH.D at Cornell University and work at Texas A&M and the Perimeter Institute in Canada before coming to Penn State. 
+I will introduce myself in more details on our first discussion board. I am looking forward to your introduction there as well!
 
-I will introduce myself in more details on our first discussion board. I am looking forward to your introduction there as well. 
+### Lev Krainov, Teaching assistant. 
 
-### Lev Krainow, Teaching assistant. 
-
+introduction coming soon. 
 
 
 ### Quick Orientation
