@@ -2,7 +2,7 @@
  
  Kinematics is about representing and describing motion quantitatively. The simplest is one-dimensional motion at constant velocity. 
  
- Before we look into this, I would like to spend the equivalent of what would be a full 50 minutes lecture in face-to-face to discussing **Learning Strategies**
+ Before we look into this, I would like to spend the equivalent of what would be a full 50 minutes lecture in face-to-face class to discuss **Learning Strategies**.
 
 ## Lesson Objectives for week 1B
 
@@ -25,7 +25,7 @@ And then going back to physics we will see.
 The full list of objectives can be found on Canvas. The reading for this week is Chap 2.1-2.3 of the textbook but read these course content pages until you get the "read the textbook sign". 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-We will start doing derivatives and integral right away even if you are taking math 140 concurrently. This chapter explains what derivatives and integral are and we will mostly only use them on polynomials. We will get to practice it, don't worry!
+We will start doing derivatives and integral right away even if you are taking math 140 concurrently. This chapter explains what derivatives and integrals are and we will mostly only use them on polynomials functions. We will get to practice it, don't worry!
 </lrndesign-sidenote>
 
 
