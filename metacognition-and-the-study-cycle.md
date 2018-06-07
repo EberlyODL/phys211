@@ -7,9 +7,9 @@ How do we move up the Bloom's pyramid? How do we go beyond memorization of facts
 Metacognition is like having your brain looking from the outside at your own brain. Its the ability to think about one's own thinking.
 
 Novice in a field tend to be overconfident on their mastery of the material. This is known as the Dunning-Kruger effect (see figure).
-
+<div style="max-width:500px;">
 [ciscode|rev=1|tool=elmsmedia|item=4215|entity_type=node|render=display_mode|display_mode=image]
-
+</div>
 To be a successful student, you need to think about your own thinking, here is a good step by step to remember. 
 
 * **Assess**: You need to assess the task. What is required of you, what is the level of skills that will be needed. Is remembering enough or will you need to apply and analyze?
