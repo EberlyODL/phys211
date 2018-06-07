@@ -1,4 +1,3 @@
-
 ### Learning to Learn Physics
 
 **Phys 211 may require a lot of work from you!**
@@ -30,12 +29,12 @@ As a professor, I see three things that I can do to transform your hard work int
 
 1. Offer help again and again. I am available and willing to help anyone. Make use of me and other resources. I completely understand that life happens, you do not need to apologize or to hide. If you are trying hard and working, I already consider you a successful student and I see my role as a coach to transform all those golf swings into a par or a birdie!
 
-2. Teach you how to learn in general and how to learn physics 211 in particular. There are ways to make the most out of your study time. I believe it is more important for me to teach you how to learn something effectively than given you quick answers or marvelously clear explanations. In the next few pages, I will summarize techniques on how to **study smarter not harder**. I will come back to these strategies again and I will have questions on the quiz and on the exam about them, this material is covered as part of the course. These lessons are potentially more important (and may have more of an impact on your grade) then the actual physics lessons. 
+2. Teach you how to learn in general and how to learn physics 211 in particular. There are ways to make the most out of your study time. I believe it is more important for me to teach you how to learn something effectively than given you quick answers or marvelously clear explanations. In the next few pages, I will summarize techniques on how to **study smarter not harder**. I will come back to these strategies again and again. These lessons are potentially more important (and may have more of an impact on your grade) then the actual physics lessons. 
 
 3. Provide a well designed course to guide your learning experience. The learning is not happening in the textbook or in this course webpage, the learning is happening in your head and its not done by me, its done by you. My course is designed to get you to acquire the knowledge, do the connections in your brain and to practice the skills to the point of unconscious mastery (like driving a car or a bike).  
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-I encourage you strongly to contact me with any issues you may have. With the course material, the course logistic or some personal issues (I usually do not need to know any details to still be able to offer some help!). I want everyone one of you to have all the things you need to be successful. 
+I encourage you strongly to contact me with any issues you may have. With the course material, the course logistic or some personal issues (I usually do not need to know any details to still be able to offer some help!). I want everyone of you to have all the things you need to be successful. 
 </lrndesign-sidenote>
 
 
