@@ -6,7 +6,7 @@ For the moment we are working in one dimension so imagine we live in a Universe 
 
 We can denote our position on this line using a label <lrn-math>x</lrn-math>. We can call our home the <lrn-math>x=0</lrn-math> spot and everything to the right is positive <lrn-math>x</lrn-math> values while everything to the left is negative <lrn-math>x</lrn-math> value. **To prevent confusions, we will almost always take <lrn-math>x</lrn-math> to increase to the right.**
 
-Let us look at the rocket motion in the video below done This is a motion of a rocket-car in a straight line. The rocket started from rest and kept moving faster and faster each time from left to right. 
+Let us look at the rocket motion in the video below. This is a motion of a rocket-car in a straight line. The rocket started from rest and kept moving faster and faster each time from left to right. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4199|entity_type=node|render=display_mode|display_mode=mediavideo]
 
@@ -14,7 +14,7 @@ To represent this motion, first imagine that the rocket and me are represented b
 
 [ciscode|rev=1|tool=elmsmedia|item=2055|entity_type=node|render=display_mode|display_mode=image]
 
-This is the motion diagram and this figure is very informative. It tells us the position of the rocket car at different instant of time. Since the interval of times are equal we see that the rocket car traveled a bigger distance between time 4 and time 5 than it did between time 1 and time 2. The speed was greater toward the end than it was at the beginning. The rocket car was _accelerating_.
+This is the motion diagram for the rocket car motion and this figure is very informative. It tells us the position of the rocket car at different instant of time. Since the interval of times are equal we see that the rocket car traveled a bigger distance between time 4 and time 5 than it did between time 1 and time 2. The speed was greater toward the end than it was at the beginning. The rocket car was _accelerating_.
 
 ## Graphs
 
