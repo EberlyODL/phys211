@@ -31,7 +31,7 @@ The first visual tool, we will learn is the **box plot** shown below.
 
 [ciscode|rev=1|tool=elmsmedia|item=4266|entity_type=node|render=display_mode|display_mode=image]
 
-I will show in the video below how to create this image and what it means. On the right side next to the image are a list of statistic properties of the data. You do not need to know how to compute these numbers but you should have a basic understand of what they mean. 
+I will show in the video below how to create this image and what it means. On the right side next to the image are a list of statistic properties of the data. You do not need to know how to compute these numbers but you should have a basic understanding of what they mean. 
 
 * **Sample size**: Number of data points, here shown for each category UP, WC and then all together. 
 * **Mean**: This is the average age. 
