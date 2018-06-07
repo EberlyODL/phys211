@@ -23,7 +23,7 @@ For the next question you need to use the definition of average acceleration <lr
 
 ### Motion diagram in 2D. 
  
- Motion diagram in 2D works the same way as in 1D. The velocity vectors green connect two points in each motion diagram while the acceleration vector is shown on top the of the dot and come from the **vector subtraction** of the velocity after - velocity before the point. 
+ Motion diagram in 2D works the same way as in 1D. The velocity vectors connect two points in each motion diagram while the acceleration vector is shown on top the of the dot and come from the **vector subtraction** of the velocity after - velocity before the point. 
  
  <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 
@@ -33,6 +33,6 @@ Acceleration occurs for a change in the direction of the velocity or for a chang
 
 The length and direction of the acceleration vector is hard to guess at first. Only careful subtraction of the velocity vectors will yield the answers. 
 
-Here is an example of 2D motion diagram with all accelerations vector. The explicit vector subtraction is shown for point 4. Make sure you understand how the other acceleration vectors were obtained. 
+Here is an example of 2D motion diagram with all acceleration vectors. The explicit vector subtraction is shown for point 4. Make sure you understand how the other acceleration vectors were obtained. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4274|entity_type=node|render=display_mode|display_mode=image]
