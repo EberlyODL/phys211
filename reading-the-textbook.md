@@ -13,7 +13,7 @@ While reading the textbook, pay close attention to
 
 In week1B, I will discuss specific learning strategies and this will include an how-to guide in how to read the textbook. 
 
-Instead of repeating the textbook with lectures notes or videos (which have been shown an ineffective way to learn), I wrote
+Instead of repeating the textbook with lectures notes or videos (which have been shown to be an ineffective way to learn), I wrote
 
 1. Chapter Summary (pdf on Canvas). These chapter summaries are my own personal summary of the important concepts and tools for the week lessons.
 
