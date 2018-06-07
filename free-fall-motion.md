@@ -28,7 +28,7 @@ In this class, we will always take the y axis to be pointing upward from the sur
 <lrn-math>a_y = -g = -9.80\;m/s^2</lrn-math>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-By convention, g is always a positive number, while <lrn-math inline>a_y</lrn-math> can be positive or negative depending on the coordinate system. We will almost always take y to be up and <lrnmath>a_y=-g </lrn-math>.
+By convention, g is always a positive number, while <lrn-math inline>a_y</lrn-math> can be positive or negative depending on the coordinate system. We will almost always take y to be up and <lrn-math inline>a_y=-g </lrn-math>.
 </lrndesign-sidenote>
 
 On a incline plane with negligible friction, the falling acceleration is a fraction of the full free fall acceleration. That fraction is set by the angle of the incline plane. 
