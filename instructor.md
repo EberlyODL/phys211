@@ -9,8 +9,10 @@ I am an associate teaching professor of physics and the director of online educa
 I will introduce myself in more details on our first discussion board. I am looking forward to your introduction there as well!
 
 ### Lev Krainov, teaching assistant. 
-
-introduction coming soon. 
+<div style="max-width:500px;">
+[ciscode|rev=1|tool=elmsmedia|item=4405|entity_type=node|render=display_mode|display_mode=image]
+</div>
+I am a physics graduate student. I got my bachelor and master's degrees in physics from MIPT in Russia. My research interests are topological insulators and photonics.
 
 
 ### Quick Orientation
