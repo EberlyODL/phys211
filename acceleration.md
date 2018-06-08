@@ -1,5 +1,3 @@
-## Week 2A. Motion with Constant Acceleration, Oscillations and the Scientific Method. 
-
 Acceleration is the rate of change of velocity just like the velocity is the rate of change of position. Make sure you understand what this means in words.
 
 A velocity of <lrn-math>v_x = +10\;m/s</lrn-math> means that you move 10 m to the right x direction in every second. If you started at x = 0, you would be at x = 10 m in one second. 
