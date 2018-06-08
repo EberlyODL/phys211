@@ -13,7 +13,9 @@ Oscillatory motion is the primary example that we will study in this class of a 
 
 Your book covers oscillatory motion in one chapter at the end. In this class, we will introduce oscillatory motions gradually as we go along. For the moment, we are only interested in the kinematics of oscillatory motion, section 15.1 and the beginning of section 15.4.
 
-<stop-note chapter="15.1 and 15.4 till equation 15.28"></stop-note>
+<stop-note>
+    <span slot="message">Section 15.1 and 15.4 until equation 15.28</span>
+</stop-note>
 
 Read carefully your book and my chapter review. We will limit our analysis to simple harmonic motion where the motion is sinusoidal.
 
