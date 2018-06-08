@@ -1,4 +1,6 @@
- In this half-week, we will start the subject of kinematics. 
+##  Week 1B. Learning to Learn and 1D Kinematics. 
+
+In this half-week, we will start the subject of kinematics. 
  
  Kinematics is about representing and describing motion quantitatively. The simplest is one-dimensional motion at constant velocity. 
  
