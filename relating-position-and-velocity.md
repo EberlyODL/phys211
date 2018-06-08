@@ -25,8 +25,9 @@ The simplest kind of motion to analyze is the one of constant velocity, constant
 
 [ciscode|rev=1|tool=elmsmedia|item=4399|entity_type=node]
 
-<stop-note chapter="2.1-2.3"></stop-note>
-
+<stop-note>
+    <span slot="message"> Sections: 2.1-2.3</span>
+</stop-note>
 
 ## Average vs Instantaneous.
 
