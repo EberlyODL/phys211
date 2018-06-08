@@ -29,7 +29,7 @@
     * [Motion in 2D](week-2b-vectors-and-motion-in-2d/motion-in-2d.md)
     * [Two 1D motions](week-2b-vectors-and-motion-in-2d/two-1d-motions.md)
     * [Relative motion](week-2b-vectors-and-motion-in-2d/relative-motion.md)
-    * [Week 3A - Projectile Motion and Forces](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion.md)
+  * [Week 3A - Projectile Motion and Forces](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion.md)
     * [Problem solving Projectile Motion](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion/problem-solving-projectile-motion.md)
     * [Projectile Motion](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion/projectile-motion.md)
     * [Dynamics](week-3b-metacognition-analyzing-data-and-forces/dynamics.md)
