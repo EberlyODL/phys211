@@ -5,7 +5,9 @@
 *  LOVec03: perform vector arithmetic using components
 * LOKin05: understand and be able to convert between different reference frames
 
-<stop-note chapter="3"></stop-note>
+<stop-note>
+    <span slot="message">Chap. 3</span>
+</stop-note>
 Come back here after. 
 
 
