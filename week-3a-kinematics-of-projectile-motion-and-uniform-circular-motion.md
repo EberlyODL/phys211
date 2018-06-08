@@ -13,5 +13,3 @@
 The full list of objectives can be found on Canvas. All readings and assignments can be found on Canvas.
 
 
-<stop-note chapter="4.2"></stop-note>
-
