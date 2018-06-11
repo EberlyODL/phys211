@@ -17,5 +17,3 @@ Let me illustrate how to use StatKey to measure correlation and do "best fit". I
 <lrn-math inline> T = 2\pi\sqrt{\frac{m}{k}} </lrn-math>
 
 [ciscode|rev=1|tool=elmsmedia|item=4307|entity_type=node|render=display_mode|display_mode=mediavideo]
-
-### Extracting Physical Relationship from the Best Fit Data. 
