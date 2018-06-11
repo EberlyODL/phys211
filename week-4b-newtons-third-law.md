@@ -1,8 +1,8 @@
 ## Lesson Objectives for week 4B
 
+* LODyn05: identify and make use of action-reaction force pairs
+*  LODyn06: solve force problems with multiple interacting objects and constraints
 
-
-The full list of objectives can be found on Canvas. All readings and assignments can be found on Canvas.
 
 
 

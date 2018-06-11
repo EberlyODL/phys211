@@ -1,8 +1,12 @@
-As usual start by reading Chap 7 and do the examples without looking at solutions (paraphrase the concept). Read my chapter summary. The level of complexity in the problems really increase in this chapter and you may find that some of the examples are hard to do without help. 
+As usual start by reading Chap 7 and do the examples without looking at solutions (paraphrase the concept). Read my chapter summary. 
 
-Do not look at the worked out solutions, come read these pages, ask questions and try the examples again at a later time. 
+The level of complexity in the problems really increase in this chapter and you may find that some of the examples are hard to do without help.  
 
-In the next few page, I will elaborate more on the material. 
+<stop-note>
+    <span slot="Chap 7"></span>
+</stop-note>
+
+In the next few pages, I will elaborate more on the material. 
 
 ### Interacting object. (7.1-7.2)
 
@@ -10,7 +14,7 @@ In the following image, a runner uses a starting block to propel herself forward
 
 [ciscode|rev=1|tool=elmsmedia|item=4319|entity_type=node|render=display_mode|display_mode=image]
 
-At the moment shown, the runner is only touching the starting block. This is one contact but since this is a surface, it will lead to two forces, a normal and a friction force. The friction force has to be static since there is no relative motion between feet and the block. The direction is uncertain at first. The static friction wants to oppose motion and my guess is that the runner must be pushing the block upward to get a friction downward. So the free-body diagram for the runner is 
+ one contact but since this is a surface, it will lead to two forces, a normal and a friction force. The friction force has to be static since there is no relative motion between feet and the block. The direction is uncertain at first. The static friction wants to oppose motion and my guess is that the runner must be pushing the block upward to get a friction downward. So the free-body diagram for the runner is 
 
 [ciscode|rev=1|tool=elmsmedia|item=4320|entity_type=node|render=display_mode|display_mode=image]
 
