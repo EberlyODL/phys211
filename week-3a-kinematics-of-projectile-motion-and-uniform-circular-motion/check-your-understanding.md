@@ -5,13 +5,13 @@ Mathematical aside. Proportional Reasoning.
 </stop-note>
 
 Two quantity are proportional when there is a direct relation between like
-<lrn-math inline>
-x=2y </lrn-math>
+
+<lrn-math inline> x=2y </lrn-math>
 
 If there was an extra term such as <lrn-math inline>x = 2y+2 </lrn-math>. x and y would not be proportional. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Proportional are nice because one can quickly predict what happens to x when y changes. For example, in the previous relation, if y is double, x is also doubled.
+Proportional relationships are nice because one can quickly predict what happens to x when y changes. For example, in the previous relation, if y is doubled, x is also doubled.
 </lrndesign-sidenote>
 
 A relation is proportional if the ratio of y/x is a constant. In our example it was 1/2. 
