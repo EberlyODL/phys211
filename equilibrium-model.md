@@ -31,7 +31,7 @@ The problem solving strategy 6.1 is super important. In a nutshell it is.
 
 In the following video, I illustrate the problem solving strategy. 
 
-[demo video with cart]
+<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=11002698" frameborder="0" allowusermedia allowfullscreen allow="camera https://psu.voicethread.com; microphone https://psu.voicethread.com; fullscreen https://psu.voicethread.com;"></iframe>
 
 Tips to remember from the video and your readings
 

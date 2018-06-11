@@ -7,6 +7,7 @@
 * LODyn01: apply the idea that net forces are related to acceleration, not velocity 
 * LODyn02: draw and use force diagrams (free-body diagrams) to analyze static and dynamic systems
 * LODyn03: differentiate and analyze the effects of kinetic and static friction 
+* LODyn04: understand the effects of the force of drag, gravity and normal. 
 
 
 
