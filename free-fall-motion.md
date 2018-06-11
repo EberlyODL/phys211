@@ -18,7 +18,8 @@ or in huge NASA vacuum chambers.
 
 And of course, we should never believe what other people's do. You can do it yourself 
 
-[ciscode|rev=1|tool=elmsmedia|item=4401|entity_type=node]
+[ciscode|rev=1|tool=elmsmedia|item=4406|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 
 ### Our convention
 
