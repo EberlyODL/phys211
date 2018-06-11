@@ -46,7 +46,7 @@ For example, the image below shows a scatterplot created in Statkey of the ph vs
 
 While the data is pretty scattered, a careful observation of this scatterplot reveals there there seems to be a trend in that high ph lakes seems to be low average mercury while the reverse is true of low ph. 
 
-On the right of the image, you see the mean and standard deviation of each variable as well as the sample size. There is a new statistics we have not seen before called the correlation.
+On the right of the image, you see the mean and standard deviation of each variable as well as the sample size. There is also a new statistics we have not seen before called the correlation.
 
 <lrndesign-sidenote label="Definition" icon="bookmark" bg-color="#c2c2a3">
 **Correlation**
