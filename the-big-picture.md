@@ -2,7 +2,7 @@
 
 -Herbert Butterfield – The Origins of Modern Science. 
 
-In Phys 211, we will tackle the subject of motion starting with kinematics and newtonian dynamics. I believe this course is particuarly important because
+In Phys 211, we will tackle the subject of motion starting with kinematics and Newtonian dynamics. I believe this course is particularly important because
 
 ### 1. Our understanding of motion had led to remarkable breakthroughs in our understanding of our Universe that are just fascinating to know about.  
 
