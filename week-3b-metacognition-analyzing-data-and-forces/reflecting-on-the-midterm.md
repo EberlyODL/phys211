@@ -43,7 +43,7 @@ Finding what you don't know or where you struggle can be hard and this is where 
 Accounting for the current situation, given time constraints make the best plan to do the task at the level required.
 
 Part of the plan should include 
-1. Reading the textbook properly. ** Remember there is a method to it!
+1. Reading the textbook properly. Remember there is a method to it!
 2. **Use reading quiz and quiz as real tests**
 3. Do weekly intense study. Not just before the exam!
 
@@ -63,11 +63,11 @@ Don't forget the review, it only takes 5 min!
 
 Apply strategies (see below) and monitor continuously your performance.
 
-The goal is to achieve deep processing of the ideas, to do so follow these principles. 
+The goal is to achieve deep processing of the ideas in your head, to do so follow these principles. 
 
-- **Elaboration**: How does this concept relate to other concepts?
+- **Elaboration**: How does this concept relate to other concepts you have already seen?
 - **Distinctiveness**: How is this concept different from other concepts. 
-- **Personal**: How can I relate this to my personal experience? Stop yourself and think about that. 
+- **Personal**: How can I relate this to my personal experience? Stop yourself often and think about that. 
 - **Appropriate to retrieval and application**: Ask yourself what you are expected to be able to do with the information. 
 
 We will all share strategies during the discussion boards this week. 
