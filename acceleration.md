@@ -14,6 +14,6 @@ These are the **general** definitions that relates position, velocity and accele
 
 In the following demonstration, we illustrate an interesting one dimensional motion with a small fan placed on a small cart. There is negligible friction between the cart and the ramp. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4400|entity_type=node]
+[ciscode|rev=1|tool=elmsmedia|item=4410|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 [ciscode|rev=1|tool=elmsmedia|item=4231|entity_type=node|render=display_mode|display_mode=mediasvg__stretch__medium__lightboxed]
