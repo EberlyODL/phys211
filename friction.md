@@ -1,4 +1,4 @@
-[demo video friction]
+[ciscode|rev=1|tool=elmsmedia|item=4414|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 [ciscode|rev=1|tool=elmsmedia|item=4312|entity_type=node|render=display_mode|display_mode=h5p]
 
@@ -9,7 +9,7 @@ The following figure from the book is very important and often misunderstood.
 [ciscode|rev=1|tool=elmsmedia|item=4313|entity_type=node|render=display_mode|display_mode=image]
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-  Note that static friction varies and it will be whatever strength (and direction) is needed to prevent relative motion. 
+ Note that static friction varies and it will be whatever strength (and direction) is needed to prevent relative motion. 
 </lrndesign-sidenote>
 
 Here is another example. Take your time with this one, first do the free-body diagram. 
@@ -20,5 +20,6 @@ Sometimes, you will not know if 1) the object is moving and 2) which way the fri
 
 [ciscode|rev=1|tool=elmsmedia|item=4314|entity_type=node|render=display_mode|display_mode=h5p]
 
-below, I work on this problem a bit more. 
+below, I work on this problem a bit more.
+ 
 [ciscode|rev=1|tool=elmsmedia|item=4315|entity_type=node|render=display_mode|display_mode=mediavideo]
