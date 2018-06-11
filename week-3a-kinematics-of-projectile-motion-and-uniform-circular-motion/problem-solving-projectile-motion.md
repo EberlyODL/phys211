@@ -1,4 +1,4 @@
-Projectile motion is a good example of 2D motion that is decomposed into two 1D motion. It is a free fall in the y direction and a uniform motion in the x direction. 
+Projectile motion is a good example of 2D motion that is decomposed into two 1D motions. It is a free fall in the y direction and a uniform motion in the x direction. 
 
 Conceptually, there is really nothing new so this is a good spot to simply "amp up" our problem solving skills and our conceptual understandings of kinematics. 
 
@@ -11,7 +11,6 @@ Here is in one image a summary of projectile motion.
 The large number of variables in projectile motion require you to be well organized when solving problems. It also means that there is a larger set of possible questions and problems. You cannot hope to memorize all problems but you can and should learn the problem solving techniques.
 
 ## Read carefully the textbook
- 
 
 * first read section 4.2 before example 4.4 and paraphrase it in your mind (write notes on paper). 
 * try to do example 4.4 on your own without looking at the solution (block it with a piece of paper or take a picture of just the question) and rewrite the question in your own words and solve it.  
@@ -27,4 +26,6 @@ The large number of variables in projectile motion require you to be well organi
 The best way to become good at solving problem is by solving problems. Practice, practice, practice.  Be careful of looking at solutions or videos of professors solving problems. Those usually do more harm than good by giving you the false feeling that you understand and that by simply watching the video, you can solve another problem like it. You may but check it by solving problems on your own. 
 </lrndesign-sidenote>
 
-<stop-note chapter="4.2"></stop-note>
+<stop-note>
+<span slot="Sections 4.2"></span>
+</stop-note>
