@@ -16,7 +16,7 @@ In the following video, I will demonstrate many of the forces we will discuss in
 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Tactics Box 5.2 and Tactics Box 5.3 are crucial to master for the rest of the course. Practice both by looking at examples 5.5 and 5.6 (and the reading quiz). Also look again at the mathematical aside on proportional reasoning.
+Tactics Box 5.2 and Tactics Box 5.3 are crucial to master for the rest of the course. Practice both by looking at examples 5.5 and 5.6 (and the reading quiz).
 </lrndesign-sidenote>
 
 
