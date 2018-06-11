@@ -7,7 +7,7 @@ For lab 1, we looked at small vs big push of the IOLab. We used the boxplot feat
 That way, you were able to reach conclusions regarding whether the variability of the average acceleration while sliding between a big vs small push was just normal noise or whether there are significant and persistent differences. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Note that a perfectly valid conclusion to make from data is that more data is needed or better measurement techniques/better design for the experiment. Its usually one or the other, not both. A good scientific statement from lab 1 could have been. "Unlike the max acceleration which was clearly different between big and small push, the average acceleration during sliding is much less different between big and small. The noise appears too big to clearly differentiate the cases and a better experimental setup would be needed to definitely measure a difference if there are any."
+Note that a perfectly valid conclusion to make from data is that more data is needed or better measurement techniques/better design for the experiment. Its usually one or the other, not both. A good scientific statement from lab 1 could have been: "Unlike the max acceleration which was clearly different between big and small push, the average acceleration during sliding is much less different between big and small. The noise appears too big to clearly differentiate the cases and a better experimental setup would be needed to definitely measure a difference if there are any."
 </lrndesign-sidenote>
 
 We will continue using the Boxplot tool in this course.
@@ -15,14 +15,14 @@ We will continue using the Boxplot tool in this course.
 ### Type of variables
 
 * Independent variable: This is the one changed by the scientist. 
-* Dependent variable: This is the variable that the scientist observes to see if or how it is affected by change made in the independent variable. 
+* Dependent variable: This is the variable that the scientist observes to see if or how it is affected by changes made in the independent variable. 
 * Controlled variable. This is a variable that the scientist will try to keep constant while changing the independent variable. 
 
-In your lab this week you will how kinetic friction depends on the mass of the object. 
+In your lab this week you will study how kinetic friction depends on the mass of the object. 
 
 |type|variable|
 |----
-|Independent| mass of IOLab+ stuff on it|
+|Independent| mass of IOLab+ stuff added to it|
 |Dependent| kinetic friction|
 |Control| surface|
 
