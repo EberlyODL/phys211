@@ -33,3 +33,14 @@ Rad for radian is not a real unit and it is sometimes omitted. It is there to re
 
 [ciscode|rev=1|tool=elmsmedia|item=4260|entity_type=node|render=display_mode|display_mode=h5p]
 
+### The Period does not depend on the amplitude. 
+
+One of the most important properties of harmonic oscillator is that the amplitude and the period (or frequency) are independent. You can change the amplitude as much as you want and the period stays the same. 
+
+We illustrates this fact in the following video using a pendulum. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4412|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+This is why pendulum are often used to keep track of time. Even though the amplitude of the oscillations decreases, the period stays the same and the pendulum keeps track of time!
+</lrndesign-sidenote>
