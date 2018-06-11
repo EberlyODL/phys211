@@ -9,7 +9,7 @@ In the following demo, we demonstrate how a projectile motion can be seen as fre
 A full analysis of projectile motion with various problem solving techniques will be the subject of next week. Projectile motion is not on midterm 1 but the idea that 2D motion can be decomposed as two 1D motion when the acceleration is constant is. 
 </lrndesign-sidenote>
 
-[ciscode|rev=1|tool=elmsmedia|item=4403|entity_type=node]
+[ciscode|rev=1|tool=elmsmedia|item=4408|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 Again to reiterate, the yellow ball in the image below is doing a 1 dimensional free fall motion in the y direction (like the red ball) together with a uniform constant velocity motion in the x direction. 
 
