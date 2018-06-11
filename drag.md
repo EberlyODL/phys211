@@ -1,3 +1,7 @@
+<stop-note>
+    <span slot="Section 6.5-6.6"></span>
+</stop-note>
+
 Not much say about drag beyond the book and chapter summary. The formula is
 
  <lrn-math> \vec{D} = \left(\frac12 C\rho A v^2,\;\rm{direction}\;\rm{opposite}\;\rm{to};\rm{motion}\right) </lrn-math>
