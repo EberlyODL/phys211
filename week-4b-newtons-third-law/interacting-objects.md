@@ -29,13 +29,14 @@ Do not hesitate to label forces! Here we will use the full notation <lrn-math>F_
 </lrndesign-sidenote>
 
 The objects in the problem are
-
+<div style="max-width:500px;">
 |Label|Object|
 |---|
 |R|Runner|
 |B|Block|
 |G|Ground|
 |EE| Entire Earth|
+</div>
 
 With this notation the free body diagram for the runner becomes
 
