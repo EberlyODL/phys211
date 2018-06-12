@@ -19,7 +19,7 @@ There is only one contact but since this is a surface, it will lead to two force
 [ciscode|rev=1|tool=elmsmedia|item=4320|entity_type=node|render=display_mode|display_mode=image]
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-This is an example of **propulsion**. The runner is pushing on the block and the block pushes back. With friction and normal force both pointing to the right, we can get the biggest force to the right (which is the goal of the runner). 
+This is an example of propulsion. The runner is pushing on the block and the block pushes back. With friction and normal force both pointing to the right, we can get the biggest force to the right (which is the goal of the runner). 
 </lrndesign-sidenote>
 
 What would the free body diagram on the starting block look like?  The starting block touches the runner and the ground. Each will provide a normal and friction force so there will be multiple similar forces. This can get really confusing!
