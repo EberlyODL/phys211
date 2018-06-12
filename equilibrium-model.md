@@ -1,6 +1,6 @@
 <stop-note>
-    <span slot="Chap 6.1-6.4: Dynamics I"></span>
-</stop-note> 
+    <span slot="message">Chap 6.1-6.4: Dynamics I</span>
+</stop-note>
 
 Start by reading the textbook carefully using paraphrasing and do the examples without looking at the solutions. 
 
