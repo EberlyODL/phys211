@@ -11,7 +11,7 @@ In the following video, I will demonstrate many of the forces we will discuss in
 [ciscode|rev=1|tool=elmsmedia|item=4416|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 <stop-note>
-    <span slot="Read Chapter 5 carefully. It is very wordy but these are very important concepts."></span>
+    <span slot="message"> Read Chapter 5 carefully. It is very wordy but these are very important concepts.</span>
 </stop-note>
 
 
@@ -20,4 +20,4 @@ Tactics Box 5.2 and Tactics Box 5.3 are crucial to master for the rest of the co
 </lrndesign-sidenote>
 
 
-Read my chapter summary!  
+Read my chapter summary! 
