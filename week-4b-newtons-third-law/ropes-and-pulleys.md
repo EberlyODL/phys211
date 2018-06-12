@@ -9,3 +9,7 @@ The concept of tension can be tricky. Always draw free-body diagrams.
 [ciscode|rev=1|tool=elmsmedia|item=4326|entity_type=node|render=display_mode|display_mode=h5p]
 
 [ciscode|rev=1|tool=elmsmedia|item=4327|entity_type=node|render=display_mode|display_mode=h5p]
+
+In the next demo we illustrate further this concept with chair-pulley setup!
+
+[ciscode|rev=1|tool=elmsmedia|item=4417|entity_type=node|render=display_mode|display_mode=mediavideo]
