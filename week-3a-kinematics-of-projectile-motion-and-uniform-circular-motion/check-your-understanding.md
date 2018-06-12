@@ -1,7 +1,7 @@
 Mathematical aside. Proportional Reasoning. 
 
 <stop-note>
-    <span slot="Read page 118 Mathematical aside in Chap 5."></span>
+    <span slot="message">Read page 118 Mathematical aside in Chap 5.</span>
 </stop-note>
 
 Two quantity are proportional when there is a direct relation between them like
