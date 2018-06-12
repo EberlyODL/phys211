@@ -27,5 +27,5 @@ The best way to become good at solving problems is by solving problems. Practice
 </lrndesign-sidenote>
 
 <stop-note>
-<span slot="Sections 4.2"></span>
+<span slot="message"> Sections: 4.2</span>
 </stop-note>
