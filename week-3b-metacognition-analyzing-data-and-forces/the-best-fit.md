@@ -2,7 +2,7 @@
 
 The regression line is the "best fit" for the data. It assumes a linear relationship between the dependent and independent variable. The regression line interpolates between the data point and allows you to predict the dependent variable based on a value of the dependent variable.
 
-</lrn-math> \rm{Dependent} = a + b\times \rm{Independent} </lrn-math>. 
+<lrn-math>\rm{Dependent} = a + b\times \rm{Independent} </lrn-math>. 
 
 The regression line data on StatKey give both the slope (b) and the intercept (a). Both are super important. 
 
