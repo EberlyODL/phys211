@@ -21,11 +21,11 @@ The problem solving strategy 6.1 is super important. In a nutshell it is.
 
 **Model**: the object as a dot and decide which force should be included or neglected. (use Tactics Box 5.2 to remember how to identify forces). 
 
-** Visual**: You need a sketch, a coordinate systems (important!) and a free body diagram (look back at Tactics Box 5.3 on how to draw free-body diagram)
+**Visual**: You need a sketch, a coordinate systems (important!) and a free body diagram (look back at Tactics Box 5.3 on how to draw free-body diagram)
 
-** Solve ** Write <lrn-math> \vec{F}_{net} =m\vec{a} </lrn-math> for each direction (x and y). Solve for acceleration or for forces. Use kinematics if needed. 
+**Solve** Write <lrn-math> \vec{F}_{net} =m\vec{a} </lrn-math> for each direction (x and y). Solve for acceleration or for forces. Use kinematics if needed. 
 
-** Assess** Check units and whether the number make sense. 
+**Assess** Check units and whether the number make sense. 
 
 ### Mechanical equilibrium. 
 
