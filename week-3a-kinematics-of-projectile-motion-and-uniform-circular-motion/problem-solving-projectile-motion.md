@@ -23,7 +23,7 @@ The large number of variables in projectile motion require you to be well organi
 * finish reading and check your understanding with the stop to think 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The best way to become good at solving problem is by solving problems. Practice, practice, practice.  Be careful of looking at solutions or videos of professors solving problems. Those usually do more harm than good by giving you the false feeling that you understand and that by simply watching the video, you can solve another problem like it. You may but check it by solving problems on your own. 
+The best way to become good at solving problems is by solving problems. Practice, practice, practice.  Be careful of looking at solutions or videos of professors solving problems. Those usually do more harm than good by giving you the false feeling that you understand and that by simply watching the video, you can solve another problem like it. You may but check it by solving problems on your own. 
 </lrndesign-sidenote>
 
 <stop-note>
