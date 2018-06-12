@@ -2,7 +2,7 @@ We will almost always consider massless ropes in this course. We will eventually
 
 In this demo, Anne-Sylvie and I illustrate Newton's third law in action with ropes and pulleys. 
 
-[demo bowling balls]
+[ciscode|rev=1|tool=elmsmedia|item=4413|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The concept of tension can be tricky. Always draw free-body diagrams. 
 
