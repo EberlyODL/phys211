@@ -33,6 +33,10 @@ In the following video, I illustrate the problem solving strategy.
 
 <iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=11002698" frameborder="0" allowusermedia allowfullscreen allow="camera https://psu.voicethread.com; microphone https://psu.voicethread.com; fullscreen https://psu.voicethread.com;"></iframe>
 
+and here is a real demo with this cart on ramp example.
+
+[ciscode|rev=1|tool=elmsmedia|item=4419|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 Tips to remember from the video and your readings
 
 * It is always good to tilt your coordinate axes to align as many forces as possible (or align with the acceleration vectors). 
