@@ -33,8 +33,8 @@ There are often multiple control variables. It really refers to anything that yo
 
 We will often look at cases where we have two quantitative (numerical) variables. We will use the scatterplot to visualize. 
 
-<lrndesign-sidenote label="Definition" icon="bookmark" bg-color="#c2c2a3">
-**Scatterplot**: A scatterplot is a graph with the independent variable (or function of) as the horizontal axis and the dependent variable (or function of) as the vertical axis. The paired data is represented as a dot on the graph. 
+<lrndesign-sidenote label="Definition: Scatterplot" icon="bookmark" bg-color="#c2c2a3">
+A scatterplot is a graph with the independent variable (or function of) as the horizontal axis and the dependent variable (or function of) as the vertical axis. The paired data is represented as a dot on the graph. 
 </lrndesign-sidenote>
 
 When we look at a scatterplot, we are interested to see whether there is a pattern, a trend. 
@@ -47,8 +47,8 @@ While the data is pretty scattered, a careful observation of this scatterplot re
 
 On the right of the image, you see the mean and standard deviation of each variable as well as the sample size. There is also a new statistics we have not seen before called the correlation.
 
-<lrndesign-sidenote label="Definition" icon="bookmark" bg-color="#c2c2a3">
-**Correlation**: The correlation is a measure of the strength and direction of linear association between two variables. 
+<lrndesign-sidenote label="Definition: Correlation" icon="bookmark" bg-color="#c2c2a3">
+The correlation is a measure of the strength and direction of linear association between two variables. 
 </lrndesign-sidenote>
 
 The correlation often denoted r is a number between -1 and 1. Values close to +1 or -1 means strong association (positive or negative) while values close to 0 means no association. 
