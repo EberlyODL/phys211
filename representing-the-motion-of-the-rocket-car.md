@@ -22,7 +22,7 @@ In science, we often like to use graphs to represent and visualize information. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2063|entity_type=node|render=display_mode|display_mode=image]
 
-** Hint: When you see a graph for the first time, start by determining what the vertical and horizontal axis represent!
+**Hint: When you see a graph for the first time, start by determining what the vertical and horizontal axis represent!**
 
 So, for example we could decide to do a position-versus-time graph for the rocket car. To do that, we put points on the graph where vertical heights represent position and horizontal distance represents time. To help me do this correctly, I can rotate the rocket motion diagram from horizontal to vertical. Then I separate each point at equal horizontal spacing for each time. This gives the following graph.
 
