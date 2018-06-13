@@ -6,7 +6,7 @@ Start by reading the textbook carefully using paraphrasing and do the examples w
 
 Also have a look at my chapter summary where I briefly condensed the material. 
 
-There are a total of 11 worked examples in the textbook in chapter 6 and all of them are important (except the "challenged example" #11 which is a bit beyond what we will do in this class). The only way to learn dynamics is to practice it in multiple contexts. Make sure you look carefully at all exercises. Do them without looking at solutions. 
+There are a total of 11 worked examples in the textbook in chapter 6 and all of them are important (except the "challenge example" #11 which is a bit beyond what we will do in this class). The only way to learn dynamics is to practice it in multiple contexts. Make sure you look carefully at all exercises. Do them without looking at solutions. 
 
 Section 6.1 to 6.3 discusses two models of Nature.  
 
