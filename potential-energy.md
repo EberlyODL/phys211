@@ -6,7 +6,7 @@ The concept of potential energy is probably the most abstract concept in this cl
 2. Elastic energy (from spring force). 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-All energy problems depend on how you choose the system. If gravity or the spring force are external to the system, they do work. If they are internal forces, they create a potential energy within the system. 
+All energy problems depend on how you choose the system. If gravity or the spring force are external to the system, they do work. If they are internal forces, they create a potential energy within the system. Its one or the other and you choose which one it will be when you decide what the system under consideration will be.
 </lrndesign-sidenote>
 
 As you will see, conservation of energy is very powerful to solve many problems that can be written as a before-and-after situations. 
