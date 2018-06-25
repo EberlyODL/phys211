@@ -1,3 +1,7 @@
+<stop-note>
+    <span slot="Section 9.4"></span>
+</stop-note>
+
 Most springs are well modeled by Hooke's Law
 
 <lrn-math inline> (F_{sp})_s = -k\Delta d </lrn-math>
