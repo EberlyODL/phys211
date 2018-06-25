@@ -55,7 +55,6 @@
     * [Ropes and Pulleys](week-4b-newtons-third-law/ropes-and-pulleys.md)
     * [Problem solving with multiple objects](week-4b-newtons-third-law/problem-solving-with-multiple-objects.md)
   * [Week 5A - Dynamics of Circular Motion](week-5a-dynamics-of-uniform-circular-motion.md)
-    * [Circular motion](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion/circular-motion.md)
     * [Uniform Circular Motion](week-3a-kinematics-of-projectile-motion-and-uniform-circular-motion/uniform-circular-motion.md)
     * [Dynamics of Circular Motion](circular-motion.md)
     * [What is the centripetal force?](what-is-the-centripetal-force.md)
@@ -77,3 +76,4 @@
     * [Phase](phase.md)
     * [Dynamics](dynamics.md)
 * [End of book ](end-of-book.md)
+

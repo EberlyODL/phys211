@@ -1,8 +1,13 @@
-As usual, read carefully textbook section 4.4 and 4.5. Paraphrasing and doing the examples along the way. Also look at my chapter summary. 
+<stop-note>
+    <span slot="Section 4.4, 4.5"></span>
+</stop-note>
+
+Paraphrasing and doing the examples along the way. Also look at my chapter summary. 
+
 
 ### Angular variables. 
 
-We will consider uniform circular motion so <lrn-math inline>\omega </lrn-math> is constant. There is no angular acceleration yet. 
+We will consider uniform circular motion so <lrn-math>\omega </lrn-math> is constant. There is no angular acceleration yet. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 We will come back to non-uniform circular motion later. 
@@ -22,14 +27,10 @@ For circular motion, we will not use the x-y coordinate system that we have been
 
 [ciscode|rev=1|tool=elmsmedia|item=4290|entity_type=node|render=display_mode|display_mode=image]
 
-The connection between linear variable (in the rt coordinate system) and angular variables <lrn-math inline>\theta, \omega </lrn-math> can be summarized as follows. 
+The connection between linear variable (in the rt coordinate system) and angular variables <lrn-math>\theta, \omega </lrn-math> can be summarized as follows. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4291|entity_type=node|render=display_mode|display_mode=image]
  
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The tangential acceleration <lrn-math inline>a_t </lrn-math> is zero for now because we are dealing with uniform circular motion only. 
-</lrndesign-sidenote>
-
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The derivation of these formulas are not particularly important. 
+The tangential acceleration <lrn-math>a_t </lrn-math> is zero for now because we are dealing with uniform circular motion only. 
 </lrndesign-sidenote>
