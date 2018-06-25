@@ -30,9 +30,9 @@ From Newton's second law applied to a single particle we get
 
 <lrn-math> W = \Delta K  </lrn-math> 
 
-but for systems with multiple parts, we will need new forms of energy beside kinetic. The new energy equations cannot be easily derived from Newton's second law (it can be done, just not easily).  
+but for systems with multiple parts, we will need new forms of energy beside kinetic. The new energy equations cannot be easily derived from Newton's second law (it can be done in principle depending on the number of parts, just not easily).  
 
-** Potential energy** is the subject of next week so we will come back to it. In a nutshell, potential energy is the energy related to the relative position of parts of a system that can be stored and retrieved.
+** Potential energy** is the subject of next week so we will come back to it. In a nutshell, potential energy is the energy related to the relative position of "parts" of a system that can be stored and retrieved.
 
 If in the image above, there was a spring between block A and block B, the change in position of the two blocks could be stored in the spring and released when the spring snap back. 
 
@@ -44,23 +44,27 @@ In Phys 211, we will no yet learn the tools on how to compute the exact amount o
 
 ### Kinetic and rolling friction
 
-Kinetic (and rolling) friction are good examples where the naïve use of <lrn-math inline> W = \Delta K </lrn-math> fails. 
+Kinetic (and rolling) friction are good examples where the naïve use of <lrn-math> W = \Delta K </lrn-math> fails. 
 
 It is never correct to say that friction does work since work is a transfer of energy to the system. When you rub your two hands together, both hands get warmer. Friction does not just transfer energy to the system on which it is applied. Both the object and the surface gets warmer. 
 
 More technically, because friction is fundamentally a force applied on a surface with many particles, the derivation of work from Newton's second law does not apply. Kinetic and rolling friction involve multiple deformation, breakage that are hard to fully account for.  
 
-If you define the system to include the object and the surface on which it slides, then the friction is an internal force. It does not do work but it will increase the thermal energy of the system. As shown in your book, it is simple to prove that the amount of the increase is
+If you define the system to include the object and the surface on which it slides, then the friction is an internal force to the system. It does not do work but it will increase the thermal energy of the system. As shown in your book, it is simple to prove that the amount of the increase is
 
-<lrn-math inline> \Delta E_{th} = f_k\Delta s </lrn-math>
+<lrn-math> \Delta E_{th} = f_k\Delta s </lrn-math>
 
-replacing <lrn-math inline>f_k </lrn-math> by </lrn-math> f_r </lrn-math> for rolling friction.
+replacing <lrn-math>f_k </lrn-math> by </lrn-math> f_r </lrn-math> for rolling friction.
 
 There are many important points to remember here 
 
-* Static friction never does work or increase thermal energy. It does neither. For a force to do the point of contact of the force needs to move and static friction does not do work. A car that propel itself with static friction is using the energy from the gasoline or battery, not from the road. 
+* Static friction never does work or increase thermal energy. It does neither. For a force to do work, the point of contact of the force needs to move and static friction is static so there is no motion where it is applied. A car that propel itself with static friction is using the energy from the gasoline or battery, not from the road. 
 
 * The choice of system is important. If you choose a system with a dissipative force as an external force, you will not be able to (at least easily) apply conservation of energy since it is hard to know how much of the dissipated energy goes in the system versus how much goes out. Just choose a different system! Always put friction (kinetic or rolling) inside the system. 
 
-* The formula for <lrn-math inline> \Delta E_{th} = f_k\Delta s </lrn-math> is very similar looking to what you would get if friction did do work. It make sense its that way but it led to many errors in many textbook and you can often see the phrase "work done by friction". Just don't be confused if you see this. 
+* The formula for <lrn-math> \Delta E_{th} = f_k\Delta s </lrn-math> is very similar looking to what you would get if friction did do work. It make sense its that way but it led to many errors in many textbook and you can often see the phrase "work done by friction". Just don't be confused if you see this. 
+
+<stop-note>
+    <span slot="Finish Chap 9, 9.5 and 9.6"></span>
+</stop-note>
 
