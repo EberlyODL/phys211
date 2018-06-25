@@ -7,7 +7,7 @@ Here is the "grade evolution" of four past Phys 211 students (3 midterm and a fi
 |Blanche|64|79|87|100|A|
 |Joshua|78|50|87|97|A|
 
-What happen to these students? How did they all dramatically improve their grades after MT1? They all in one way or another change some key aspects of their learning strategies. 
+What happened to these students? How did they all dramatically improve their grades after MT1? They all in one way or another change some key aspects of their learning strategies. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
   It is possible to completely turn your performance around if you make some changes to the way you learn. Metacognition is the key!
