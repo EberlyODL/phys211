@@ -1,8 +1,8 @@
 ## Lesson Objectives for week 5A
 
+* LOKin09: relate angular and linear kinematic variables in uniform circular motion
+* LODyn07: analyze uniform circular motion in an inertial reference frame with no fictitious forces 
 
-
-The full list of objectives can be found on Canvas. All readings and assignments can be found on Canvas.
 
 
 
