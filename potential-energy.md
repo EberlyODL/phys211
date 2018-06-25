@@ -24,11 +24,15 @@ Energy problems are easy to solve and usually involve a single equation of the f
 
 There are 11 worked examples. As usual, these are all important problems including the very last one, the "challenge". Make sure you do them without looking at solutions.
 
+<stop-note>
+    <span slot="All of Chap 10 or start with 10.1 and 10.2 first"></span>
+</stop-note>
+
 ### Gravitational potential. 
 
 As shown in your book, a system made of a mass m and the Earth has the following gravitational potential energy if the mass is near the surface of the Earth. 
 
-<lrn-math inline>U_G=mgy </lrn-math>
+<lrn-math>U_G=mgy </lrn-math>
 
 Some comments
 
