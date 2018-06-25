@@ -1,8 +1,8 @@
-To recap, we can show from Newton's second law <lrn-math inline>(F_{net})_s = ma_s </lrn-math> that  
+To recap, we can show from Newton's second law <lrn-math>(F_{net})_s = ma_s </lrn-math> that  
 
-<lrn-math inline> W = \Delta K </lrn-math>
+<lrn-math> W = \Delta K </lrn-math>
 
-with the work calculated by integrating the force along the path <lrn-math inline>W=\int (F_{net})_s ds </lrn-math>.
+with the work calculated by integrating the force along the path <lrn-math>W=\int (F_{net})_s ds </lrn-math>.
 
 But as the latest question has shown, this does not seem to always be correct. 
 
@@ -12,7 +12,7 @@ Let us look more in detail. In the problem shown below, both block A and block B
 
 The problem is that the system is not just a single particle but has multiple parts and that these parts move independently. 
 
-The system is "deformable" and energy can be put into the deformation. 
+The system (made of both blocks) is "deformable" and energy can be put into the deformation. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 We will not be analyzing "deformable" system in this course. You should just be aware that such issues can arise. It also makes it easier to understand why we need to go beyond Newton's second law when looking at energy. 
@@ -26,11 +26,11 @@ The form of the equation is always as
 
 "energy transfers" = change of energy of system
 
-From Newton's second law we get 
+From Newton's second law applied to a single particle we get 
 
-<lrn-math inline> W = \Delta K  </lrn-math> 
+<lrn-math> W = \Delta K  </lrn-math> 
 
-but for systems with multiple parts, we will need new forms of energy beside kinetic. The new energy equations cannot be easily derived from Newton's second law (but it can be done).  
+but for systems with multiple parts, we will need new forms of energy beside kinetic. The new energy equations cannot be easily derived from Newton's second law (it can be done, just not easily).  
 
 ** Potential energy** is the subject of next week so we will come back to it. In a nutshell, potential energy is the energy related to the relative position of parts of a system that can be stored and retrieved.
 
