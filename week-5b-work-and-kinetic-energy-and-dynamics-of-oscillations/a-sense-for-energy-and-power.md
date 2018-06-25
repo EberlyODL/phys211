@@ -1,4 +1,4 @@
-Energy takes many different forms. As we have discussed, energy can be stored in system as potential energy. Chemical energy of molecular bonds, nuclear energy of nuclear bonds, electric energy, gravitational energy, etc. 
+Energy takes many different forms. As we have discussed, energy can be stored in the system as potential energy. This can be chemical energy of molecular bonds, nuclear energy of nuclear bonds, electric energy, gravitational energy, etc. 
 
 Energy is a real thing even though you cannot see it. It can be counted. Let us get a feeling for some energy values. 
 
@@ -27,9 +27,9 @@ Up to now we have been using the SI unit of Joules.
 
 As you can see from the table, for the same mass of fuel, uranium is the big winner. The energy that is accessible in uranium is the binding energy between neutrons and protons in the nucleus. 
 
-## Power
+### Power
 
-Power is the rate of energy release. It is just the amount of energy that you can release over the time it takes to release it.
+Power is the rate of energy release. It is the amount of energy that you can release over the time it takes to release it.
 
 Power = Energy/Time
 
