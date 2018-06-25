@@ -4,9 +4,6 @@ For a coin on a turntable that is not sliding, the static friction must be the c
 
 [ciscode|rev=1|tool=elmsmedia|item=4338|entity_type=node|render=display_mode|display_mode=image]
 
-
-[ciscode|rev=1|tool=elmsmedia|item=4423|entity_type=node|render=display_mode|display_mode=mediavideo]
-
 Here is another example of circular motion, the spinning centrifuge or <a href="https://en.wikipedia.org/wiki/Wall_of_death" target="_blank">"wall of death"</a> 
 
 [ciscode|rev=1|tool=elmsmedia|item=4424|entity_type=node|render=display_mode|display_mode=mediavideo]
