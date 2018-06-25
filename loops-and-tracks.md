@@ -7,7 +7,7 @@ In a system with no friction and no external forces, the energy of the system ca
 
 The pendulum is a great example of the back and forth between gravity and potential. 
 
-[demo pendulum]
+[ciscode|rev=1|tool=elmsmedia|item=4428|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ### Energy bar Charts. 
 
