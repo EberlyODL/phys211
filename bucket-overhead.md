@@ -11,7 +11,7 @@ We can also the "wall of death" situation in more details. Again this is the sit
 
 Applying Newton's Law in the z direction, we must have that 
 
-<lrn-math> f_s = mg <lrn-math inline> 
+<lrn-math> f_s = mg </lrn-math>
 
 If the static friction is static it must be that <lrn-math>f_s = f_{s,max} =\mu_s n </lrn-math>. 
 
