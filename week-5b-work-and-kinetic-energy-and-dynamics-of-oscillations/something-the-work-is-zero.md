@@ -15,5 +15,5 @@ If the force varies, the work done is the integral of the force over the line it
 [ciscode|rev=1|tool=elmsmedia|item=4349|entity_type=node|render=display_mode|display_mode=h5p]
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Most of the force we have seen in this class are constant. The most important variable force is the spring force to which we now turn. 
+Most of the forces we have seen in this class are constant. The most important variable force is the spring force to which we now turn. 
 </lrndesign-sidenote>
