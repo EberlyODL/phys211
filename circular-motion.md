@@ -11,7 +11,7 @@ As in all parts of the course, your primary source of information is the book. M
 
 There is nothing new in chapter 8 in terms of theory. Dynamics of circular motion can be tricky and confusing but you must always remember. 
 
-* There are no new forces. **Do no invent forces, always use the same method to identify forces**
+* There are no new forces. **Do not invent forces, always use the same method to identify forces**
 * The acceleration is known in uniform circular motion. It is toward the center and the magnitude is 
 
 <lrn-math>a_r = \frac{v^2}{r} </lrn-math>
