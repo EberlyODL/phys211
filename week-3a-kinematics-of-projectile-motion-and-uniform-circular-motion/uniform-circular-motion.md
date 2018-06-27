@@ -1,5 +1,5 @@
 <stop-note>
-    <span slot="Section 4.4, 4.5"></span>
+    <span slot="message">Section 4.4, 4.5</span>
 </stop-note>
 
 Paraphrasing and doing the examples along the way. Also look at my chapter summary. 
