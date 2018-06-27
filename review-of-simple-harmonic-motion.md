@@ -16,5 +16,5 @@ In this class, we will skip the subsection "The physical pendulum in section 15.
 The challenge example 15.11 can be skipped.
 
 <stop-note>
-    <span slot="Chap 15 except for the "physical pendulum"></span>
+    <span slot="message">Chap 15 except for the "physical pendulum</span>
 </stop-note>
