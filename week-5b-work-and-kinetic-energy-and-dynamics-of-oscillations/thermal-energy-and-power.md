@@ -32,7 +32,7 @@ From Newton's second law applied to a single particle we get
 
 but for systems with multiple parts, we will need new forms of energy beside kinetic. The new energy equations cannot be easily derived from Newton's second law (it can be done in principle depending on the number of parts, just not easily).  
 
-** Potential energy** is the subject of next week so we will come back to it. In a nutshell, potential energy is the energy related to the relative position of "parts" of a system that can be stored and retrieved.
+**Potential energy** is the subject of next week so we will come back to it. In a nutshell, potential energy is the energy related to the relative position of "parts" of a system that can be stored and retrieved.
 
 If in the image above, there was a spring between block A and block B, the change in position of the two blocks could be stored in the spring and released when the spring snap back. 
 
@@ -54,7 +54,7 @@ If you define the system to include the object and the surface on which it slide
 
 <lrn-math> \Delta E_{th} = f_k\Delta s </lrn-math>
 
-replacing <lrn-math>f_k </lrn-math> by </lrn-math> f_r </lrn-math> for rolling friction.
+replacing <lrn-math>f_k </lrn-math> by <lrn-math> f_r </lrn-math> for rolling friction.
 
 There are many important points to remember here 
 
@@ -65,6 +65,6 @@ There are many important points to remember here
 * The formula for <lrn-math> \Delta E_{th} = f_k\Delta s </lrn-math> is very similar looking to what you would get if friction did do work. It make sense its that way but it led to many errors in many textbook and you can often see the phrase "work done by friction". Just don't be confused if you see this. 
 
 <stop-note>
-    <span slot="Finish Chap 9, 9.5 and 9.6"></span>
+    <span slot="message">Finish Chap 9, 9.5 and 9.6</span>
 </stop-note>
 
