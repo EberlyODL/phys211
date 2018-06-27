@@ -17,7 +17,7 @@ Tension and thrust force will always do work while kinetic (or rolling) friction
 
 The full energy principle is then
 
-<lrn-math> \Delta E_{sys} = \Delta K + \Delta U +Delta E_{th} = W_{ext} </lrn-math>
+<lrn-math> \Delta E_{sys} = \Delta K + \Delta U + \Delta E_{th} = W_{ext} </lrn-math>
 
 or 
 
