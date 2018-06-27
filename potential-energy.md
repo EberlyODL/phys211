@@ -25,7 +25,7 @@ Energy problems are easy to solve and usually involve a single equation of the f
 There are 11 worked examples. As usual, these are all important problems including the very last one, the "challenge". Make sure you do them without looking at solutions.
 
 <stop-note>
-    <span slot="All of Chap 10 or start with 10.1 and 10.2 first"></span>
+    <span slot="message">All of Chap 10 or start with 10.1 and 10.2 first</span>
 </stop-note>
 
 ### Gravitational potential. 
