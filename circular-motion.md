@@ -1,5 +1,5 @@
 <stop-note>
-    <span slot="Section 8.1-8.4"></span>
+    <span slot="message">Section 8.1-8.4</span>
 </stop-note>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
