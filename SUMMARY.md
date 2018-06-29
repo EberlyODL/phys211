@@ -75,5 +75,16 @@
     * [Review of Simple Harmonic Motion](review-of-simple-harmonic-motion.md)
     * [Phase](phase.md)
     * [Dynamics](dynamics.md)
+  * [Week 7A - Conservation of Momentum](week-7a-collisions-rigid-bodies-and-center-of-mass.md)
+    * [Impulse](impulse.md)
+    * [Conservation of Momentum](conservation-of-momentum.md)
+    * [Collisions](collisions.md)
+    * [Bouncing Balls](bouncing-balls.md)
+  * [Week 7B -  Rigid Bodies](week-7b-rigid-bodies.md)
+  * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
+  * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)
+  * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
+* [backupsummary](backupsummary.md)
+
 
