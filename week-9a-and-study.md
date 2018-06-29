@@ -1,10 +1,6 @@
 ## Lesson Objectives for week 9A
 
-* LOMom00: define and identify isolated systems
-* LOMom01: understand that external forces are required to change momentum
-* LOMom02: determine the impulse from a given force or motion descriptions
-* LOMom03: analyze interactions between objects using momentum conservation
-
+* LODyn14: understand and use the universal law of gravity, relating g & G
 
 
 

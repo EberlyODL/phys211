@@ -5,6 +5,7 @@
 * LONrg11: understand and use rotational kinetic energy
 * LOB01: visualize & calculate the center of mass (COM) of an extended object or set of objects
 * LOB02: understand motion in terms of the COM & use COM to determine motion of parts
+* LOB03: visualize & calculate the moment of inertia around a fixed axis for a rigid object.
 
 
 
