@@ -4,9 +4,9 @@ To be able to find those final velocities, we would need to know something about
 
 This is the **completely elastic collision**. Even in this special scenario, we will further simplify by considering the case where object 2 is initially at rest. Then the final velocities of object 1 and 2 are 
 
-<lrn-math inline> (v_{fx})_1=\frac{m_1-m_2}{m_1+m_2}(v_{ix})_1 </lrn-math>
+<lrn-math> (v_{fx})_1=\frac{m_1-m_2}{m_1+m_2}(v_{ix})_1 </lrn-math>
 
-<lrn-math inline>(v_{fx})_2=\frac{2m_1}{m_1+m_2}(v_{ix})_1</lrn-math>
+<lrn-math>(v_{fx})_2=\frac{2m_1}{m_1+m_2}(v_{ix})_1</lrn-math>
 
 As described in your book there are three very important special cases.
  
