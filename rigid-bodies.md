@@ -15,7 +15,7 @@ In this course we will not perform integrals like the one down in example 12.2, 
 
 The 3 stop to think questions are great and so are the other examples. 
 
-### Worked Example on center of mass. 
+### Worked Example on Center of Mass. 
 
 Let me do one extra worked example from what is in the book. Imagine the following situation. 
 
