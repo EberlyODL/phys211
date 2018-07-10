@@ -10,7 +10,8 @@ For example in the previous page "Check your understanding questions". Speeding 
     <span slot="message"> Section 8.5</span>
 </stop-note>
 look at example 8.6 and problem solving strategy 8.1 on p 195.
-This is just F=ma in the rtz directions. 
+
+At the end of the day we are simply using F=ma in the rtz directions. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4452|entity_type=node|render=display_mode|display_mode=image]
 
