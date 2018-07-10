@@ -22,3 +22,5 @@ Let me do one extra worked example from what is in the book. Imagine the followi
 An projectile (mass <lrn-math>m_1;m2) explodes at the top of its trajectory (at <lrn-math>x=x_0</lrn-math>), breaking into two pieces – a small piece, <lrn-math>m_2</lrn-math>, and a larger piece, <lrn-math>m_3</lrn-math>, with <lrn-math>m_3 = 3m_2</lrn-math> – which fly apart horizontally. Surprisingly, the smaller piece falls back exactly at the launch site. Neglect air resistance and effects due to the earth’s curvature. 
 
 How far away from the original launching  point does the larger piece land?
+
+[ciscode|rev=1|tool=elmsmedia|item=4454|entity_type=node|render=display_mode|display_mode=image]
