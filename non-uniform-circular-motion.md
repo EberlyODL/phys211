@@ -45,3 +45,11 @@ The connection between linear variable (in the rt coordinate system) and angular
 [ciscode|rev=1|tool=elmsmedia|item=4448|entity_type=node|render=display_mode|display_mode=image]
  
  This is the same as before but we now have a tangential acceleration as well as a centripetal acceleration. The tangential acceleration just comes from the change in angular velocity. 
+ 
+ <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+We will take counter clockwise rotation to be positive and clockwise rotation to be negative but this is a convention. 
+</lrndesign-sidenote>
+
+[ciscode|rev=1|tool=elmsmedia|item=4449|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=4450|entity_type=node|render=display_mode|display_mode=h5p]
