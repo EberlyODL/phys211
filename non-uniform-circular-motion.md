@@ -50,6 +50,7 @@ The connection between linear variable (in the rt coordinate system) and angular
 We will take counter clockwise rotation to be positive and clockwise rotation to be negative but this is a convention. 
 </lrndesign-sidenote>
 
+### Check your understanding. 
 [ciscode|rev=1|tool=elmsmedia|item=4449|entity_type=node|render=display_mode|display_mode=h5p]
 
 [ciscode|rev=1|tool=elmsmedia|item=4450|entity_type=node|render=display_mode|display_mode=h5p]
