@@ -16,7 +16,7 @@ Paraphrasing and doing the examples along the way. Also look at my chapter summa
 
 ### Angular variables. 
 
-Earlier in the course we introduce the concept of angular velocity which is the rate of change of angular displacement. 
+Earlier in the course we introduce the concept of angular velocity which is the rate of change of angular displacement.
 
 [ciscode|rev=1|tool=elmsmedia|item=4289|entity_type=node|render=display_mode|display_mode=image]
 
@@ -33,16 +33,15 @@ If the angular acceleration is constant we get "constant acceleration equations
 * <lrn-math>\Delta \theta =\omega_i\Delta t+\frac12 \alpha(\Delta t)^2 </lrn-math>
 * <lrn-math>\omega_f = \omega_i +\alpha \Delta t</lrn-math>
 * <lrn-math>\omega_f^2-\omega+i^2=2\alpha\Delta\theta </lrn-math>
+
 ### Connecting angular variables to linear variables
 
-For circular motion, we do not use the x-y coordinate system that we have been using up to now. Instead we will talk about radial (r) and tangential (t) direction. the radial direction points toward the center of the circle. This is really a coordinate system that spins with the motion.
+As before we can use linear variables instead of angular variables. We use the rtz coordinate system.
 
 [ciscode|rev=1|tool=elmsmedia|item=4290|entity_type=node|render=display_mode|display_mode=image]
 
-The connection between linear variable (in the rt coordinate system) and angular variables <lrn-math>\theta, \omega </lrn-math> can be summarized as follows. 
+The connection between linear variable (in the rt coordinate system) and angular variables <lrn-math>\theta, \omega, \alpha</lrn-math> can be summarized as follows. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4291|entity_type=node|render=display_mode|display_mode=image]
  
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The tangential acceleration <lrn-math>a_t </lrn-math> is zero for now because we are dealing with uniform circular motion only. 
-</lrndesign-sidenote>
+ This is the same as before but we now have a tangential acceleration as well as a centripetal acceleration. 
