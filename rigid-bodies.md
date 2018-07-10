@@ -1,0 +1,1 @@
+Allright we are now ready to start the study of rotation of rigid bodies. 
