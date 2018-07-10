@@ -4,3 +4,13 @@ For example in the previous page "Check your understanding questions". Speeding 
 
 [ciscode|rev=1|tool=elmsmedia|item=4451|entity_type=node|render=display_mode|display_mode=image]
 
+### Dynamics of non-uniform circular motion
+
+This is just F=ma in the rtz directions. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4452|entity_type=node|render=display_mode|display_mode=image]
+
+An excellent example of non-uniform circular motion is the pendulum. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4453|entity_type=node|render=display_mode|display_mode=h5p]
+
