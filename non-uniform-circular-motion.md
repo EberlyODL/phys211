@@ -42,6 +42,6 @@ As before we can use linear variables instead of angular variables. We use the r
 
 The connection between linear variable (in the rt coordinate system) and angular variables <lrn-math>\theta, \omega, \alpha</lrn-math> can be summarized as follows. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4291|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=4448|entity_type=node|render=display_mode|display_mode=image]
  
- This is the same as before but we now have a tangential acceleration as well as a centripetal acceleration. 
+ This is the same as before but we now have a tangential acceleration as well as a centripetal acceleration. The tangential acceleration just comes from the change in angular velocity. 
