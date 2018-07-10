@@ -25,3 +25,5 @@ An projectile (mass <lrn-math>m_1;m2) explodes at the top of its trajectory (at 
 How far away from the original launching  point does the larger piece land?
 
 [ciscode|rev=1|tool=elmsmedia|item=4454|entity_type=node|render=display_mode|display_mode=image]
+
+[ciscode|rev=1|tool=elmsmedia|item=4456|entity_type=node|render=display_mode|display_mode=mediavideo]
