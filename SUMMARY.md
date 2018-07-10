@@ -84,6 +84,7 @@
     * [Non-Uniform Circular motion](non-uniform-circular-motion.md)
     * [Dynamics of non-uniform circular motion](dynamics-of-non-uniform-circular-motion.md)
     * [Rigid bodies and Center of Mass](rigid-bodies.md)
+    * [Moment of inertia and Kinetic energy of rotation](moment-of-inertia-and-kinetic-energy-of-rotation.md)
   * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
   * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)
   * [Week 9A -  Gravity](week-9a-and-study.md)
