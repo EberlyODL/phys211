@@ -83,9 +83,9 @@
   * [Week 7B -  Rigid Bodies](week-7b-rigid-bodies.md)
     * [Non-Uniform Circular motion](non-uniform-circular-motion.md)
     * [Dynamics of non-uniform circular motion](dynamics-of-non-uniform-circular-motion.md)
+    * [Rigid bodies](rigid-bodies.md)
   * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
   * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)
   * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
-* Rigid bodies
 
