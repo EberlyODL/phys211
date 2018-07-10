@@ -20,7 +20,7 @@ Here is a special sequence of two perfectly elastic collisions both of type "Cas
  In case C, the smaller mass object 1 bounces back with almost the same initial speed, just different direction. <lrn-math inline> (v_{fx})_1 \approx \frac{-m_2}{m_2}(v_{ix})_1 = -(v_{ix})_1 </lrn-math>
 </lrndesign-sidenote>
 
-[demo astroblaster]
+[ciscode|rev=1|tool=elmsmedia|item=4445|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The second collision in the demo involves the tennis ball going down with speed v colliding with the basketball going up with speed v. This is not of the type where object 2 is at rest. Here is the trick though. Just go to the reference frame where object 2 does not move. To do that with must subtract a velocity v from both both objects. In that reference frame, the basketball is not moving and the tennis ball is moving down with speed 2v. Then do the collision (which is Case C, the tennis ball bounce back with speed approximately 2v upward). Then we add back the velocity we subtracted at the beginning for a final velocity of 3v. This is illustrated in this image. 
 
