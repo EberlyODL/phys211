@@ -86,5 +86,3 @@
   * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
 
-
-
