@@ -6,4 +6,4 @@ The presence of a net torque will cause an angular acceleration
 
 <lrn-math>\tau_{net} = I\alpha </lrn-math>
 
-in doing example 12.11, you will need to also use 
+in doing example 12.11, you will need to also use angular kinematics after you find the angular acceleration. 
