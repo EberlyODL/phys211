@@ -16,4 +16,9 @@ The millenium science center on the University Park campus is a good example.
 
 Let me illustrate how this work by doing the example of holding a pen. 
 
-[demo video pen]
+[demo video pen (lecture 20)]
+
+
+### Balance
+
+[ciscode|rev=1|tool=elmsmedia|item=4474|entity_type=node|render=display_mode|display_mode=h5p]
