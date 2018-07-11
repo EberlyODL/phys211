@@ -87,6 +87,7 @@
     * [Moment of inertia and Kinetic energy of rotation](moment-of-inertia-and-kinetic-energy-of-rotation.md)
   * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
     * [Torque](torque.md)
+    * [Rotational Dynamics](rotational-dynamics.md)
   * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)
   * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
