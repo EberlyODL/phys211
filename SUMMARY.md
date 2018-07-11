@@ -88,6 +88,7 @@
   * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
     * [Torque](torque.md)
     * [Rotational Dynamics](rotational-dynamics.md)
+    * [Static Equilibrium](static-equilibrium.md)
   * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)
   * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
