@@ -7,5 +7,5 @@ There is then a general formula for calculating torque and two very useful shorc
 [ciscode|rev=1|tool=elmsmedia|item=4470|entity_type=node|render=display_mode|display_mode=image]
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Interestingly, all three methods have their uses in different situations.
+Interestingly, all three methods have their uses in different situations so its really good to know all three. 
 </lrndesign-sidenote>
