@@ -28,7 +28,7 @@ For a uniform circular motion, thats all there is but very often the motion is n
 
 [ciscode|rev=1|tool=elmsmedia|item=4447|entity_type=node|render=display_mode|display_mode=image] 
 
-If the angular acceleration is constant we get "constant acceleration equations
+If the angular acceleration is constant we get "constant acceleration" equations
 
 * <lrn-math>\Delta \theta =\omega_i\Delta t+\frac12 \alpha(\Delta t)^2 </lrn-math>
 * <lrn-math>\omega_f = \omega_i +\alpha \Delta t</lrn-math>
@@ -46,9 +46,6 @@ The connection between linear variable (in the rt coordinate system) and angular
  
  This is the same as before but we now have a tangential acceleration as well as a centripetal acceleration. The tangential acceleration just comes from the change in angular velocity. 
  
- <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-We will take counter clockwise rotation to be positive and clockwise rotation to be negative but this is a convention. 
-</lrndesign-sidenote>
 
 ### Check your understanding. 
 [ciscode|rev=1|tool=elmsmedia|item=4449|entity_type=node|render=display_mode|display_mode=h5p]
