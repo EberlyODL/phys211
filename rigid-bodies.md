@@ -20,7 +20,7 @@ The 3 stop to think questions are great and so are the other examples.
 
 Let me do one extra worked example from what is in the book. Imagine the following situation. 
 
-An projectile (mass <lrn-math>m_1;m2) explodes at the top of its trajectory (at <lrn-math>x=x_0</lrn-math>), breaking into two pieces – a small piece, <lrn-math>m_2</lrn-math>, and a larger piece, <lrn-math>m_3</lrn-math>, with <lrn-math>m_3 = 2m_2</lrn-math> – which fly apart horizontally. Surprisingly, the smaller piece falls back exactly at the launch site. Neglect air resistance and effects due to the earth’s curvature. 
+An projectile (mass <lrn-math>m_1;m2</lrn-math>) explodes at the top of its trajectory (at <lrn-math>x=x_0</lrn-math>), breaking into two pieces – a small piece, <lrn-math>m_2</lrn-math>, and a larger piece, <lrn-math>m_3</lrn-math>, with <lrn-math>m_3 = 2m_2</lrn-math> – which fly apart horizontally. Surprisingly, the smaller piece falls back exactly at the launch site. Neglect air resistance and effects due to the earth’s curvature. 
 
 How far away from the original launching  point does the larger piece land?
 
