@@ -1,6 +1,6 @@
 We are now ready to start the study of rotation of rigid bodies. 
 
-To describe a rigid bodie's motion, we need more than just the mass, we need to know about 
+To describe the motion of a rigid body, we need more than just the mass, we need to know about 
 
 * Center of mass
 * Momentum of inertia. 
