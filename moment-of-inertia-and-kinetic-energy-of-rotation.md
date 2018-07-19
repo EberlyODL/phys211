@@ -16,5 +16,5 @@ They have been calculated for you and we would give them to you in general.
 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
- We can ask for situation where the moment of inertia is a about an axis that is displaced but parallel from an axis on this table. In this case, you need to use the parallel axis theorem (p.303). 
+ We can ask you to find the moment of inertia about an axis that is displaced but parallel from an axis on this table. In this case, you need to use the parallel axis theorem (p.303). 
 </lrndesign-sidenote>
