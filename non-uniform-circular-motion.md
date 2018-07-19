@@ -24,7 +24,7 @@ Earlier in the course we introduce the concept of angular velocity which is the 
 We will take counter clockwise rotation to be positive and clockwise rotation to be negative but this is a convention. 
 </lrndesign-sidenote>
 
-For a uniform circular motion, thats all there is but we very often the motion is not uniform and objects start rotating (or stop). In this case we can also have an angular acceleration denoted <lrn-math>\alpha </lrn-math> 
+For a uniform circular motion, thats all there is but very often the motion is not uniform and objects start rotating. In this case, we can also have an angular acceleration denoted <lrn-math>\alpha </lrn-math> 
 
 [ciscode|rev=1|tool=elmsmedia|item=4447|entity_type=node|render=display_mode|display_mode=image] 
 
