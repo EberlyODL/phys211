@@ -7,6 +7,7 @@ This is the **completely elastic collision**. Even in this special scenario, we 
 <lrn-math> (v_{fx})_1=\frac{m_1-m_2}{m_1+m_2}(v_{ix})_1 </lrn-math>
 
 
+and
 
 <lrn-math>(v_{fx})_2=\frac{2m_1}{m_1+m_2}(v_{ix})_1</lrn-math>
 
