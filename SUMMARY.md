@@ -85,7 +85,7 @@
     * [Dynamics of non-uniform circular motion](dynamics-of-non-uniform-circular-motion.md)
     * [Rigid bodies and Center of Mass](rigid-bodies.md)
     * [Moment of inertia and Kinetic energy of rotation](moment-of-inertia-and-kinetic-energy-of-rotation.md)
-* [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
+  * [Week 8A - Rotational Dynamics ](week-8a-rotational-dynamics.md)
     * [Torque](torque.md)
     * [Rotational Dynamics](rotational-dynamics.md)
     * [Static Equilibrium](static-equilibrium.md)
