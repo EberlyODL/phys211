@@ -12,6 +12,6 @@ in doing example 12.11, you will need to also use angular kinematics after you f
 
 [ciscode|rev=1|tool=elmsmedia|item=4472|entity_type=node|render=display_mode|display_mode=h5p]
 
-An interesting sets of problem involves pulley that now have mass and require a torque to turn. Review example 12.12
+An interesting sets of problem involves pulley that now have mass and require a torque to turn. Review example 12.12 and here is a full worked out problem on the Atwood machine that we have seen earlier. 
 
 [Demo video Atwood machine.]
