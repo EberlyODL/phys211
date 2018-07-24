@@ -7,6 +7,6 @@
     <span slot="message">Section 12.5</span>
 </stop-note>
 
-First read carefully to get the "jargon" and the basic ideas. 
+First read carefully. There are a couple of new words and concepts. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4468|entity_type=node|render=display_mode|display_mode=h5p]
