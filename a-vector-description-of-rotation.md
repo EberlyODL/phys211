@@ -20,3 +20,5 @@ For example for a rotation clockwise in the x-y plane.
 [ciscode|rev=1|tool=elmsmedia|item=4598|entity_type=node|render=display_mode|display_mode=image]
 
 Applying the right-hand rule to this rotation, we find that the angular velocity
+
+</lrn-math>\vec{\omega} = -\omega\hat{k} </lrn-math>
