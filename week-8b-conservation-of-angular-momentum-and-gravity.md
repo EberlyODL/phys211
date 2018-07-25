@@ -5,8 +5,15 @@
 * LOMom04: extend momentum ideas to rotating systems (angular momentum)
 
 
+<stop-note>
+    <span slot="message">Read Section 12.9</span>
+</stop-note>
 
+Rolling motion is combination of translation and rotation. We will need to connect linear and angular variables and we will use many of the tools we have developed from the beginning of the course. 
 
+The most important kind of rolling motion is **rolling without slipping**. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4589|entity_type=node|render=display_mode|display_mode=h5p]
 
 
 
