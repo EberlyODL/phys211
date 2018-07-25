@@ -7,3 +7,7 @@ When one rolls without slipping, the point of contact must have exactly zero vel
 At each point on the wheel, the motion is the sum of the translation and the rotation. So the velocity vector at point P (from the first conceptual question on the previous page is. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4591|entity_type=node|render=display_mode|display_mode=image]
+
+In rolling motion, the kinetic energy is a combination of translation and rotation. 
+
+<lrn-math> K_{rolling} = \frac12 I_{cm}\omega^2 + \frac12 mv_{cm}^2 </lrn-math>. Your textbook 
