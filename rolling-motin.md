@@ -1,3 +1,5 @@
+## Rolling Motion
+
 When one rolls without slipping, the point of contact must have exactly zero velocity. This implies a relationship between the velocity of the center of mass and the angular velocity of rotation to be 
 
 </lrn-math>v_{cm} =\omega R </lrn-math>

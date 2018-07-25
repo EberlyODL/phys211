@@ -1,3 +1,5 @@
+## The Yo-yo
+
 [ciscode|rev=1|tool=elmsmedia|item=4594|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The free body diagram for the yo-yo is drawn in the video but let us repeat it here (this is for the tension from underneath). 
