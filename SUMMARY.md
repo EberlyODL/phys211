@@ -92,7 +92,7 @@
   * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)
     * [Rolling Motion](rolling-motin.md)
     * [A yo-yo](a-yo-yo.md)
-    * A vector description of rotation
+    * [A vector description of rotation](a-vector-description-of-rotation.md)
   * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
 
