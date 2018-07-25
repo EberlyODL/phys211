@@ -13,3 +13,8 @@ In rolling motion, the kinetic energy is a combination of translation and rotati
 <lrn-math> K_{rolling} = \frac12 I_{cm}\omega^2 + \frac12 mv_{cm}^2 </lrn-math>. Read carefully the section of the your textbook "The great downhill race" and here is a video displaying this race!
 
 [ciscode|rev=1|tool=elmsmedia|item=4592|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+## yo-yo physics
+Imagine you pull a yo-yo from underneath. The yo-yo is resting on a table. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4593|entity_type=node|render=display_mode|display_mode=h5p]

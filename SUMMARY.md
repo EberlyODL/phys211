@@ -91,6 +91,7 @@
     * [Static Equilibrium](static-equilibrium.md)
   * [Week 8B - Rolling and Angular Momentum](week-8b-conservation-of-angular-momentum-and-gravity.md)
     * [Rolling Motion](rolling-motin.md)
+    * A yo-yo
   * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
 
