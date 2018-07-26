@@ -33,6 +33,14 @@ This allows us to also definite a direction for the torque using the cross produ
 
  <lrn-math>\vec{\tau}=\vec{r}\cross\vec{F} </lrn-math>
  
-  The order is important for the cross product and the direction is given by the right-hand rule. There are two ways to do the right-hand rule. I prefer the second (to the right) in this image.  
+ The magnitude of this product is what we have been using up to now <lrn-math>|\tau| =rF\sin\theta </lrn-math> where the angle is the angle between the two vectors. 
+ 
+The direction is given by a new right-hand rule. The order is important for the cross product and the direction is given by the right-hand rule. There are two ways to do the right-hand rule. I prefer the second (to the right) in this image.  
+
+[ciscode|rev=1|tool=elmsmedia|item=4603|entity_type=node|render=display_mode|display_mode=image]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Make sure you differentiate the dot product (whose result is a number) from the cross product which result in a vector. 
+</lrndesign-sidenote>
 
 
