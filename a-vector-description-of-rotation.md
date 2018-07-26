@@ -43,4 +43,8 @@ The direction is given by a new right-hand rule. The order is important for the 
 Make sure you differentiate the dot product (whose result is a number) from the cross product which result in a vector. 
 </lrndesign-sidenote>
 
+try it out!
 
+[ciscode|rev=1|tool=elmsmedia|item=4605|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=4609|entity_type=node|render=display_mode|display_mode=h5p]
