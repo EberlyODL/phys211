@@ -1,5 +1,7 @@
 ## A Vector Description of Rotation
-
+<stop-note>
+    <span slot="message">Section 12.10</span>
+</stop-note>
 Up to now, it has been sufficient to do rotation with the convention of + for counterclockwise and - for clockwise. 
 As we turn to the very last piece, angular momentum, we need to develop a vector description of rotation. 
 
@@ -27,4 +29,10 @@ Applying the right-hand rule to this rotation, we find that the angular velocity
 
 The angular acceleration is also vector that points in the direction of the rate of change of the angular velocity. 
 
-This allows us to also definite a direction for the torque. 
+This allows us to also definite a direction for the torque using the cross product.
+
+ <lrn-math>\vec{\tau}=\vec{r}\cross\vec{F} </lrn-math>
+ 
+  The order is important for the cross product and the direction is given by the right-hand rule. There are two ways to do the right-hand rule. I prefer the second (to the right) in this image.  
+
+
