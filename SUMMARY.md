@@ -93,6 +93,7 @@
     * [Rolling Motion](rolling-motin.md)
     * [A yo-yo](a-yo-yo.md)
     * [A vector description of rotation](a-vector-description-of-rotation.md)
+    * [Angular Momentum. ](angular-momentum.md)
   * [Week 9A -  Gravity](week-9a-and-study.md)
 * [End of book ](end-of-book.md)
 
