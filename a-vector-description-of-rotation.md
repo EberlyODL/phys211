@@ -22,3 +22,9 @@ For example for a rotation clockwise in the x-y plane.
 Applying the right-hand rule to this rotation, we find that the angular velocity
 
 </lrn-math>\vec{\omega} = -\omega\hat{k} </lrn-math>
+
+### Angular Acceleration and Torque
+
+The angular acceleration is also vector that points in the direction of the rate of change of the angular velocity. 
+
+This allows us to also definite a direction for the torque. 
