@@ -6,3 +6,9 @@ This means that in the absence of a net torque. The angular momentum is conserve
 
 
 read textbook 
+
+sidenote on combination the two equations for L
+
+back to the L write the equation for Iw
+
+make a Ps video. 
