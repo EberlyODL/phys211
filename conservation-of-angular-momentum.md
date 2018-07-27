@@ -2,7 +2,7 @@
 
 A net torque causes a change in angular momentum. 
 
-<lrn-math>\vec{tau}_{net} = \frac{d\vec{L}}{dt} </lrn-math>.
+<lrn-math>\vec{\tau}_{net} = \frac{d\vec{L}}{dt} </lrn-math>.
 
 This means that in the absence of a net torque. The angular momentum is conserved. 
 
@@ -24,7 +24,7 @@ Just like when we did momentum, conservation of angular momentum problems requir
 * put them equal to each other and solve. This is a vector equation.  
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
- Try examples 12.18 and 12.19 in the book. 
+ Try examples 12.18 and 12.19 in the book. 
 </lrndesign-sidenote>
 
 
