@@ -25,17 +25,16 @@ Applying the right-hand rule to this rotation, we find that the angular velocity
 
 <lrn-math>\vec{\omega} = -\omega\hat{k} </lrn-math>
 
+
 ### Angular Acceleration and Torque
 
 The angular acceleration is also vector that points in the direction of the rate of change of the angular velocity. 
 
 This allows us to also definite a direction for the torque using the cross product.
 
- <lrn-math>\vec{\tau}=\vec{r}\cross\vec{F} </lrn-math>
+ <lrn-math>\vec{\tau}=\vec{r}\times\vec{F} </lrn-math>
  
- The magnitude of this product is what we have been using up to now <lrn-math>|\tau| =rF\sin\theta </lrn-math> where the angle is the angle between the two vectors. 
- 
-The direction is given by a new right-hand rule. The order is important for the cross product and the direction is given by the right-hand rule. There are two ways to do the right-hand rule. I prefer the second (to the right) in this image.  
+ The magnitude of this product is what we have been using up to now <lrn-math>|\tau| =rF\sin\theta </lrn-math> where the angle is the angle between the two vectors. The direction is given by a new right-hand rule. The order is important for the cross product and the direction is given by the right-hand rule. There are two ways to do the right-hand rule. I prefer the second (to the right) in this image.  
 
 [ciscode|rev=1|tool=elmsmedia|item=4603|entity_type=node|render=display_mode|display_mode=image]
 
