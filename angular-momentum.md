@@ -10,7 +10,7 @@ The formula is <lrn-math> \vec{L}=\vec{r}\times\vec{p} </lrn-math> which you cou
 
 Just like it was possible to write Newton's law in terms of momentum <lrn-math> \vec{F}=\frac{d\vec{p}}{dt} </lrn-math>, we can write the rotational analog <lrn-math>\tau =I\alpha </lrn-math> in terms of angular momentum. 
 
-<lrn-math>\vec{tau}_{net} = \frac{d\vec{L}}{dt} </lrn-math>.
+<lrn-math>\vec{\tau}_{net} = \frac{d\vec{L}}{dt} </lrn-math>.
 
 [ciscode|rev=1|tool=elmsmedia|item=4610|entity_type=node|render=display_mode|display_mode=h5p]
 
