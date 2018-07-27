@@ -6,7 +6,7 @@ When one rolls without slipping, the point of contact must have exactly zero vel
 
 [ciscode|rev=1|tool=elmsmedia|item=4590|entity_type=node|render=display_mode|display_mode=image]
 
-At each point on the wheel, the motion is the sum of the translation and the rotation. So the velocity vector at point P (from the first conceptual question on the previous page is. 
+At each point on the wheel, the motion is the sum of the translation and the rotation. So the velocity vector at point P (from the first conceptual question on the previous page) is. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4591|entity_type=node|render=display_mode|display_mode=image]
 
