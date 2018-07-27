@@ -4,8 +4,9 @@ A net torque causes a change in angular momentum.
 
 This means that in the absence of a net torque. The angular momentum is conserved. 
 
+This means that the sum of a
 
-read textbook 
+Just like when we did momentum 
 
 sidenote on combination the two equations for L
 
