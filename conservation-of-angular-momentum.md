@@ -32,3 +32,6 @@ Just like when we did momentum, conservation of angular momentum problems requir
 Conservation of angular momentum problems may combine point particles where one need to use <lrn-math> \vec{L} =\vec{r}\times \vec{p} </lrn-math> with rigid bodies where one need <lrn-math>\vec{L} = I\vec{\omega}
 </lrndesign-sidenote>
 
+
+Here is the pdf file for the previous problem solving video. [ciscode|rev=1|tool=elmsmedia|item=4621|entity_type=node|render=display_mode|display_mode=document]
+
