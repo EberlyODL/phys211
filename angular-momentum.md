@@ -21,3 +21,5 @@ The angular momentum of a solid object along a axis of symmetry is
 <lrn-math>\vec{L}=I\vec{\omega} </lrn-math>
 
 This equation is not true in general. It is only for rotation along an axis of symmetry. In this case, all rotation will be along axis of symmetry (which we are not even defining properly).
+
+[ciscode|rev=1|tool=elmsmedia|item=4612|entity_type=node|render=display_mode|display_mode=h5p__card]
