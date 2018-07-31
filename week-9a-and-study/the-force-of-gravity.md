@@ -18,3 +18,4 @@ The gravitation acceleration g due to the second mass is
 
 ## Check your understanding
 
+[ciscode|rev=1|tool=elmsmedia|item=4651|entity_type=node|render=display_mode|display_mode=h5p]
