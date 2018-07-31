@@ -8,6 +8,7 @@
 
 The beginning of Chap 13 start with some historical background to make you appreciate the social context and importance of Newton's theory of gravity. In this course we will not use Kepler's laws (section 13.6)
 
+[ciscode|rev=1|tool=elmsmedia|item=4648|entity_type=node|render=display_mode|display_mode=image]
 
 
 
