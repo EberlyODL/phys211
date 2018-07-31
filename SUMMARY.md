@@ -99,5 +99,6 @@
   * [Week 9A -  Gravity](week-9a-and-study.md)
     * [The Force of Gravity](week-9a-and-study/the-force-of-gravity.md)
     * [Gravitational Energy](week-9a-and-study/gravitational-energy.md)
+    * [Escape Speed](week-9a-and-study/escape-speed.md)
 * [End of book ](end-of-book.md)
 
