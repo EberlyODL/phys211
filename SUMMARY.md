@@ -98,5 +98,6 @@
     * [Conservation of Angular Momentum](conservation-of-angular-momentum.md)
   * [Week 9A -  Gravity](week-9a-and-study.md)
     * [The Force of Gravity](week-9a-and-study/the-force-of-gravity.md)
+    * [Gravitational Energy](week-9a-and-study/gravitational-energy.md)
 * [End of book ](end-of-book.md)
 
