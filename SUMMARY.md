@@ -97,6 +97,6 @@
     * [Spinning wheels](spinning-wheels.md)
     * [Conservation of Angular Momentum](conservation-of-angular-momentum.md)
   * [Week 9A -  Gravity](week-9a-and-study.md)
-    * The Force of Gravity
+    * [The Force of Gravity](week-9a-and-study/the-force-of-gravity.md)
 * [End of book ](end-of-book.md)
 
