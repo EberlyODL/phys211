@@ -1,6 +1,6 @@
 ## Escape Speed. 
 
-Given some initial position within a system with a gravitational energy. The escape is the minimum speed needed to starting from that position to make it to infinity (with no speed and no gravitational potential energy). 
+Given some initial position within a system with a gravitational energy. The escape is the minimum speed needed to make it to infinity (with no speed and no gravitational potential energy)starting from that original position.
 
 Given that the gravitational energy is always negative. The escape speed is the speed that will give you a kinetic energy such that the total energy is zero. 
 
