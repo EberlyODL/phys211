@@ -8,4 +8,8 @@ Given that the gravitational energy is always negative. The escape speed is the 
 
 [ciscode|rev=1|tool=elmsmedia|item=4656|entity_type=node|render=display_mode|display_mode=image]
 
-escape speed problem
+[ciscode|rev=1|tool=elmsmedia|item=4658|entity_type=node|render=display_mode|display_mode=h5p]
+
+The last questions is harder than it looks. Make sure to careful do your energy conservation. Here is the bar charts for this before/after situation.
+
+ [ciscode|rev=1|tool=elmsmedia|item=4659|entity_type=node|render=display_mode|display_mode=image] 
