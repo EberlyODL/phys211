@@ -1,5 +1,5 @@
-<stop-note>
-    <span slot="message">Sections: 4.1 and 4.3 (NOT 4.2 yet)</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Sections: 4.1 and 4.3 (NOT 4.2 yet)</span>
 </stop-note>
 
 The rest of Chap 4 will be seen next week and it is NOT covered in midterm 1. 
