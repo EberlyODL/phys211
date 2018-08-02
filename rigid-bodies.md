@@ -5,8 +5,8 @@ To describe the motion of a rigid body, we need more than just the mass, we need
 * Center of mass
 * Momentum of inertia. 
 
-<stop-note>
-    <span slot="message">Section 12.1 to 12.4</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 12.1 to 12.4</span>
 </stop-note>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
