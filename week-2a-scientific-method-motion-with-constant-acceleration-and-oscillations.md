@@ -8,6 +8,7 @@ Now we are ready to look at the accelerated motion like the rocket car video we 
 * LOKin04: relate and create time dependent plots of kinematic variables
 * LOKin07: apply kinematics to oscillations where the acceleration is not constant 
 
-<stop-note>
-    <span slot="message">Sections 2.4-2.7</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Sections 2.4-2.7</span>
 </stop-note>
+
