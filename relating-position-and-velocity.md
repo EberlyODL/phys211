@@ -25,7 +25,10 @@ The simplest kind of motion to analyze is the one of constant velocity, constant
 
 [ciscode|rev=1|tool=elmsmedia|item=4409|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon"></stop-note>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message"></span>
+</stop-note>
+
 
 ## Average vs Instantaneous.
 
