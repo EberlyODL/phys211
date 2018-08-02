@@ -13,9 +13,10 @@ There are two "aside" on this chapter that are important. These two concepts are
 
 There are 13 worked examples. As usual, these are all important problems including the very last one, the "challenge". Make sure you do them without first looking at solutions. 
 
-<stop-note>
-    <span slot="message">9.1-9.3</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 9.1-9.3</span>
 </stop-note>
+
 
 ### Work
 
