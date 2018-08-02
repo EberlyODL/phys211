@@ -1,5 +1,5 @@
-<stop-note>
-    <span slot="message">Sections 10.3-10.8</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Sections 10.3-10.8</span>
 </stop-note>
 
 Not all forces can lead to potential energy. Potential energy can be extracted so it must be that when the objects come back to their initial position, the change in potential energy is zero. 
