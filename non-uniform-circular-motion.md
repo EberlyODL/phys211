@@ -8,7 +8,7 @@ When one goes beyond the particle model, it is possible for the object to both m
 
 The rotation is the new part and we will spend the next few weeks on this subject (chap 12). First we need to review the kinematic of uniform circular motion and extend to non-uniform circular rotation.
 
-<stop-note title="Read the Textbook" icon="stopnoteicons:book-icon">
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
   <span slot="message">Review Section 4.4, 4.5 and read for the first time section 4.6</span>
 </stop-note>
 
