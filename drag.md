@@ -1,5 +1,5 @@
-<stop-note>
-    <span slot="message">Section 6.5-6.6</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 6.5-6.6</span>
 </stop-note>
 
 Not much say about drag beyond the book and chapter summary. The formula is
