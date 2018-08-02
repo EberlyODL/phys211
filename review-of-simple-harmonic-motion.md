@@ -15,6 +15,6 @@ In this class, we will skip the subsection "The physical pendulum in section 15.
 
 The challenge example 15.11 can be skipped.
 
-<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-  <span slot="message”>Chap 15 except for the physical pendulum</span>
+<stop-note title="Read the Textbook" icon="stopnoteicons:book-icon">
+  <span slot="message">Chapter 15 except for the physical pendulum</span>
 </stop-note>
