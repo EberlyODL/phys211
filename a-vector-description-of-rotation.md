@@ -1,6 +1,6 @@
 ## A Vector Description of Rotation
-<stop-note>
-    <span slot="message">Section 12.10</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 12.10</span>
 </stop-note>
 Up to now, it has been sufficient to do rotation with the convention of + for counterclockwise and - for clockwise. 
 As we turn to the very last piece, angular momentum, we need to develop a vector description of rotation. 
