@@ -19,6 +19,9 @@ LOProc01, LOProc03, LoVec02, LOKin01
 The full list of objectives can be found on Canvas. The reading for this week is Chap 1 of the textbook but read these course content page until you get the "read the textbook sign". 
 
 
-<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon"></stop-note>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message"></span>
+</stop-note>
+
 
 
