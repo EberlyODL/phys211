@@ -12,7 +12,7 @@ We end up with the general formula for potential energy which is <lrn-math> U_g=
 [ciscode|rev=1|tool=elmsmedia|item=4654|entity_type=node|render=display_mode|display_mode=image]
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-What happen to the good old <lrn-math> U_g =mg y </lrn-math>. This formula was only true near the surface of Earth where </lrn-math>F=mg </lrn-math>. 
+What happened to the good old <lrn-math> U_g =mg y </lrn-math>? This formula was only true near the surface of Earth where </lrn-math>F=mg </lrn-math>. 
 </lrndesign-sidenote>
 
 ## Check your understanding. 
