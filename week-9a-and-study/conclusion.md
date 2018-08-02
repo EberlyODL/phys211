@@ -10,10 +10,10 @@ Just like gravity we can define a potential energy (which also goes like 1/r).
 
 One may be tempted to think that the force of gravity is the most important force for humankind but in fact we can live fine and relatively well in deep space with negligible force of gravity. 
 
-The electric force is absolutely essential not only for atoms and molecules to stay together but for all the technology with which we are now living your life.
+The electric force on the other hand is absolutely essential not only for atoms and molecules to stay together but for all the technology that now permeates every we do. 
 
 ### Let me finish with a little farewell!
 
-Tesla Coil music, come back for Phys 212!
+Come back for Phys 212!
 
-https://www.youtube.com/watch?v=Ee5evlN8Bbs&index=3&list=RDQM8sDDX4oBuBM
+[ciscode|rev=1|tool=elmsmedia|item=4660|entity_type=node|render=display_mode|display_mode=mediavideo]
