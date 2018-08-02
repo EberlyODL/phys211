@@ -2,8 +2,8 @@ As usual start by reading Chap 7 and do the examples without looking at solution
 
 The level of complexity in the problems really increase in this chapter and you may find that some of the examples are hard to do without help.  
 
-<stop-note>
-    <span slot="message">Chap 7</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Chapter 7</span>
 </stop-note>
 
 In the next few pages, I will elaborate more on the material. 
