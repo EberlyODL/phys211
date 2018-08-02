@@ -1,5 +1,5 @@
-<stop-note>
-    <span slot="message">Section 9.4</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 9.4</span>
 </stop-note>
 
 Most springs are well modeled by Hooke's Law
