@@ -11,7 +11,7 @@ In the following video, I will demonstrate many of the forces we will discuss in
 [ciscode|rev=1|tool=elmsmedia|item=4416|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-  <span slot="message">Read Chapter 5 carefully. It is very wordy but these are very important concepts.</span>
+  <span slot="message">Read Chapter 5 carefully. It is wordy but these are very important concepts.</span>
 </stop-note>
 
 
