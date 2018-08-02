@@ -26,6 +26,6 @@ The large number of variables in projectile motion require you to be well organi
 The best way to become good at solving problems is by solving problems. Practice, practice, practice.  Be careful of looking at solutions or videos of professors solving problems. Those usually do more harm than good by giving you the false feeling that you understand and that by simply watching the video, you can solve another problem like it. You may but check it by solving problems on your own. 
 </lrndesign-sidenote>
 
-<stop-note>
-<span slot="message"> Sections: 4.2</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Sections: 4.2</span>
 </stop-note>
