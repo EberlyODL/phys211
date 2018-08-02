@@ -5,8 +5,8 @@
 * LOMom04: extend momentum ideas to rotating systems (angular momentum)
 
 
-<stop-note>
-    <span slot="message">Read Section 12.9</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 12.9</span>
 </stop-note>
 
 Rolling motion is combination of translation and rotation. We will need to connect linear and angular variables and we will use many of the tools we have developed from the beginning of the course. 
