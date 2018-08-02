@@ -6,8 +6,8 @@ For example in the previous page "Check your understanding questions". Speeding 
 
 ### Dynamics of non-uniform circular motion
 
-<stop-note>
-    <span slot="message"> Section 8.5</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 8.5</span>
 </stop-note>
 look at example 8.6 and problem solving strategy 8.1 on p 195.
 
