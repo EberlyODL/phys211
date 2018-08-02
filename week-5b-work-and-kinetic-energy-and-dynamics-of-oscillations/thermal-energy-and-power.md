@@ -64,7 +64,7 @@ There are many important points to remember here
 
 * The formula for <lrn-math> \Delta E_{th} = f_k\Delta s </lrn-math> is very similar looking to what you would get if friction did do work. It make sense its that way but it led to many errors in many textbook and you can often see the phrase "work done by friction". Just don't be confused if you see this. 
 
-<stop-note>
-    <span slot="message">Finish Chap 9, 9.5 and 9.6</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Finish Chap 9, 9.5 and 9.6</span>
 </stop-note>
 
