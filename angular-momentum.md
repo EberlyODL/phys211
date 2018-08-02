@@ -1,7 +1,7 @@
 ## Angular momentum
 
-<stop-note>
-    <span slot="message">Section 12.11</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 12.11</span>
 </stop-note>
 
 In the first part of this section, they discuss the angular momentum of a point particle. This is something unsettling to people but a particle moving on a straight line **will have** angular momentum with respect to a pivot that is not on that line. 
