@@ -14,7 +14,7 @@ with <lrn-math>G=6.67\times10^{-11}\;\frac{N\;m^2}{kg^2} </lrn-math> and the for
 
 The gravitation acceleration g due to the second mass is 
 
-<lrn-math> F=m_1g </lrn-math> or <lrn-math>g=\frac{Gm_2}{r^2} </lrn-math>. For the Earth, if you put the mass of the Earth and the radius of the Earth, you get <lrn-math>g=9.83\;m/s^2 </lrn-math>. Accouting for the rotation of the Earth as epxlained on p.192 of your book (good to review) we get <lrn-math>g=9.80\;m/s^2 </lrn-math>
+<lrn-math> F=m_1g </lrn-math> or <lrn-math>g=\frac{Gm_2}{r^2} </lrn-math>. For the Earth, if you put the mass of the Earth and the radius of the Earth, you get <lrn-math>g=9.83\;m/s^2 </lrn-math>. Accounting for the rotation of the Earth as explained on p.192 of your book (good to review) we get <lrn-math>g=9.80\;m/s^2 </lrn-math>
 
 ## Check your understanding
 
