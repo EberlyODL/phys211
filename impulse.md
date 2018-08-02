@@ -10,8 +10,8 @@ We will NOT cover 11.6 on rocket propulsion but feel free to read if you are cur
 
 Section 11.1-11.5 are on impulse and conservation of momentum. There are 9 worked examples for you to go through (10 with the challenge). Check my chapter summary after you read the textbook. 
 
-<stop-note>
-    <span slot="message">Section 11.1-11.5</span>
+<stop-note title="Read the Textbook" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 11.1-11.5</span>
 </stop-note>
 ### Impulse
 
