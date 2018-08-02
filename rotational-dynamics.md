@@ -1,8 +1,9 @@
 ## Rotational Dynamics
 
-<stop-note>
-    <span slot="message">12.6, 12.7</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 12.6, 12.7</span>
 </stop-note>
+
 
 The presence of a net torque will cause an angular acceleration 
 
