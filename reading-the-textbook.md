@@ -27,6 +27,4 @@ The examples on these webpages are in no way exhaustive. If it is in the textboo
 
 Now is the time to read Chap 1 of your textbook! Then come back to read the next two pages. 
 
-<stop-note>
-    <span slot="message">Chap.1</span>
-</stop-note>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon"></stop-note>
