@@ -1,6 +1,7 @@
-<stop-note>
-    <span slot="message">Section 4.4, 4.5</span>
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Section 4.4, 4.5</span>
 </stop-note>
+
 
 Paraphrasing and doing the examples along the way. Also look at my chapter summary. 
 
