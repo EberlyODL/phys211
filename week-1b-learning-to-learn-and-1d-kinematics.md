@@ -22,9 +22,11 @@ And then going back to physics we will see.
 * LOKin02: understand & differentiate between average and instantaneous quantities
 * LOKin03: distinguish & relate position, velocity and acceleration using slopes/derivatives and areas/integrals of functions with respect to time 
 * LOKin04: relate and create time dependent plots of kinematic variables 
-* LOPro05: differentiate and integrate polynomial functions 
+* LOPro05: differentiate and integrate polynomial functions
 
-The full list of objectives can be found on Canvas. The reading for this week is Chap 2.1-2.3 of the textbook but read these course content pages until you get the "read the textbook sign". 
+e> 
+
+The full list of objectives can be found on Canvas. The reading for this week is Chap 2 of the textbook but you can read these course content pages until you get the "read the textbook sign". 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 We will start doing derivatives and integral right away even if you are taking math 140 concurrently. This chapter explains what derivatives and integrals are and we will mostly only use them on polynomials functions. We will get to practice it, don't worry!
