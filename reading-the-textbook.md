@@ -1,3 +1,4 @@
+### Structure of the Lessons
 [ciscode|rev=1|tool=elmsmedia|item=4398|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The primary source of information for this course is the textbook. 
@@ -7,14 +8,19 @@ Many courses overload students with large amount of information many of which is
 My goals are to 
 
 * minimize the amount of superfluous information
-* tailor the information that I provide to your need
-* give you the tools to learn and to teach you how to use those tools. 
+* tailor the information that I provide to your needs
+* give you the tools to learn
+* teach you how to use those tools 
 
-There will NOT be video lectures which are not an effective use of your time to learn. I will make problem solving videos and I will frequently make a video on specific problems as they arise in the class assignments. 
+There will NOT be video lectures.  These have been demonstrated to NOT be an effective way to learn. I will make problem solving videos and I will frequently make videos on specific problems as they arise in the class assignments. 
 
-Videos explanations are good (although rarely the best option) when you are stuck and you are looking for a worked out example. Fortunately we are blessed with a subject (phys mechanics) with many such videos on the web if needed. 
+Videos explanations are good (although not always the best option) when you are stuck and you are looking for a worked out example. Fortunately we are blessed with a subject (phys mechanics) with many such videos on the web already existing which you can google and consult if needed. 
 
-So the lessons of the course will first start with the assumption that you have read (in a particular method described below) the textbook. Then I will elaborate more on the important subject and provide "Check your understanding questions" with explanation and some problem solving video. 
+The lessons of the course will first start with the assumption that you have read (in a particular method described below) the textbook. Then I will elaborate more on the important concepts and provide "Check your understanding questions" with explanations. 
+
+The rest of the "lecture" will be in the form of discussion board and various assignments where feedback will be provided. It is very important to look at those feedback and act upon them to correct your errors. 
+
+### Read the textbook
 
 While reading the textbook, pay close attention to 
 
@@ -23,7 +29,7 @@ While reading the textbook, pay close attention to
 * **Tactics Box**: Short summary of important skills to master.  
 * **Stop to think**: Short questions to test you understanding, do them! The answers are at the end of the book. 
 
-In week1B, I will discuss specific learning strategies and this will include an how-to guide in how to read the textbook. 
+In week 2, I will discuss specific learning strategies and this will include an how-to guide in how to read the textbook. 
 
 Instead of repeating the textbook with lectures notes or videos (which have been shown to be an ineffective way to learn), I wrote
 

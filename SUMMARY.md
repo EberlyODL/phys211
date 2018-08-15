@@ -4,7 +4,7 @@
   * [Week 1 - Concepts of Motion](week-1.md)
     * [Instructor and Orientation](instructor.md)
     * [The big picture](the-big-picture.md)
-    * [Reading the textbook](reading-the-textbook.md)
+    * [Structure of the Lessons](reading-the-textbook.md)
     * [Representing the motion of the rocket car](representing-the-motion-of-the-rocket-car.md)
     * [Check your understanding!](check-your-understanding.md)
   * [Week 2- Learning to Learn and 1D kinematics](week-1b-learning-to-learn-and-1d-kinematics.md)
