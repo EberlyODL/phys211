@@ -10,8 +10,11 @@ My goals are to
 * tailor the information that I provide to your need
 * give you the tools to learn and to teach you how to use those tools. 
 
+There will NOT be video lectures which are not an effective use of your time to learn. I will make problem solving videos and I will frequently make a video on specific problems as they arise in the class assignments. 
 
-It is much better if instead I focus on teaching you the skills to properly find and learn the material from reading the textbook.
+Videos explanations are good (although rarely the best option) when you are stuck and you are looking for a worked out example. Fortunately we are blessed with a subject (phys mechanics) with many such videos on the web if needed. 
+
+So the lessons of the course will first start with the assumption that you have read (in a particular method described below) the textbook. Then I will elaborate more on the important subject and provide "Check your understanding questions" with explanation and some problem solving video. 
 
 While reading the textbook, pay close attention to 
 
