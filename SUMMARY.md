@@ -19,8 +19,5 @@
     * [Motion with Constant Acceleration](motion-with-constant-acceleration.md)
     * [Free Fall Motion](free-fall-motion.md)
     * [Kinematics Equations for Constant Acceleration](kinematics-equations.md)
-    * [Scientific Method](scientific-method.md)
-    * [The accelerometer](the-accelerometer.md)
-    * [The boxplot and StatKey](the-boxplot-and-statkey.md)
 * [End of book ](end-of-book.md)
 
