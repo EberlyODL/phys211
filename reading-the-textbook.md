@@ -2,7 +2,16 @@
 
 The primary source of information for this course is the textbook. 
 
-There are no good reasons for me to rewrite some part or say it aloud in a video. It is much better if instead I focus on teaching you the skills to properly find and learn the material from reading the textbook.
+Many courses overload students with large amount of information many of which is not directly relevant to the learning objectives of the course. 
+
+My goals are to 
+
+* minimize the amount of superfluous information
+* tailor the information that I provide to your need
+* give you the tools to learn and to teach you how to use those tools. 
+
+
+It is much better if instead I focus on teaching you the skills to properly find and learn the material from reading the textbook.
 
 While reading the textbook, pay close attention to 
 
