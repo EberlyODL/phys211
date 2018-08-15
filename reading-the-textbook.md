@@ -27,9 +27,7 @@ While reading the textbook, pay close attention to
 * **Model**: They are listed on the front cover page, for example the first model is uniform motion on page 35
 * **Problem-solving strategy**: again listed on the front cover page
 * **Tactics Box**: Short summary of important skills to master.  
-* **Stop to think**: Short questions to test you understanding, do them! The answers are at the end of the book. 
-
-In week 2, I will discuss specific learning strategies and this will include an how-to guide in how to read the textbook. 
+* **Stop to think**: Short questions to test you understanding, do them! The answers are at the end of the book.  
 
 Instead of repeating the textbook with lectures notes or videos (which have been shown to be an ineffective way to learn), I wrote
 
@@ -43,9 +41,5 @@ The course content pages include also all the material that is not covered in th
 The examples on these webpages are in no way exhaustive. If it is in the textbook in an assigned readings, then it is covered in the course and it will be practiced in the assignments and evaluated in the exams.
 </lrndesign-sidenote> 
 
-Now is the time to read Chap 1 of your textbook! Then come back to read the next two pages. 
 
-<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-  <span slot="message">Chapter 1</span>
-</stop-note>
 

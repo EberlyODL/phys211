@@ -14,7 +14,7 @@
     * [Reading and Studying Methods](specific-tips.md)
     * [Stephen's Chew videos](study-smart-not-harder.md)
     * [Relating Position and Velocity. ](relating-position-and-velocity.md)
-    * [Instantanous Velocity](instantanous-velocity.md)
+    * [Instantaneous Velocity](instantanous-velocity.md)
     * [Acceleration](acceleration.md)
     * [Motion with Constant Acceleration](motion-with-constant-acceleration.md)
     * [Free Fall Motion](free-fall-motion.md)

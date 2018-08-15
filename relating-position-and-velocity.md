@@ -1,10 +1,6 @@
+## Relating Position and Velocity. 
+
 Back to the study of motion. This week we study the beginning of kinematics in 1D. Our goal is to set up tools to quantitatively described motion. 
-
-You can look at my chapter summary for Chap 2.1-2.3 but it is very brief and succinct. It is meant to be this way. As in week 1, the notes in this course content are just meant to illustrate and clarify some concepts but the main source of content is the book. 
-
-In particular, I will not do "problem solving videos". Why? Because there are examples in the book and if I do example videos, you may feel you do not need to read the book. Also just listening to an example rarely do any good and may in fact do harm by giving you a false sense of security. 
-
-Now you may say that you already have been reading through the example problems and you want more. Be careful, quantity is not what matter its how you do the examples that matter. 
 
 Remember from the "How to read the textbook" page, the best way to do examples. Let me repeat it here.
 
@@ -26,7 +22,7 @@ The simplest kind of motion to analyze is the one of constant velocity, constant
 [ciscode|rev=1|tool=elmsmedia|item=4409|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-  <span slot="message"></span>
+  <span slot="message">2.1-2.3</span>
 </stop-note>
 
 

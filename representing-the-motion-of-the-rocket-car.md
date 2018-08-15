@@ -1,3 +1,11 @@
+Now is the time to read Chap 1 of your textbook! Then come back to read the next two pages. 
+
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+  <span slot="message">Chapter 1</span>
+</stop-note>
+
+## Representing the motion of the rocket car
+
 Let us apply the concepts of motion you saw in Chap 1. Knight to the rocket car motion.
 
 For the moment we are working in one dimension so imagine we live in a Universe that is a single line.  You can only move right/left \(or up/down say\).
