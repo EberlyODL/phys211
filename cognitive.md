@@ -14,14 +14,11 @@ From Wikipedia again, here is a definition of "cognition" by Ulric Neisser
 
 > The term "cognition" refers to all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.
 
-
-Note that while computer science has had an impact on cognitive psychology, the reverse is also true. Machine Learning and Deep Neural Networks have revolutionized what computer can do. Here is a free book on the subject for the curious!<a target = "_blank" href="http://neuralnetworksanddeeplearning.com/index.html"> Neural Networks and Deep Learning</a> 
-
 Learning is very much part of cognition. So what have we learned about cognition that can improve soldier performance on the field or student's ability to learn? Quite a bit actually!
 
 ## Bloom's taxanomy 
 
-Bloom's taxonomy is a famous way to organize cognitive knowledge in a hierarchy of different level of learning. 
+Bloom's taxonomy is a way to organize cognitive knowledge in a hierarchy of different level of learning. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4214|entity_type=node|render=display_mode|display_mode=image] 
 
@@ -29,10 +26,10 @@ The idea is that there are many ways to know something. When someone says that t
 
 * do he just remember some stuff about them?
 * do he understand the subject in a way that he could explain the broad features to me?
-* Would he be able to apply his black hole knowledge to solve a problem involving two spinning Kerr Black hole.
-* Would he able to analyze and break down the theory surrounding black hole into its different parts. General relativity, thermodynamics, etc. 
+* Would he be able to apply his black hole knowledge to solve a problem involving two spinning Kerr Black hole?
+* Would he able to analyze and break down the theory surrounding black hole into its different parts. General relativity, thermodynamics, etc?
 * Would he be able to tell whether the three last papers of Stephen Hawking are correct. 
-* would he be able to write a paper on black hole like Stephen Hawking?
+* would he be able to write a paper on black hole like Stephen Hawking did?
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 I am exaggerating with the last two. But you get the idea. Evaluating and creating are the highest level of learning. 
