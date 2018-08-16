@@ -1,12 +1,10 @@
-##  Week 1B. Learning to Learn and 1D Kinematics. 
+##  Week 2. Learning to Learn and 1D Kinematics. 
 
-In this half-week, we will start the subject of kinematics. 
+Kinematics is about representing and describing motion quantitatively. The simplest is one-dimensional motion at constant velocity. 
  
- Kinematics is about representing and describing motion quantitatively. The simplest is one-dimensional motion at constant velocity. 
- 
- Before we look into this, I would like to spend the equivalent of what would be a full 50 minutes lecture in face-to-face class to discuss **Learning Strategies**.
+ Before we look into this, I would like to spend the equivalent of what would be a full 50 minutes lecture in face-to-face class to discuss **learning strategies**.
 
-## Lesson Objectives for week 1B
+## Lesson Objectives for week 2
 
 The "learning to learn" part of this lesson addresses the following objectives
 
@@ -24,9 +22,8 @@ And then going back to physics we will see.
 * LOKin04: relate and create time dependent plots of kinematic variables 
 * LOPro05: differentiate and integrate polynomial functions
 
-e> 
 
-The full list of objectives can be found on Canvas. The reading for this week is Chap 2 of the textbook but you can read these course content pages until you get the "read the textbook sign". 
+The full list of objectives can be found on Canvas. The reading for this week is Chap 2 of the textbook but you can read these course content pages until you get to the "read the textbook sign". 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 We will start doing derivatives and integral right away even if you are taking math 140 concurrently. This chapter explains what derivatives and integrals are and we will mostly only use them on polynomials functions. We will get to practice it, don't worry!
