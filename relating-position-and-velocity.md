@@ -11,7 +11,9 @@ Remember from the "How to read the textbook" page, the best way to do examples. 
 4. If you get the answer, compare just the solutions to the one in the book. If its the same, great, now look at what the author did. If its not the same, look back at your process first and try to find where you could have gone wrong. 
 5. If after 2 attempts (say 1/2 hour at least), it does not work look at the solution provided by the author. You will need to try a similar problem again to make sure you can do it without help.  
 
-** Some might say, but what if when I first read the chapter, I read the example problem? How can I do them for real after that? It most probably does not matter, redo the example problem the next day or even earlier with the method above. Just by reading (or by watching a video online), you do not really assimilate the material so you will forget it anyhow. 
+** Some might say, but what if when I first read the chapter, I read the example problem? How can I do them for real after that? 
+
+It most probably does not matter, redo the example problem the next day or even earlier than that with the method above. Just by reading (or by watching a video online), you do not really assimilate the material so you will forget it anyhow. 
 
 ## Uniform Motion
 
