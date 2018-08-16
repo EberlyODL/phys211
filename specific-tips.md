@@ -4,7 +4,7 @@ Unfortunately, you cannot read your physics textbook like you would read Lord of
 
 1. Read the chapter preview at the beginning and scan the whole chapter by reading just the title of each section. The goal is to get in your head what the big picture is. 
 2. Once you have the big picture. Make a list of questions that you have about that subject (think personal life if you can, to get to deeper processing). This will give you a motivation to read the text but you will also be searching for something which will make you much more attentive to all the details. 
-3. Paraphrase. Regularly stop yourself and paraphrase (in your mind or on paper) what the paragraph you just read is about. As you add more paragraph, keep adding to your own story. This may seem long but most students say that it ends up being less long. Why? In their own words... " I don't have to reread or having a bunch of false starts". Its the turtle and the hare, slow and steady wins the race.  
+3. **Paraphrase: rewrite briefly in your own words**. Regularly stop yourself and paraphrase (in your mind or better on paper) what the paragraph you just read is about. As you add more paragraph, keep adding to your own story. This may seem long but most students say that it ends up being less long. Why? In their own words... " I don't have to reread or having a bunch of false starts". Its the turtle and the hare, slow and steady wins the race.  
 4. Supplement the last 3 points with various activities such as 
     * highlighting (do this right, not whole sentences. Just key nouns and verbs). 
     * taking notes
@@ -30,7 +30,7 @@ Do not read example solutions in the book right away. Here is how to do example 
 
 ### Doing reading quiz, tutorial and quiz for real
 
-The book is there for you to learn the material but it is not a cane. When you are actually solving problems, it is best to actually close the book and try the problems on your own.  Use the formulae sheet but close the book. It is ok (and good) to struggle on a question for a while, try different methods. Do not be too quick on the draw to get your book or (worse) google. Struggle, try various things. Maybe contact me or your peers. Eventually, look back at examples in book. 
+The book is there for you to learn the material but it is not a cane. When you are actually solving problems, it is best to actually close the book and try the problems on your own.  Use the formula sheet but close the book. It is ok (and good) to struggle on a question for a while, try different methods. Do not be too quick on the draw to get your book or (worse) google. Struggle, try various things. Maybe contact me or your peers. Eventually, look back at examples in book. 
     
 ### Intense Study Cycle. 
 
