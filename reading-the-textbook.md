@@ -1,5 +1,5 @@
 ## Structure of the Lessons
-[ciscode|rev=1|tool=elmsmedia|item=4398|entity_type=node|render=display_mode|display_mode=mediavideo]
+[ciscode|rev=1|tool=elmsmedia|item=4672|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The primary source of information for this course is the textbook. 
 
