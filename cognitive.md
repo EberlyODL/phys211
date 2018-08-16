@@ -26,9 +26,9 @@ The idea is that there are many ways to know something. When someone says that t
 
 * do he just remember some stuff about them?
 * do he understand the subject in a way that he could explain the broad features to me?
-* Would he be able to apply his black hole knowledge to solve a problem involving two spinning Kerr Black hole?
-* Would he able to analyze and break down the theory surrounding black hole into its different parts. General relativity, thermodynamics, etc?
-* Would he be able to tell whether the three last papers of Stephen Hawking are correct. 
+* Would he be able to apply his black hole knowledge to solve a problem involving two spinning Kerr black hole?
+* Would he able to analyze and break down the theory surrounding black hole into its different parts: general relativity, thermodynamics, etc?
+* Would he be able to tell whether the three last papers of Stephen Hawking are correct?
 * would he be able to write a paper on black hole like Stephen Hawking did?
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
