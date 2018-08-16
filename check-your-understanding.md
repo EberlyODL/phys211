@@ -1,4 +1,4 @@
-Here is two important "Check your understanding questions". My comments and my teacher wisdom may be inside the question as feedbacks to your correct or incorrect answers. These questions are not graded but try them out for real!!
+Here is two important "Check your understanding questions". I have written comments and feedbacks to your correct or incorrect answers but you won't see those until you try them. These questions are not graded but try them out for real. Many of them are good example questions that could be on the exam. 
 
 1. Acceleration and Velocity in one dimension
 
@@ -15,6 +15,6 @@ We will return to the 2 dimensional case in Chap 3. For the moment, we are only 
 
 [ciscode|rev=1|tool=elmsmedia|item=4203|entity_type=node|render=display_mode|display_mode=h5p__card]
 
-The geometric arrow can be confusing. Here is a trick! Just replace the arrows with numbers. vector A would be +4 while vector B would be -3. 
+The geometric arrow can be confusing. Here is a trick! Just replace the arrows with numbers. Vector A would be +4 while vector B would be -3. 
 
 What is A+B and what is A -B? Much easier with numbers right?
