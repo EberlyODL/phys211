@@ -12,9 +12,9 @@ Novice in a field tend to be overconfident on their mastery of the material. Thi
 </div>
 To be a successful student, you need to think about your own thinking. Below are five actions to do to reflect on your thinking.. 
 
-* **Assess**: You need to assess the task. What is required of you, what is the level of skills that will be needed. Is remembering enough or will you need to apply and analyze?
+* **Assess**: You need to assess the task. What is required of you? What is the level of skills that will be needed? Is remembering enough or will you need to apply and analyze?
 * **Evaluate**: Figure out your strengths and weaknesses. What do you already have? What are you missing?
-* **Plan**: Accounting for the current situation, given time constraints make the best plan to do the task at the level required. 
+* **Plan**: Accounting for the current situation and given time constraints, make the best plan to do the task at the level required. 
 * **Apply** and **Monitor**: Apply strategies (see below) and monitor continuously your performance. 
 * **Reflect**: Reflect on your performance, restart the cycle, re-assess the talk, evaluate and plan. 
  
@@ -35,17 +35,17 @@ To answer this question let us look at the following cognitive experiment. 24 wo
 
 [ciscode|rev=1|tool=elmsmedia|item=4217|entity_type=node|render=display_mode|display_mode=image]
 
-Shallow processing is when the information is stored only in the working memory. Deep processing is a way to make connection to things in your long-term memory. As you might expect, with deep processing things stick better. 
+Shallow processing is when the information is stored only in the working memory. Deep processing is a way to make connection to things in your long-term memory. As you might expect, learning with deep processing make things stick better. 
 
-Here are the results of the experiment. The "intentional" versus "incidental" refers to the fact that some students were told they would have to recall while other were not told about the task. Being aware that you would be tested had little impact on the performance. The only things that mattered was shallow vs deep processing. 
+Here are the results of the experiment. The "intentional" versus "incidental" refers to the fact that some students were told they would have to recall while other were not told about the future task. Surprisingly, being aware that you would be tested had little impact on the performance. The only things that mattered was whether the learning involved shallow or deep processing. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4218|entity_type=node|render=display_mode|display_mode=image]
 
-What you are thinking when studying completely change how much you learn. You internalize the information and achieve deeper processing by connecting the material to your emotions or previous experiences. 
+**What you are thinking when studying completely change how much you learn.** You internalize the information and achieve deeper processing by connecting the material to your emotions or previous experiences. 
 
-## How to achieve deep Processing. 
+## How to achieve deep processing. 
 
-Just reading with music on or doing problems quickly or googling is shallow processing and mostly a waste of your time. It is better to spend less time but actually use that time to really process the information.
+Just perusing the book with music on or doing problems quickly or googling is shallow processing and mostly a waste of your time. **It is better to spend less time but actually use that time to really process the information.**
 
 As you study, ask yourself questions such as
 
