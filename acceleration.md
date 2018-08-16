@@ -1,11 +1,9 @@
 ## Acceleration
 
 
-Acceleration is the rate of change of velocity just like the velocity is the rate of change of position. Make sure you understand what this means in words.
-
 A velocity of <lrn-math>v_x = +10\;m/s</lrn-math> means that you move 10 m to the right x direction in every second. If you started at x = 0, you would be at x = 10 m in one second. 
 
-An acceleration of <lrn-math>a_y = -10\;m/s^2</lrn-math> means that you velocity increase in the negative y direction by 10 m/s every second. If you started with <lrn-math>v_y = 0</lrn-math>, you would have <lrn-math>v_y = -10\;m/s</lrn-math> after 1 second.
+An acceleration of <lrn-math>a_y = -10\;m/s^2</lrn-math> means that your velocity increase in the negative y direction by 10 m/s every second. If you started with <lrn-math>v_y = 0</lrn-math>, you would have <lrn-math>v_y = -10\;m/s</lrn-math> after 1 second.
 
 ### Position, Velocity, Acceleration
 
