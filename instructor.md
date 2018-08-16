@@ -9,7 +9,8 @@ I am an associate teaching professor of physics and the director of online educa
 I will introduce myself in more details on our first discussion board. I am looking forward to your introduction there as well!
 
 ### Jose Carpio Dumler, teaching assistant. 
-
+[ciscode|rev=1|tool=elmsmedia|item=4673|entity_type=node|render=display_mode|display_mode=image]
+I am a second year Physics graduate student, originally from Peru. I worked at Pontificia Universidad Católica del Perú before becoming a Penn State student. My area of research is Particle Astrophysics and Neutrino Physics
 
 ### Quick Orientation
 
