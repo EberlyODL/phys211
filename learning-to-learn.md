@@ -15,9 +15,9 @@ You may have to change the way you learn and the way you work to reach the goals
 
 Success in my course is not defined by your course grades. Success is measured by how much you gain and how much you grew as a person through the course. Yes it sounds cheesy but it is always worth repeating. We all have different stories and all come from different backgrounds but the path ahead is ours to make.
 
-I have in the past refused to write letters of recommendation for A students because I had nothing to say. The students came in with perfect scores and left with perfect scores. Nothing wrong with that, but how much of a success is it to come in a course mostly knowing the subject and leaving with mostly the same knowledge?
+Some students come in Phys 211 with perfect scores and leave with perfect scores. Nothing wrong with that! 
 
-For other students, this course was a real challenge. They had to struggle continuously and some of them were trying to avoid dire consequences such as losing financial aids or not being admitted in their major of choice. For some of them the hard work pays off and that makes a great success story. 
+For other students, this course can be a real challenge. I have had students that struggle continuously.  Some of them were trying to avoid dire consequences such as losing financial aids or not being admitted in their major of choice. For some of them the hard work pays off and that makes a great success story. 
 
 Others may not get the grade they need for entering a specific major and may have to chose something else.  If later you remember this course fondly (I know with physics in the title!) and if you remember trying hard and learning things, then it was a success.  
 
