@@ -12,7 +12,7 @@ The acceleration at the turning point is <lrn-math>\vec{a}_4 = \frac{\Delta\vec{
 
 [ciscode|rev=1|tool=elmsmedia|item=4240|entity_type=node|render=display_mode|display_mode=image]
 
-Which is to the left. In fact we can find the acceleration vector at any point and we find that it always to the left and always the same size. Try it! To go from one velocity vector to the next you just add the acceleration vector and for this motion, you always the same quantity to the left. The left portion of the figure below shows the velocity vector and acceleration vector at each time frame. Going from time 0 to 8, note how the acceleration vector is what you need to add to the previous velocity vector to get to the next velocity vector. 
+Which is to the left. In fact we can find the acceleration vector at any point and we find that it always to the left and always of the same size. Try it! To go from one velocity vector to the next you just add the acceleration vector and for this motion, you always add the same quantity to the left. The left portion of the figure below shows the velocity vector and acceleration vector at each time frame. Going from time 0 to 8, note how the acceleration vector is what you need to add to the previous velocity vector to get to the next velocity vector. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4241|entity_type=node|render=display_mode|display_mode=image]
 
