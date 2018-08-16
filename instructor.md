@@ -4,13 +4,11 @@
   [ciscode|rev=1|tool=elmsmedia|item=291|entity_type=node|render=display_mode|display_mode=image]
 </div>
 
-I am an associate teaching professor of physics and the director of online education in physics. I am originally from Québec, in Canada but I did my PH.D at Cornell University and I worked at Texas A&M University and at the Perimeter Institute in Canada before coming to Penn State. My physics interests include cosmology and high-energy theory. 
+I am an associate teaching professor of physics and the director of online education in physics. I am originally from Québec in Canada. I did my PH.D at Cornell University and I worked at Texas A&M University and at the Perimeter Institute in Canada before coming to Penn State. My physics interests include cosmology and high-energy theory. 
 
 I will introduce myself in more details on our first discussion board. I am looking forward to your introduction there as well!
 
 ### Jose Carpio Dumler, teaching assistant. 
-
-I am a physics graduate student. I got my bachelor and master's degrees in physics from MIPT in Russia. My research interests are topological insulators and photonics.
 
 
 ### Quick Orientation
