@@ -16,8 +16,7 @@ The last question contains the most difficult part. **You have to remember that 
 
 ### Derivatives and Integrals
 
-Almost all position-versus time curves or velocity-versus-time curves can be expressed as functions of time <lrn-math>x(t)</lrn-math> and <lrn-math>v(t)</lrn-math>. In this course these functions will very often be sum of polynomials in time of the form 
-
+Almost all position-versus-time curves or velocity-versus-time curves can be expressed as functions of time <lrn-math>x(t)</lrn-math> and <lrn-math>v(t)</lrn-math>. In this course these functions will very often be sum of polynomials in time of the form 
 
 <lrn-math>x(t) = a + bt+ ct^2 +d t^3 +....</lrn-math>
 where <lrn-math>a,b,c,d,...</lrn-math> are constants that could be zero. 
