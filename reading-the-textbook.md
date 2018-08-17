@@ -16,7 +16,7 @@ There will NOT be video lectures.  These have been demonstrated to NOT be an eff
 
 Videos explanations are good (although not always the best option) when you are stuck and you are looking for a worked-out example. Fortunately we are blessed with a subject (physics, mechanics) with many such videos already existing on the web which you can google and consult if needed. 
 
-The lessons of the course will first start with the assumption that you have read the textbook. For each week, I wrote a brief of summary of the most important concepts from the textbook. Then I will elaborate more on the important concepts within these course content pages. There will be demo videos, some problem solving videos and I will provide "check your understanding questions" with explanations. 
+The lessons of the course will first start with the assumption that you have read the textbook. For each week, I wrote a brief of summary of the most important concepts from the textbook (see Canvas for Chapter summary). Then I will elaborate more on the important concepts within these course content pages. There will be demo videos, some problem solving videos and I will provide "check your understanding questions" with explanations. 
 
 The course content pages also include all the material that is not covered in the textbook but needed for the class. This is mostly about "how to learn physics" and about "statistics and lab techniques".
 
