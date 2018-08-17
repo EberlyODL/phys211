@@ -2,7 +2,7 @@
 
 [ciscode|rev=1|tool=elmsmedia|item=4199|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-## Lesson Objectives for week 1A
+## Lesson Objectives for week 1
 
 Physics is rocket science! By the end of this course you will be able to describe and explain the broad features of rocket motion.
 
