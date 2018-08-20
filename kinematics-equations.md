@@ -8,6 +8,7 @@ Many problems in kinematics can be solved using these equations and these are ev
 
 [ciscode|rev=1|tool=elmsmedia|item=4681|entity_type=node|render=display_mode|display_mode=mediavideo]
 
+Here is the pdf solution of the problem solved in the video. 
 [ciscode|rev=1|tool=elmsmedia|item=4680|entity_type=node|render=display_mode|display_mode=document]
 
 ## Check your Understanding!
