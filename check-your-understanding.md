@@ -1,3 +1,5 @@
+[ciscode|rev=1|tool=elmsmedia|item=4678|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 Here is two important "Check your understanding questions". I have written comments and feedbacks to your correct or incorrect answers but you won't see those until you try them. These questions are not graded but try them out for real. Many of them are good example questions that could be on the exam. 
 
 1. Acceleration and Velocity in one dimension
