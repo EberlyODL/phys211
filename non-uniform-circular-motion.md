@@ -1,3 +1,5 @@
+## Non-Uniform Circular motion
+
 We now have all the tools to start studying the motion of extended objects moving beyond the single point particle approximation we have been using since the beginning of the course. 
 
 We will still make an important approximation and that is the body is rigid. It will not deformed. When the body rotate, all points on the body have the same angular velocity <lrn-math>\omega </lrn-math>. 
@@ -9,7 +11,7 @@ When one goes beyond the particle model, it is possible for the object to both m
 The rotation is the new part and we will spend the next few weeks on this subject (chap 12). First we need to review the kinematic of uniform circular motion and extend to non-uniform circular rotation.
 
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-  <span slot="message">Review Section 4.4, 4.5 and read for the first time section 4.6</span>
+  <span slot="message">Review sections 4.4, 4.5 and read for the first time section 4.6</span>
 </stop-note>
 
 Paraphrasing and doing the examples along the way. Also look at my chapter summary. 
