@@ -1,3 +1,5 @@
+## Other forms of Energy
+
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
   <span slot="message">Sections 10.3-10.8</span>
 </stop-note>
