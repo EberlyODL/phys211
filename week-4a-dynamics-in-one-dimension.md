@@ -1,4 +1,4 @@
-## Lesson Objectives for week 4A
+## Lesson Objectives for week 6
 
 
 * LOPro06: solve simultaneous linear equations

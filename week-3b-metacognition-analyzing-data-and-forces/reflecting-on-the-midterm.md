@@ -1,3 +1,5 @@
+## Reflecting on the Midterm
+
 Here is the "grade evolution" of four past Phys 211 students (3 midterm and a final)
 
 |Students|MT1|MT2|MT3|FNL|Grade in class|

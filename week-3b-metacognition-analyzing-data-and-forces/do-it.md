@@ -1,3 +1,5 @@
+## Immediate action needed!
+
 Applying the studying strategies in the previous page really work! Robert really started with a 42% on Midterm 1 and finish with an A but
 
 

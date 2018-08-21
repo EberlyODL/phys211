@@ -1,3 +1,5 @@
+## Equilibrium and Constant Force Models
+
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
   <span slot="message">Chap 6.1-6.4: Dynamics I</span>
 </stop-note>
