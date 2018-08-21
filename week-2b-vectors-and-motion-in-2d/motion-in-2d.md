@@ -1,3 +1,5 @@
+## Motion in 2D
+
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
   <span slot="message">Sections: 4.1 and 4.3 (NOT 4.2 yet)</span>
 </stop-note>
