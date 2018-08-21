@@ -1,4 +1,4 @@
-## Lesson Objectives for week 5B
+## Lesson Objectives for week 9
 
 
 * LOVec04: perform and interpret the meaning of dot products 
