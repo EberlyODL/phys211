@@ -1,3 +1,5 @@
+## Bouncing Balls
+
 A general collision where both objects move initially and both objects move at the end has two unknown to solve for (two different final velocities). 
 
 To be able to find those final velocities, we would need to know something about the energy of the system. The general case is beyond the level of this course to solve in full but the case where kinetic energy is exactly conserved can be solved. 

@@ -1,4 +1,4 @@
-## Lesson Objectives for week 7A
+## Lesson Objectives for week 12
 
 * LOMom00: define and identify isolated systems
 * LOMom01: understand that external forces are required to change momentum

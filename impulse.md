@@ -13,6 +13,7 @@ Section 11.1-11.5 are on impulse and conservation of momentum. There are 9 worke
 <stop-note title="Read the Textbook" icon="stopnoteicons:book-icon">
   <span slot="message">Section 11.1-11.5</span>
 </stop-note>
+
 ### Impulse
 
 [ciscode|rev=1|tool=elmsmedia|item=4443|entity_type=node|render=display_mode|display_mode=mediavideo]
