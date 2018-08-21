@@ -1,3 +1,5 @@
+## Thermal Energy 
+
 To recap, we can show from Newton's second law <lrn-math>(F_{net})_s = ma_s </lrn-math> that  
 
 <lrn-math> W = \Delta K </lrn-math>

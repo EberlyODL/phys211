@@ -1,3 +1,5 @@
+## Getting a sense of energy and power
+
 Energy takes many different forms. As we have discussed, energy can be stored in the system as potential energy. This can be chemical energy of molecular bonds, nuclear energy of nuclear bonds, electric energy, gravitational energy, etc. 
 
 Energy is a real thing even though you cannot see it. It can be counted. Let us get a feeling for some energy values. 

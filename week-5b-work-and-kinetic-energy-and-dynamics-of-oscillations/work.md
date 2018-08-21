@@ -1,4 +1,4 @@
-### Reading guide Chap 9: 
+## Reading guide Chap 9: 
 
 This chapter contains a lot of new material, all of which is important. 
 
@@ -18,7 +18,7 @@ There are 13 worked examples. As usual, these are all important problems includi
 </stop-note>
 
 
-### Work
+## Work
 
 [ciscode|rev=1|tool=elmsmedia|item=4426|entity_type=node|render=display_mode|display_mode=mediavideo]
 

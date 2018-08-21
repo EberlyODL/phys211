@@ -1,3 +1,5 @@
+## Sometime the work is zero!
+
 [ciscode|rev=1|tool=elmsmedia|item=4427|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
