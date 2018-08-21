@@ -1,3 +1,5 @@
+## Analyzing Data
+
 Even in a perfect world, measured quantities normally varies and one goal of physics is to detect real variation on top of normal "noise". 
 
 There are precise quantitative ways to do this but it requires more background in statistical methods. In this course, we will mostly use visual tools to make decisions about data. 
