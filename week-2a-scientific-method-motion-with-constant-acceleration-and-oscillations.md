@@ -1,4 +1,4 @@
-## Week 2A. Motion with Constant Acceleration, Oscillations and Making Sense of Data. 
+## Week 3 Oscillations vectors, motion in 2D and Making Sense of Data. 
 
 ## Lesson Objectives
 
