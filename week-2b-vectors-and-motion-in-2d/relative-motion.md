@@ -19,7 +19,9 @@ Section 4.3 is a great place to do careful reading as we discussed in week 1B "R
 * try to do example 4.7 and 4.8 in the same manner that you did 4.6
 * check your understanding with the stop to think  
 
-To avoid mistakes when solving relative motion problem it is really important to use the proper notation. For example, in the following we have a car denoted C (or toy truck really) moving on a sheet of plastic (denoted S) which is itself moving with respect to the ground (G). 
+To avoid mistakes when solving relative motion problem it is really important to use the proper notation. 
+
+Here is an example. In the following we have a car denoted C (or toy truck really) moving on a sheet of plastic (denoted S) which is itself moving with respect to the ground (G). 
 
 [ciscode|rev=1|tool=elmsmedia|item=4397|entity_type=node]
 
