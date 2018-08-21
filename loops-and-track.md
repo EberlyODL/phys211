@@ -1,3 +1,5 @@
+## Loops and Tracks
+
 Energy consideration allows one to solve many problems much faster and with a greater depth of understanding as to the why things are happening. 
 
 For example. 

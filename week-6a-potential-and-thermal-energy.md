@@ -1,4 +1,4 @@
-## Lesson Objectives for week 6A
+## Lesson Objectives for week 10
 
 * LONrg06: relate potential energies and conservative forces & compute one from the other 
 * LONrg07: draw energy bar charts to account for energy change 
