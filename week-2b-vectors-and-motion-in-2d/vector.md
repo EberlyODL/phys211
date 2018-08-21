@@ -1,3 +1,5 @@
+## Vectors
+
 Vectors are one of the main source of errors we see when students solve problems. 
 
 **You should not only know the material of Chap 3, you should _master_ it to the point where it comes easily and quickly.**
