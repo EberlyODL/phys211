@@ -7,7 +7,7 @@ As in all parts of the course, your primary source of information is the book. M
 </lrndesign-sidenote>
 
 
-### Circular Motion
+## Dynamics of Circular Motion
 
 There is nothing new in chapter 8 in terms of theory. Dynamics of circular motion can be tricky and confusing but you must always remember. 
 

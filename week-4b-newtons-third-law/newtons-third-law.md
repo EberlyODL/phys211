@@ -1,3 +1,5 @@
+## Newton's Third Law
+
 The runner/starting block/ground/Earth system can be represented using an interaction diagram. 
 
 We will not use interaction diagrams very much in the course. There are only mildly useful in problem solving but they have their proper places in the textbook as they do help to visualize what is going on. 
