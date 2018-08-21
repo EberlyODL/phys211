@@ -1,4 +1,8 @@
-If the acceleration is not constant, the general relationships still holds. 
+## Oscillations: 
+
+We ended last week with constant acceleration 
+
+If the acceleration is not constant, the general kinematics relationships still holds. 
 [ciscode|rev=1|tool=elmsmedia|item=4230|entity_type=node|render=display_mode|display_mode=image]
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
