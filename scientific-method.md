@@ -1,3 +1,5 @@
+## Scientific Method
+
 In preparation for our first real lab we need to introduce some new concepts and techniques. First, what is the scientific method?
 
 ### Ignorance
@@ -14,7 +16,8 @@ The hypothesis is either rejected (or modified) if it keeps failing. If it succe
 
 In this first part of the class, we will do observing experiments. 
  
-The goal is to design experiment to observe phenomena and find patterns. 
+The goal of this kind of experiment is to observe phenomena and find patterns. 
+
 The observations can be qualitative but more often we will collect numerical data. Collecting data and visualizing it properly will enable us to better quantify the patterns that we may see. 
 
 ### Lab 2 - "Slowing Down"
