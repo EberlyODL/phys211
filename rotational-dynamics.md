@@ -4,7 +4,6 @@
   <span slot="message">Section 12.6, 12.7</span>
 </stop-note>
 
-
 The presence of a net torque will cause an angular acceleration 
 
 <lrn-math>\tau_{net} = I\alpha </lrn-math>
