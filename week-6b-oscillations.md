@@ -1,4 +1,4 @@
-## Lesson Objectives for week 6B
+## Lesson Objectives for week 11
 
 * LOPro09: understand phase constants and the trigonometry of oscillations
 * LODyn09: analyze the properties of simple harmonic oscillator and determine the frequency of oscillations 

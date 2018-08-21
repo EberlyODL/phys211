@@ -1,3 +1,5 @@
+## Energy diagrams
+
 Energy diagram shows the potential as a function of distance U(x). This very informative plot tells you all about the U & K energy of a system.
 
 [ciscode|rev=1|tool=elmsmedia|item=4365|entity_type=node|render=display_mode|display_mode=image]
