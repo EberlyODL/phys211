@@ -1,4 +1,4 @@
-Mathematical aside. Proportional Reasoning. 
+## Mathematical aside. Proportional Reasoning. 
 
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
   <span slot="message">Read page 118 Mathematical aside in Chap 5.</span>

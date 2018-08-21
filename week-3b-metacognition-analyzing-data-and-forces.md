@@ -1,4 +1,4 @@
-## Lesson Objectives for week 3B
+## Lesson Objectives for week 5
 
 * LODyn00: identify the object/system of interest and all contact/long range forces acting it. 
 * LODyn01: apply the idea that net forces are related to acceleration, not velocity 
