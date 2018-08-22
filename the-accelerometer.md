@@ -6,7 +6,7 @@ In this class we will measure acceleration in two different ways using the IOLab
 
 The accelerometer is a tiny microelectromechanical system (acronym is MEMS, see figure). It is essentially a mass on a spring but microscopic masses and springs. The spring compression/extension lead to tiny change in electrical output that can be amplified and measured. 
 
-[ciscode|rev=1|tool=elmsmedia|item=4246|entity_type=node|render=display_mode|display_mode=mediaimage__right__small__lightboxed]
+[ciscode|rev=1|tool=elmsmedia|item=4246|entity_type=node|render=display_mode|display_mode=image__right__small__lightboxed]
 
 The accelerometer and the gyroscope (to be discussed later) are two of the most important MEMS. They are used in phones to determine direction and detect motion. Because smartphones are now mass produced, the accelerometer is a fairly affordable electronic component and your IOLab is equipped with one. 
 
