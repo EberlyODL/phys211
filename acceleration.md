@@ -1,7 +1,7 @@
 ## Acceleration
 
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-<span slot="message">Sec 2.4-2.6</span>
+<span slot="message">Sec 2.4-2.7</span>
 </stop-note>
 
 A velocity of <lrn-math>v_x = +10\;m/s</lrn-math> means that you move 10 m to the right x direction in every second. If you started at x = 0, you would be at x = 10 m in one second. 
