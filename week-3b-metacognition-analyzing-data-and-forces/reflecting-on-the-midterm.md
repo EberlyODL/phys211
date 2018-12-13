@@ -6,8 +6,8 @@ Here is the "grade evolution" of four past Phys 211 students (3 midterm and a fi
 |----
 |Robert| 42|100|100|100|A|
 |Kristy| 60|100|95|84|A|
-|Blanche|64|79|87|100|A|
-|Joshua|78|50|87|97|A|
+|Blanche|64|79|87|100|A-|
+|Joshua|78|50|87|97|B+|
 
 What happened to these students? How did they all dramatically improve their grades after MT1? They all in one way or another change some key aspects of their learning strategies. 
 
