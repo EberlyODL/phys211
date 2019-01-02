@@ -24,3 +24,5 @@ We will return to the 2 dimensional case in Chap 3. For the moment, we are only 
 The geometric arrow can be confusing. Here is a trick! Just replace the arrows with numbers. Vector A would be +4 while vector B would be -3. 
 
 What is A+B and what is A -B? Much easier with numbers right?
+
+**End of week 1 course content. Click on "next" in canvas module week 1 to start your weekly assignments. (or go back to canvas module week 1 if you are outside canvas).**
