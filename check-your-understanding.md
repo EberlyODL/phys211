@@ -1,3 +1,11 @@
+##Problem solving video
+
+Question: 
+Two runners in a 100 m race start from the same place. Runner A starts as soon as the starting gun is fired and runs at a constant speed of 8.00 m/s. Runner B starts 2.00 s later and runs at a constant speed of 9.30 m/s. 
+a) who wins the race?
+b) how far behind is the loser?
+
+
 [ciscode|rev=1|tool=elmsmedia|item=4678|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 Here is the pdf solution of the problem solved in the video. 
