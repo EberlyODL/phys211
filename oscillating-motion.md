@@ -21,8 +21,7 @@ Your book covers oscillatory motion in one chapter at the end. In this class, we
   <span slot="message">Section 15.1 and 15.4 until equation 15.28</span>
 </stop-note>
 
-
-Read carefully your book and my chapter review. We will limit our analysis to simple harmonic motion where the motion is sinusoidal.
+We will limit our analysis to simple harmonic motion where the motion is sinusoidal.
 
 [ciscode|rev=1|tool=elmsmedia|item=4257|entity_type=node|render=display_mode|display_mode=image]
 
