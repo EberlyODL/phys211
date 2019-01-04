@@ -4,7 +4,7 @@
 
 The video above illustrates the independence of horizontal versus vertical motion.  Motion is relative and different reference frame will measured different velocities.
 
-Read carefully the textbook for section 4.3 and my chapter summary. The ideas are simple but it can become quite confusing when solving problems.
+Read carefully the textbook for section 4.3. The ideas are simple but it can become quite confusing when solving problems.
 
 Section 4.3 is a great place to do careful reading as we discussed in week 1B "Reading and Studying Methods". The method is as follows. 
 
