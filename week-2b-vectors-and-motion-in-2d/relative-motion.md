@@ -37,3 +37,16 @@ Typical problems in relative motion are crossing a river and distinguishing betw
 
 Try to do both example 4.7 and 4.8 on your own before looking at Knight's solution. 
 
+## Problem Solving video
+
+Q. Rain is falling with a speed of 2 m/s with respect to the ground at angle of 30° from the vertical (counterclockwise from the -y axis; see picture). A car drives through the rain at a constant velocity, such that the rain appears to the driver of the car to be falling straight down along the vertical. What is the velocity of the car with respect to the ground?
+
+
+[ciscode|rev=1|tool=elmsmedia|item=4809|entity_type=node|render=display_mode|display_mode=image]
+
+[ciscode|rev=1|tool=elmsmedia|item=4807|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+The worksheet for this problem is available here
+
+[ciscode|rev=1|tool=elmsmedia|item=4762|entity_type=node|render=display_mode|display_mode=document]
+
