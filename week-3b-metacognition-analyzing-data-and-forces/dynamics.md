@@ -19,5 +19,3 @@ In the following video, I will demonstrate many of the forces we will discuss in
 Tactics Box 5.2 and Tactics Box 5.3 are crucial to master for the rest of the course. Practice both by looking at examples 5.5 and 5.6 (and the reading quiz).
 </lrndesign-sidenote>
 
-
-Read my chapter summary!
