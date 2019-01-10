@@ -25,7 +25,7 @@ To be a successful student, you need to think about your own thinking. Below are
 Which of the following do you think is the MOST important ingredient for successful learning? 
 
 1.  The intention and desire to learn 
-2.  Paying close atenttion to the material as you 
+2.  Paying close attention to the material as you 
 study 
 3.  Learning in a way that matches your  personal Learning Style? 
 4.  The time you spend studying 
