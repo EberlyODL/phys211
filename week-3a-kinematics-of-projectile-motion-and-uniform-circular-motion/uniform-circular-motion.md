@@ -24,7 +24,7 @@ We will take counter clockwise rotation to be positive and clockwise rotation to
 
 ### Connecting angular variables to linear variables
 
-For circular motion, we will not use the x-y coordinate system that we have been using up to now. Instead we will talk about radial (r) and tangential (t) direction. the radial direction points toward the center of the circle. This is really a coordinate system that spins with the motion.
+For circular motion, we will not use the x-y coordinate system that we have been using up to now. Instead we will talk about radial (r) and tangential (t) direction. The radial direction points toward the center of the circle. This is really a coordinate system that spins with the motion.
 
 [ciscode|rev=1|tool=elmsmedia|item=4290|entity_type=node|render=display_mode|display_mode=image]
 
